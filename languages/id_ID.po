@@ -5,41 +5,39 @@ msgstr ""
 "Project-Id-Version: RD Mobile 0.1.0\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/rdmobile\n"
 "POT-Creation-Date: 2018-10-17 13:05:32+00:00\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2018-MO-DA HO:MI+ZONE\n"
-"Last-Translator: ReeZh Design <hireus@reezhdesign.com>\n"
+"PO-Revision-Date: 2018-10-17 19:59+0700\n"
+"Last-Translator: Arissandi <arissandi@gmail.com>\n"
 "Language-Team: ReeZh Design <hireus@reezhdesign.com>\n"
-"Language: en\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Poedit-Country: Indonesia\n"
-"X-Poedit-SourceCharset: UTF-8\n"
-"X-Poedit-KeywordsList: "
-"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
-"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
-"X-Poedit-Basepath: ../\n"
+"Language: id\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_n\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "X-Poedit-SearchPath-0: .\n"
-"X-Poedit-Bookmarks: \n"
-"X-Textdomain-Support: yes\n"
-"X-Poedit-Language: Indonesian\n"
-"X-Generator: grunt-wp-i18n1.0.2\n"
+"X-Poedit-SearchPathExcluded-0: release\n"
+"X-Poedit-SearchPathExcluded-1: node_modules\n"
+"X-Poedit-SearchPathExcluded-2: bin\n"
+"X-Poedit-SearchPathExcluded-3: tests\n"
+"X-Poedit-SearchPathExcluded-4: vendor\n"
 
 #: includes/class-options.php:163 release/0.1.0/includes/class-options.php:163
 #: release/svn/includes/class-options.php:163
 msgid "62"
-msgstr ""
+msgstr "62"
 
 #: includes/class-frontend.php:95 release/0.1.0/includes/class-frontend.php:95
 #: release/svn/includes/class-frontend.php:95
 msgid "Call Us"
-msgstr ""
+msgstr "Telepon Kami"
 
 #: includes/class-frontend.php:104
 #: release/0.1.0/includes/class-frontend.php:104
 #: release/svn/includes/class-frontend.php:104
 msgid "Chat Us"
-msgstr ""
+msgstr "Chat Kami"
 
 #. Plugin Name of the plugin/theme
 msgid "RD Mobile"
@@ -48,1227 +46,1227 @@ msgstr ""
 #: includes/class-options.php:158 release/0.1.0/includes/class-options.php:158
 #: release/svn/includes/class-options.php:158
 msgid "Country Code"
-msgstr ""
+msgstr "Kode Negara"
 
 #: includes/class-options.php:159 release/0.1.0/includes/class-options.php:159
 #: release/svn/includes/class-options.php:159
 msgid "Choose your country code"
-msgstr ""
+msgstr "Pilih kode negara anda"
 
 #: includes/class-options.php:165 release/0.1.0/includes/class-options.php:165
 #: release/svn/includes/class-options.php:165
 msgid "Afghanistan | 93"
-msgstr ""
+msgstr "Afghanistan | 93"
 
 #: includes/class-options.php:166 release/0.1.0/includes/class-options.php:166
 #: release/svn/includes/class-options.php:166
 msgid "Albania | 355"
-msgstr ""
+msgstr "Albania | 355"
 
 #: includes/class-options.php:167 release/0.1.0/includes/class-options.php:167
 #: release/svn/includes/class-options.php:167
 msgid "Algeria | 213"
-msgstr ""
+msgstr "Algeria | 213"
 
 #: includes/class-options.php:168 release/0.1.0/includes/class-options.php:168
 #: release/svn/includes/class-options.php:168
 msgid "American Samoa | 1-684"
-msgstr ""
+msgstr "American Samoa | 1-684"
 
 #: includes/class-options.php:169 release/0.1.0/includes/class-options.php:169
 #: release/svn/includes/class-options.php:169
 msgid "Andorra | 376"
-msgstr ""
+msgstr "Andorra | 376"
 
 #: includes/class-options.php:170 release/0.1.0/includes/class-options.php:170
 #: release/svn/includes/class-options.php:170
 msgid "Angola | 244"
-msgstr ""
+msgstr "Angola | 244"
 
 #: includes/class-options.php:171 release/0.1.0/includes/class-options.php:171
 #: release/svn/includes/class-options.php:171
 msgid "Anguilla | 1-264"
-msgstr ""
+msgstr "Anguilla | 1-264"
 
 #: includes/class-options.php:172 release/0.1.0/includes/class-options.php:172
 #: release/svn/includes/class-options.php:172
 msgid "Antarctica | 672"
-msgstr ""
+msgstr "Antarctica | 672"
 
 #: includes/class-options.php:173 release/0.1.0/includes/class-options.php:173
 #: release/svn/includes/class-options.php:173
 msgid "Antigua and Barbuda | 1-268"
-msgstr ""
+msgstr "Antigua and Barbuda | 1-268"
 
 #: includes/class-options.php:174 release/0.1.0/includes/class-options.php:174
 #: release/svn/includes/class-options.php:174
 msgid "Argentina | 54"
-msgstr ""
+msgstr "Argentina | 54"
 
 #: includes/class-options.php:175 release/0.1.0/includes/class-options.php:175
 #: release/svn/includes/class-options.php:175
 msgid "Armenia | 374"
-msgstr ""
+msgstr "Armenia | 374"
 
 #: includes/class-options.php:176 release/0.1.0/includes/class-options.php:176
 #: release/svn/includes/class-options.php:176
 msgid "Aruba | 297"
-msgstr ""
+msgstr "Aruba | 297"
 
 #: includes/class-options.php:177 release/0.1.0/includes/class-options.php:177
 #: release/svn/includes/class-options.php:177
 msgid "Australia, Christmas Island, Cocos Islands | 61"
-msgstr ""
+msgstr "Australia, Christmas Island, Cocos Islands | 61"
 
 #: includes/class-options.php:178 release/0.1.0/includes/class-options.php:178
 #: release/svn/includes/class-options.php:178
 msgid "Austria | 43"
-msgstr ""
+msgstr "Austria | 43"
 
 #: includes/class-options.php:179 release/0.1.0/includes/class-options.php:179
 #: release/svn/includes/class-options.php:179
 msgid "Azerbaijan | 994"
-msgstr ""
+msgstr "Azerbaijan | 994"
 
 #: includes/class-options.php:180 release/0.1.0/includes/class-options.php:180
 #: release/svn/includes/class-options.php:180
 msgid "Bahamas | 1-242"
-msgstr ""
+msgstr "Bahamas | 1-242"
 
 #: includes/class-options.php:181 release/0.1.0/includes/class-options.php:181
 #: release/svn/includes/class-options.php:181
 msgid "Bahrain | 973"
-msgstr ""
+msgstr "Bahrain | 973"
 
 #: includes/class-options.php:182 release/0.1.0/includes/class-options.php:182
 #: release/svn/includes/class-options.php:182
 msgid "Bangladesh | 880"
-msgstr ""
+msgstr "Bangladesh | 880"
 
 #: includes/class-options.php:183 release/0.1.0/includes/class-options.php:183
 #: release/svn/includes/class-options.php:183
 msgid "Barbados | 1-246"
-msgstr ""
+msgstr "Barbados | 1-246"
 
 #: includes/class-options.php:184 release/0.1.0/includes/class-options.php:184
 #: release/svn/includes/class-options.php:184
 msgid "Belarus | 375"
-msgstr ""
+msgstr "Belarus | 375"
 
 #: includes/class-options.php:185 release/0.1.0/includes/class-options.php:185
 #: release/svn/includes/class-options.php:185
 msgid "Belgium | 32"
-msgstr ""
+msgstr "Belgium | 32"
 
 #: includes/class-options.php:186 release/0.1.0/includes/class-options.php:186
 #: release/svn/includes/class-options.php:186
 msgid "Belize | 501"
-msgstr ""
+msgstr "Belize | 501"
 
 #: includes/class-options.php:187 release/0.1.0/includes/class-options.php:187
 #: release/svn/includes/class-options.php:187
 msgid "Benin | 229"
-msgstr ""
+msgstr "Benin | 229"
 
 #: includes/class-options.php:188 release/0.1.0/includes/class-options.php:188
 #: release/svn/includes/class-options.php:188
 msgid "Bermuda | 1-441"
-msgstr ""
+msgstr "Bermuda | 1-441"
 
 #: includes/class-options.php:189 release/0.1.0/includes/class-options.php:189
 #: release/svn/includes/class-options.php:189
 msgid "Bhutan | 975"
-msgstr ""
+msgstr "Bhutan | 975"
 
 #: includes/class-options.php:190 release/0.1.0/includes/class-options.php:190
 #: release/svn/includes/class-options.php:190
 msgid "Bolivia | 591"
-msgstr ""
+msgstr "Bolivia | 591"
 
 #: includes/class-options.php:191 release/0.1.0/includes/class-options.php:191
 #: release/svn/includes/class-options.php:191
 msgid "Bosnia and Herzegovina | 387"
-msgstr ""
+msgstr "Bosnia and Herzegovina | 387"
 
 #: includes/class-options.php:192 release/0.1.0/includes/class-options.php:192
 #: release/svn/includes/class-options.php:192
 msgid "Botswana | 267"
-msgstr ""
+msgstr "Botswana | 267"
 
 #: includes/class-options.php:193 release/0.1.0/includes/class-options.php:193
 #: release/svn/includes/class-options.php:193
 msgid "Brazil | 55"
-msgstr ""
+msgstr "Brazil | 55"
 
 #: includes/class-options.php:194 release/0.1.0/includes/class-options.php:194
 #: release/svn/includes/class-options.php:194
 msgid "British Indian Ocean Territory | 246"
-msgstr ""
+msgstr "British Indian Ocean Territory | 246"
 
 #: includes/class-options.php:195 release/0.1.0/includes/class-options.php:195
 #: release/svn/includes/class-options.php:195
 msgid "British Virgin Islands | 1-284"
-msgstr ""
+msgstr "British Virgin Islands | 1-284"
 
 #: includes/class-options.php:196 release/0.1.0/includes/class-options.php:196
 #: release/svn/includes/class-options.php:196
 msgid "Brunei | 673"
-msgstr ""
+msgstr "Brunei | 673"
 
 #: includes/class-options.php:197 release/0.1.0/includes/class-options.php:197
 #: release/svn/includes/class-options.php:197
 msgid "Bulgaria | 359"
-msgstr ""
+msgstr "Bulgaria | 359"
 
 #: includes/class-options.php:198 release/0.1.0/includes/class-options.php:198
 #: release/svn/includes/class-options.php:198
 msgid "Burkina Faso | 226"
-msgstr ""
+msgstr "Burkina Faso | 226"
 
 #: includes/class-options.php:199 release/0.1.0/includes/class-options.php:199
 #: release/svn/includes/class-options.php:199
 msgid "Burundi | 257"
-msgstr ""
+msgstr "Burundi | 257"
 
 #: includes/class-options.php:200 release/0.1.0/includes/class-options.php:200
 #: release/svn/includes/class-options.php:200
 msgid "Cambodia | 855"
-msgstr ""
+msgstr "Cambodia | 855"
 
 #: includes/class-options.php:201 release/0.1.0/includes/class-options.php:201
 #: release/svn/includes/class-options.php:201
 msgid "Cameroon | 237"
-msgstr ""
+msgstr "Cameroon | 237"
 
 #: includes/class-options.php:202 release/0.1.0/includes/class-options.php:202
 #: release/svn/includes/class-options.php:202
 msgid "Canada | 1"
-msgstr ""
+msgstr "Canada | 1"
 
 #: includes/class-options.php:203 release/0.1.0/includes/class-options.php:203
 #: release/svn/includes/class-options.php:203
 msgid "Cape Verde | 238"
-msgstr ""
+msgstr "Cape Verde | 238"
 
 #: includes/class-options.php:204 release/0.1.0/includes/class-options.php:204
 #: release/svn/includes/class-options.php:204
 msgid "Cayman Islands | 1-345"
-msgstr ""
+msgstr "Cayman Islands | 1-345"
 
 #: includes/class-options.php:205 release/0.1.0/includes/class-options.php:205
 #: release/svn/includes/class-options.php:205
 msgid "Central African Republic | 236"
-msgstr ""
+msgstr "Central African Republic | 236"
 
 #: includes/class-options.php:206 release/0.1.0/includes/class-options.php:206
 #: release/svn/includes/class-options.php:206
 msgid "Chad | 235"
-msgstr ""
+msgstr "Chad | 235"
 
 #: includes/class-options.php:207 release/0.1.0/includes/class-options.php:207
 #: release/svn/includes/class-options.php:207
 msgid "Chile | 56"
-msgstr ""
+msgstr "Chile | 56"
 
 #: includes/class-options.php:208 release/0.1.0/includes/class-options.php:208
 #: release/svn/includes/class-options.php:208
 msgid "China | 86"
-msgstr ""
+msgstr "China | 86"
 
 #: includes/class-options.php:209 release/0.1.0/includes/class-options.php:209
 #: release/svn/includes/class-options.php:209
 msgid "Colombia | 57"
-msgstr ""
+msgstr "Colombia | 57"
 
 #: includes/class-options.php:210 release/0.1.0/includes/class-options.php:210
 #: release/svn/includes/class-options.php:210
 msgid "Comoros | 269"
-msgstr ""
+msgstr "Comoros | 269"
 
 #: includes/class-options.php:211 release/0.1.0/includes/class-options.php:211
 #: release/svn/includes/class-options.php:211
 msgid "Cook Islands | 682"
-msgstr ""
+msgstr "Cook Islands | 682"
 
 #: includes/class-options.php:212 release/0.1.0/includes/class-options.php:212
 #: release/svn/includes/class-options.php:212
 msgid "Costa Rica | 506"
-msgstr ""
+msgstr "Costa Rica | 506"
 
 #: includes/class-options.php:213 release/0.1.0/includes/class-options.php:213
 #: release/svn/includes/class-options.php:213
 msgid "Croatia | 385"
-msgstr ""
+msgstr "Croatia | 385"
 
 #: includes/class-options.php:214 release/0.1.0/includes/class-options.php:214
 #: release/svn/includes/class-options.php:214
 msgid "Cuba | 53"
-msgstr ""
+msgstr "Cuba | 53"
 
 #: includes/class-options.php:215 release/0.1.0/includes/class-options.php:215
 #: release/svn/includes/class-options.php:215
 msgid "Curacao | 599"
-msgstr ""
+msgstr "Curacao | 599"
 
 #: includes/class-options.php:216 release/0.1.0/includes/class-options.php:216
 #: release/svn/includes/class-options.php:216
 msgid "Cyprus | 357"
-msgstr ""
+msgstr "Cyprus | 357"
 
 #: includes/class-options.php:217 release/0.1.0/includes/class-options.php:217
 #: release/svn/includes/class-options.php:217
 msgid "Czech Republic | 420"
-msgstr ""
+msgstr "Czech Republic | 420"
 
 #: includes/class-options.php:218 release/0.1.0/includes/class-options.php:218
 #: release/svn/includes/class-options.php:218
 msgid "Democratic Republic of the Congo | 243"
-msgstr ""
+msgstr "Democratic Republic of the Congo | 243"
 
 #: includes/class-options.php:219 release/0.1.0/includes/class-options.php:219
 #: release/svn/includes/class-options.php:219
 msgid "Denmark | 45"
-msgstr ""
+msgstr "Denmark | 45"
 
 #: includes/class-options.php:220 release/0.1.0/includes/class-options.php:220
 #: release/svn/includes/class-options.php:220
 msgid "Djibouti | 253"
-msgstr ""
+msgstr "Djibouti | 253"
 
 #: includes/class-options.php:221 release/0.1.0/includes/class-options.php:221
 #: release/svn/includes/class-options.php:221
 msgid "Dominica | 1-767"
-msgstr ""
+msgstr "Dominica | 1-767"
 
 #: includes/class-options.php:222 release/0.1.0/includes/class-options.php:222
 #: release/svn/includes/class-options.php:222
 msgid "Dominican Republic | 1-809"
-msgstr ""
+msgstr "Dominican Republic | 1-809"
 
 #: includes/class-options.php:223 release/0.1.0/includes/class-options.php:223
 #: release/svn/includes/class-options.php:223
 msgid "Dominican Republic | 1-829"
-msgstr ""
+msgstr "Dominican Republic | 1-829"
 
 #: includes/class-options.php:224 release/0.1.0/includes/class-options.php:224
 #: release/svn/includes/class-options.php:224
 msgid "Dominican Republic | 1-849"
-msgstr ""
+msgstr "Dominican Republic | 1-849"
 
 #: includes/class-options.php:225 release/0.1.0/includes/class-options.php:225
 #: release/svn/includes/class-options.php:225
 msgid "East Timor | 670"
-msgstr ""
+msgstr "East Timor | 670"
 
 #: includes/class-options.php:226 release/0.1.0/includes/class-options.php:226
 #: release/svn/includes/class-options.php:226
 msgid "Ecuador | 593"
-msgstr ""
+msgstr "Ecuador | 593"
 
 #: includes/class-options.php:227 release/0.1.0/includes/class-options.php:227
 #: release/svn/includes/class-options.php:227
 msgid "Egypt | 20"
-msgstr ""
+msgstr "Egypt | 20"
 
 #: includes/class-options.php:228 release/0.1.0/includes/class-options.php:228
 #: release/svn/includes/class-options.php:228
 msgid "El Salvador | 503"
-msgstr ""
+msgstr "El Salvador | 503"
 
 #: includes/class-options.php:229 release/0.1.0/includes/class-options.php:229
 #: release/svn/includes/class-options.php:229
 msgid "Equatorial Guinea | 240"
-msgstr ""
+msgstr "Equatorial Guinea | 240"
 
 #: includes/class-options.php:230 release/0.1.0/includes/class-options.php:230
 #: release/svn/includes/class-options.php:230
 msgid "Eritrea | 291"
-msgstr ""
+msgstr "Eritrea | 291"
 
 #: includes/class-options.php:231 release/0.1.0/includes/class-options.php:231
 #: release/svn/includes/class-options.php:231
 msgid "Estonia | 372"
-msgstr ""
+msgstr "Estonia | 372"
 
 #: includes/class-options.php:232 release/0.1.0/includes/class-options.php:232
 #: release/svn/includes/class-options.php:232
 msgid "Ethiopia | 251"
-msgstr ""
+msgstr "Ethiopia | 251"
 
 #: includes/class-options.php:233 release/0.1.0/includes/class-options.php:233
 #: release/svn/includes/class-options.php:233
 msgid "Falkland Islands | 500"
-msgstr ""
+msgstr "Falkland Islands | 500"
 
 #: includes/class-options.php:234 release/0.1.0/includes/class-options.php:234
 #: release/svn/includes/class-options.php:234
 msgid "Faroe Islands | 298"
-msgstr ""
+msgstr "Faroe Islands | 298"
 
 #: includes/class-options.php:235 release/0.1.0/includes/class-options.php:235
 #: release/svn/includes/class-options.php:235
 msgid "Fiji | 679"
-msgstr ""
+msgstr "Fiji | 679"
 
 #: includes/class-options.php:236 release/0.1.0/includes/class-options.php:236
 #: release/svn/includes/class-options.php:236
 msgid "Finland | 358"
-msgstr ""
+msgstr "Finland | 358"
 
 #: includes/class-options.php:237 release/0.1.0/includes/class-options.php:237
 #: release/svn/includes/class-options.php:237
 msgid "France | 33"
-msgstr ""
+msgstr "France | 33"
 
 #: includes/class-options.php:238 release/0.1.0/includes/class-options.php:238
 #: release/svn/includes/class-options.php:238
 msgid "French Polynesia | 689"
-msgstr ""
+msgstr "French Polynesia | 689"
 
 #: includes/class-options.php:239 release/0.1.0/includes/class-options.php:239
 #: release/svn/includes/class-options.php:239
 msgid "Gabon | 241"
-msgstr ""
+msgstr "Gabon | 241"
 
 #: includes/class-options.php:240 release/0.1.0/includes/class-options.php:240
 #: release/svn/includes/class-options.php:240
 msgid "Gambia | 220"
-msgstr ""
+msgstr "Gambia | 220"
 
 #: includes/class-options.php:241 release/0.1.0/includes/class-options.php:241
 #: release/svn/includes/class-options.php:241
 msgid "Georgia | 995"
-msgstr ""
+msgstr "Georgia | 995"
 
 #: includes/class-options.php:242 release/0.1.0/includes/class-options.php:242
 #: release/svn/includes/class-options.php:242
 msgid "Germany | 49"
-msgstr ""
+msgstr "Germany | 49"
 
 #: includes/class-options.php:243 release/0.1.0/includes/class-options.php:243
 #: release/svn/includes/class-options.php:243
 msgid "Ghana | 233"
-msgstr ""
+msgstr "Ghana | 233"
 
 #: includes/class-options.php:244 release/0.1.0/includes/class-options.php:244
 #: release/svn/includes/class-options.php:244
 msgid "Gibraltar | 350"
-msgstr ""
+msgstr "Gibraltar | 350"
 
 #: includes/class-options.php:245 release/0.1.0/includes/class-options.php:245
 #: release/svn/includes/class-options.php:245
 msgid "Greece | 30"
-msgstr ""
+msgstr "Greece | 30"
 
 #: includes/class-options.php:246 release/0.1.0/includes/class-options.php:246
 #: release/svn/includes/class-options.php:246
 msgid "Greenland | 299"
-msgstr ""
+msgstr "Greenland | 299"
 
 #: includes/class-options.php:247 release/0.1.0/includes/class-options.php:247
 #: release/svn/includes/class-options.php:247
 msgid "Grenada | 1-473"
-msgstr ""
+msgstr "Grenada | 1-473"
 
 #: includes/class-options.php:248 release/0.1.0/includes/class-options.php:248
 #: release/svn/includes/class-options.php:248
 msgid "Guam | 1-671"
-msgstr ""
+msgstr "Guam | 1-671"
 
 #: includes/class-options.php:249 release/0.1.0/includes/class-options.php:249
 #: release/svn/includes/class-options.php:249
 msgid "Guatemala | 502"
-msgstr ""
+msgstr "Guatemala | 502"
 
 #: includes/class-options.php:250 release/0.1.0/includes/class-options.php:250
 #: release/svn/includes/class-options.php:250
 msgid "Guernsey | 44-1481"
-msgstr ""
+msgstr "Guernsey | 44-1481"
 
 #: includes/class-options.php:251 release/0.1.0/includes/class-options.php:251
 #: release/svn/includes/class-options.php:251
 msgid "Guinea | 224"
-msgstr ""
+msgstr "Guinea | 224"
 
 #: includes/class-options.php:252 release/0.1.0/includes/class-options.php:252
 #: release/svn/includes/class-options.php:252
 msgid "Guinea-Bissau | 245"
-msgstr ""
+msgstr "Guinea-Bissau | 245"
 
 #: includes/class-options.php:253 release/0.1.0/includes/class-options.php:253
 #: release/svn/includes/class-options.php:253
 msgid "Guyana | 592"
-msgstr ""
+msgstr "Guyana | 592"
 
 #: includes/class-options.php:254 release/0.1.0/includes/class-options.php:254
 #: release/svn/includes/class-options.php:254
 msgid "Haiti | 509"
-msgstr ""
+msgstr "Haiti | 509"
 
 #: includes/class-options.php:255 release/0.1.0/includes/class-options.php:255
 #: release/svn/includes/class-options.php:255
 msgid "Honduras | 504"
-msgstr ""
+msgstr "Honduras | 504"
 
 #: includes/class-options.php:256 release/0.1.0/includes/class-options.php:256
 #: release/svn/includes/class-options.php:256
 msgid "Hong Kong | 852"
-msgstr ""
+msgstr "Hong Kong | 852"
 
 #: includes/class-options.php:257 release/0.1.0/includes/class-options.php:257
 #: release/svn/includes/class-options.php:257
 msgid "Hungary | 36"
-msgstr ""
+msgstr "Hungary | 36"
 
 #: includes/class-options.php:258 release/0.1.0/includes/class-options.php:258
 #: release/svn/includes/class-options.php:258
 msgid "Iceland | 354"
-msgstr ""
+msgstr "Iceland | 354"
 
 #: includes/class-options.php:259 release/0.1.0/includes/class-options.php:259
 #: release/svn/includes/class-options.php:259
 msgid "India | 91"
-msgstr ""
+msgstr "India | 91"
 
 #: includes/class-options.php:260 release/0.1.0/includes/class-options.php:260
 #: release/svn/includes/class-options.php:260
 msgid "Indonesia | 62"
-msgstr ""
+msgstr "Indonesia | 62"
 
 #: includes/class-options.php:261 release/0.1.0/includes/class-options.php:261
 #: release/svn/includes/class-options.php:261
 msgid "Iran | 98"
-msgstr ""
+msgstr "Iran | 98"
 
 #: includes/class-options.php:262 release/0.1.0/includes/class-options.php:262
 #: release/svn/includes/class-options.php:262
 msgid "Iraq | 964"
-msgstr ""
+msgstr "Iraq | 964"
 
 #: includes/class-options.php:263 release/0.1.0/includes/class-options.php:263
 #: release/svn/includes/class-options.php:263
 msgid "Ireland | 353"
-msgstr ""
+msgstr "Ireland | 353"
 
 #: includes/class-options.php:264 release/0.1.0/includes/class-options.php:264
 #: release/svn/includes/class-options.php:264
 msgid "Isle of Man | 44-1624"
-msgstr ""
+msgstr "Isle of Man | 44-1624"
 
 #: includes/class-options.php:265 release/0.1.0/includes/class-options.php:265
 #: release/svn/includes/class-options.php:265
 msgid "Israel | 972"
-msgstr ""
+msgstr "Israel | 972"
 
 #: includes/class-options.php:266 release/0.1.0/includes/class-options.php:266
 #: release/svn/includes/class-options.php:266
 msgid "Italy | 39"
-msgstr ""
+msgstr "Italy | 39"
 
 #: includes/class-options.php:267 release/0.1.0/includes/class-options.php:267
 #: release/svn/includes/class-options.php:267
 msgid "Ivory Coast | 225"
-msgstr ""
+msgstr "Ivory Coast | 225"
 
 #: includes/class-options.php:268 release/0.1.0/includes/class-options.php:268
 #: release/svn/includes/class-options.php:268
 msgid "Jamaica | 1-876"
-msgstr ""
+msgstr "Jamaica | 1-876"
 
 #: includes/class-options.php:269 release/0.1.0/includes/class-options.php:269
 #: release/svn/includes/class-options.php:269
 msgid "Japan | 81"
-msgstr ""
+msgstr "Japan | 81"
 
 #: includes/class-options.php:270 release/0.1.0/includes/class-options.php:270
 #: release/svn/includes/class-options.php:270
 msgid "Jersey | 44-1534"
-msgstr ""
+msgstr "Jersey | 44-1534"
 
 #: includes/class-options.php:271 release/0.1.0/includes/class-options.php:271
 #: release/svn/includes/class-options.php:271
 msgid "Jordan | 962"
-msgstr ""
+msgstr "Jordan | 962"
 
 #: includes/class-options.php:272 release/0.1.0/includes/class-options.php:272
 #: release/svn/includes/class-options.php:272
 msgid "Kazakhstan | 7"
-msgstr ""
+msgstr "Kazakhstan | 7"
 
 #: includes/class-options.php:273 release/0.1.0/includes/class-options.php:273
 #: release/svn/includes/class-options.php:273
 msgid "Kenya | 254"
-msgstr ""
+msgstr "Kenya | 254"
 
 #: includes/class-options.php:274 release/0.1.0/includes/class-options.php:274
 #: release/svn/includes/class-options.php:274
 msgid "Kiribati | 686"
-msgstr ""
+msgstr "Kiribati | 686"
 
 #: includes/class-options.php:275 release/0.1.0/includes/class-options.php:275
 #: release/svn/includes/class-options.php:275
 msgid "Kosovo | 383"
-msgstr ""
+msgstr "Kosovo | 383"
 
 #: includes/class-options.php:276 release/0.1.0/includes/class-options.php:276
 #: release/svn/includes/class-options.php:276
 msgid "Kuwait | 965"
-msgstr ""
+msgstr "Kuwait | 965"
 
 #: includes/class-options.php:277 release/0.1.0/includes/class-options.php:277
 #: release/svn/includes/class-options.php:277
 msgid "Kyrgyzstan | 996"
-msgstr ""
+msgstr "Kyrgyzstan | 996"
 
 #: includes/class-options.php:278 release/0.1.0/includes/class-options.php:278
 #: release/svn/includes/class-options.php:278
 msgid "Laos | 856"
-msgstr ""
+msgstr "Laos | 856"
 
 #: includes/class-options.php:279 release/0.1.0/includes/class-options.php:279
 #: release/svn/includes/class-options.php:279
 msgid "Latvia | 371"
-msgstr ""
+msgstr "Latvia | 371"
 
 #: includes/class-options.php:280 release/0.1.0/includes/class-options.php:280
 #: release/svn/includes/class-options.php:280
 msgid "Lebanon | 961"
-msgstr ""
+msgstr "Lebanon | 961"
 
 #: includes/class-options.php:281 release/0.1.0/includes/class-options.php:281
 #: release/svn/includes/class-options.php:281
 msgid "Lesotho | 266"
-msgstr ""
+msgstr "Lesotho | 266"
 
 #: includes/class-options.php:282 release/0.1.0/includes/class-options.php:282
 #: release/svn/includes/class-options.php:282
 msgid "Liberia | 231"
-msgstr ""
+msgstr "Liberia | 231"
 
 #: includes/class-options.php:283 release/0.1.0/includes/class-options.php:283
 #: release/svn/includes/class-options.php:283
 msgid "Libya | 218"
-msgstr ""
+msgstr "Libya | 218"
 
 #: includes/class-options.php:284 release/0.1.0/includes/class-options.php:284
 #: release/svn/includes/class-options.php:284
 msgid "Liechtenstein | 423"
-msgstr ""
+msgstr "Liechtenstein | 423"
 
 #: includes/class-options.php:285 release/0.1.0/includes/class-options.php:285
 #: release/svn/includes/class-options.php:285
 msgid "Lithuania | 370"
-msgstr ""
+msgstr "Lithuania | 370"
 
 #: includes/class-options.php:286 release/0.1.0/includes/class-options.php:286
 #: release/svn/includes/class-options.php:286
 msgid "Luxembourg | 352"
-msgstr ""
+msgstr "Luxembourg | 352"
 
 #: includes/class-options.php:287 release/0.1.0/includes/class-options.php:287
 #: release/svn/includes/class-options.php:287
 msgid "Macau | 853"
-msgstr ""
+msgstr "Macau | 853"
 
 #: includes/class-options.php:288 release/0.1.0/includes/class-options.php:288
 #: release/svn/includes/class-options.php:288
 msgid "Macedonia | 389"
-msgstr ""
+msgstr "Macedonia | 389"
 
 #: includes/class-options.php:289 release/0.1.0/includes/class-options.php:289
 #: release/svn/includes/class-options.php:289
 msgid "Madagascar | 261"
-msgstr ""
+msgstr "Madagascar | 261"
 
 #: includes/class-options.php:290 release/0.1.0/includes/class-options.php:290
 #: release/svn/includes/class-options.php:290
 msgid "Malawi | 265"
-msgstr ""
+msgstr "Malawi | 265"
 
 #: includes/class-options.php:291 release/0.1.0/includes/class-options.php:291
 #: release/svn/includes/class-options.php:291
 msgid "Malaysia | 60"
-msgstr ""
+msgstr "Malaysia | 60"
 
 #: includes/class-options.php:292 release/0.1.0/includes/class-options.php:292
 #: release/svn/includes/class-options.php:292
 msgid "Maldives | 960"
-msgstr ""
+msgstr "Maldives | 960"
 
 #: includes/class-options.php:293 release/0.1.0/includes/class-options.php:293
 #: release/svn/includes/class-options.php:293
 msgid "Mali | 223"
-msgstr ""
+msgstr "Mali | 223"
 
 #: includes/class-options.php:294 release/0.1.0/includes/class-options.php:294
 #: release/svn/includes/class-options.php:294
 msgid "Malta | 356"
-msgstr ""
+msgstr "Malta | 356"
 
 #: includes/class-options.php:295 release/0.1.0/includes/class-options.php:295
 #: release/svn/includes/class-options.php:295
 msgid "Marshall Islands | 692"
-msgstr ""
+msgstr "Marshall Islands | 692"
 
 #: includes/class-options.php:296 release/0.1.0/includes/class-options.php:296
 #: release/svn/includes/class-options.php:296
 msgid "Mauritania | 222"
-msgstr ""
+msgstr "Mauritania | 222"
 
 #: includes/class-options.php:297 release/0.1.0/includes/class-options.php:297
 #: release/svn/includes/class-options.php:297
 msgid "Mauritius | 230"
-msgstr ""
+msgstr "Mauritius | 230"
 
 #: includes/class-options.php:298 release/0.1.0/includes/class-options.php:298
 #: release/svn/includes/class-options.php:298
 msgid "Mayotte | 262"
-msgstr ""
+msgstr "Mayotte | 262"
 
 #: includes/class-options.php:299 release/0.1.0/includes/class-options.php:299
 #: release/svn/includes/class-options.php:299
 msgid "Mexico | 52"
-msgstr ""
+msgstr "Mexico | 52"
 
 #: includes/class-options.php:300 release/0.1.0/includes/class-options.php:300
 #: release/svn/includes/class-options.php:300
 msgid "Micronesia | 691"
-msgstr ""
+msgstr "Micronesia | 691"
 
 #: includes/class-options.php:301 release/0.1.0/includes/class-options.php:301
 #: release/svn/includes/class-options.php:301
 msgid "Moldova | 373"
-msgstr ""
+msgstr "Moldova | 373"
 
 #: includes/class-options.php:302 release/0.1.0/includes/class-options.php:302
 #: release/svn/includes/class-options.php:302
 msgid "Monaco | 377"
-msgstr ""
+msgstr "Monaco | 377"
 
 #: includes/class-options.php:303 release/0.1.0/includes/class-options.php:303
 #: release/svn/includes/class-options.php:303
 msgid "Mongolia | 976"
-msgstr ""
+msgstr "Mongolia | 976"
 
 #: includes/class-options.php:304 release/0.1.0/includes/class-options.php:304
 #: release/svn/includes/class-options.php:304
 msgid "Montenegro | 382"
-msgstr ""
+msgstr "Montenegro | 382"
 
 #: includes/class-options.php:305 release/0.1.0/includes/class-options.php:305
 #: release/svn/includes/class-options.php:305
 msgid "Montserrat | 1-664"
-msgstr ""
+msgstr "Montserrat | 1-664"
 
 #: includes/class-options.php:306 release/0.1.0/includes/class-options.php:306
 #: release/svn/includes/class-options.php:306
 msgid "Morocco | 212"
-msgstr ""
+msgstr "Morocco | 212"
 
 #: includes/class-options.php:307 release/0.1.0/includes/class-options.php:307
 #: release/svn/includes/class-options.php:307
 msgid "Mozambique | 258"
-msgstr ""
+msgstr "Mozambique | 258"
 
 #: includes/class-options.php:308 release/0.1.0/includes/class-options.php:308
 #: release/svn/includes/class-options.php:308
 msgid "Myanmar | 95"
-msgstr ""
+msgstr "Myanmar | 95"
 
 #: includes/class-options.php:309 release/0.1.0/includes/class-options.php:309
 #: release/svn/includes/class-options.php:309
 msgid "Namibia | 264"
-msgstr ""
+msgstr "Namibia | 264"
 
 #: includes/class-options.php:310 release/0.1.0/includes/class-options.php:310
 #: release/svn/includes/class-options.php:310
 msgid "Nauru | 674"
-msgstr ""
+msgstr "Nauru | 674"
 
 #: includes/class-options.php:311 release/0.1.0/includes/class-options.php:311
 #: release/svn/includes/class-options.php:311
 msgid "Nepal | 977"
-msgstr ""
+msgstr "Nepal | 977"
 
 #: includes/class-options.php:312 release/0.1.0/includes/class-options.php:312
 #: release/svn/includes/class-options.php:312
 msgid "Netherlands | 31"
-msgstr ""
+msgstr "Netherlands | 31"
 
 #: includes/class-options.php:313 release/0.1.0/includes/class-options.php:313
 #: release/svn/includes/class-options.php:313
 msgid "Netherlands Antilles | 599"
-msgstr ""
+msgstr "Netherlands Antilles | 599"
 
 #: includes/class-options.php:314 release/0.1.0/includes/class-options.php:314
 #: release/svn/includes/class-options.php:314
 msgid "New Caledonia | 687"
-msgstr ""
+msgstr "New Caledonia | 687"
 
 #: includes/class-options.php:315 release/0.1.0/includes/class-options.php:315
 #: release/svn/includes/class-options.php:315
 msgid "New Zealand | 64"
-msgstr ""
+msgstr "New Zealand | 64"
 
 #: includes/class-options.php:316 release/0.1.0/includes/class-options.php:316
 #: release/svn/includes/class-options.php:316
 msgid "Nicaragua | 505"
-msgstr ""
+msgstr "Nicaragua | 505"
 
 #: includes/class-options.php:317 release/0.1.0/includes/class-options.php:317
 #: release/svn/includes/class-options.php:317
 msgid "Niger | 227"
-msgstr ""
+msgstr "Niger | 227"
 
 #: includes/class-options.php:318 release/0.1.0/includes/class-options.php:318
 #: release/svn/includes/class-options.php:318
 msgid "Nigeria | 234"
-msgstr ""
+msgstr "Nigeria | 234"
 
 #: includes/class-options.php:319 release/0.1.0/includes/class-options.php:319
 #: release/svn/includes/class-options.php:319
 msgid "Niue | 683"
-msgstr ""
+msgstr "Niue | 683"
 
 #: includes/class-options.php:320 release/0.1.0/includes/class-options.php:320
 #: release/svn/includes/class-options.php:320
 msgid "North Korea | 850"
-msgstr ""
+msgstr "North Korea | 850"
 
 #: includes/class-options.php:321 release/0.1.0/includes/class-options.php:321
 #: release/svn/includes/class-options.php:321
 msgid "Northern Mariana Islands | 1-670"
-msgstr ""
+msgstr "Northern Mariana Islands | 1-670"
 
 #: includes/class-options.php:322 release/0.1.0/includes/class-options.php:322
 #: release/svn/includes/class-options.php:322
 msgid "Norway | 47"
-msgstr ""
+msgstr "Norway | 47"
 
 #: includes/class-options.php:323 release/0.1.0/includes/class-options.php:323
 #: release/svn/includes/class-options.php:323
 msgid "Oman | 968"
-msgstr ""
+msgstr "Oman | 968"
 
 #: includes/class-options.php:324 release/0.1.0/includes/class-options.php:324
 #: release/svn/includes/class-options.php:324
 msgid "Pakistan | 92"
-msgstr ""
+msgstr "Pakistan | 92"
 
 #: includes/class-options.php:325 release/0.1.0/includes/class-options.php:325
 #: release/svn/includes/class-options.php:325
 msgid "Palau | 680"
-msgstr ""
+msgstr "Palau | 680"
 
 #: includes/class-options.php:326 release/0.1.0/includes/class-options.php:326
 #: release/svn/includes/class-options.php:326
 msgid "Palestine | 970"
-msgstr ""
+msgstr "Palestine | 970"
 
 #: includes/class-options.php:327 release/0.1.0/includes/class-options.php:327
 #: release/svn/includes/class-options.php:327
 msgid "Panama | 507"
-msgstr ""
+msgstr "Panama | 507"
 
 #: includes/class-options.php:328 release/0.1.0/includes/class-options.php:328
 #: release/svn/includes/class-options.php:328
 msgid "Papua New Guinea | 675"
-msgstr ""
+msgstr "Papua New Guinea | 675"
 
 #: includes/class-options.php:329 release/0.1.0/includes/class-options.php:329
 #: release/svn/includes/class-options.php:329
 msgid "Paraguay | 595"
-msgstr ""
+msgstr "Paraguay | 595"
 
 #: includes/class-options.php:330 release/0.1.0/includes/class-options.php:330
 #: release/svn/includes/class-options.php:330
 msgid "Peru | 51"
-msgstr ""
+msgstr "Peru | 51"
 
 #: includes/class-options.php:331 release/0.1.0/includes/class-options.php:331
 #: release/svn/includes/class-options.php:331
 msgid "Philippines | 63"
-msgstr ""
+msgstr "Philippines | 63"
 
 #: includes/class-options.php:332 release/0.1.0/includes/class-options.php:332
 #: release/svn/includes/class-options.php:332
 msgid "Pitcairn | 64"
-msgstr ""
+msgstr "Pitcairn | 64"
 
 #: includes/class-options.php:333 release/0.1.0/includes/class-options.php:333
 #: release/svn/includes/class-options.php:333
 msgid "Poland | 48"
-msgstr ""
+msgstr "Poland | 48"
 
 #: includes/class-options.php:334 release/0.1.0/includes/class-options.php:334
 #: release/svn/includes/class-options.php:334
 msgid "Portugal | 351"
-msgstr ""
+msgstr "Portugal | 351"
 
 #: includes/class-options.php:335 release/0.1.0/includes/class-options.php:335
 #: release/svn/includes/class-options.php:335
 msgid "Puerto Rico | 1-787"
-msgstr ""
+msgstr "Puerto Rico | 1-787"
 
 #: includes/class-options.php:336 release/0.1.0/includes/class-options.php:336
 #: release/svn/includes/class-options.php:336
 msgid "Puerto Rico | 1-939"
-msgstr ""
+msgstr "Puerto Rico | 1-939"
 
 #: includes/class-options.php:337 release/0.1.0/includes/class-options.php:337
 #: release/svn/includes/class-options.php:337
 msgid "Qatar | 974"
-msgstr ""
+msgstr "Qatar | 974"
 
 #: includes/class-options.php:338 release/0.1.0/includes/class-options.php:338
 #: release/svn/includes/class-options.php:338
 msgid "Republic of the Congo | 242"
-msgstr ""
+msgstr "Republic of the Congo | 242"
 
 #: includes/class-options.php:339 release/0.1.0/includes/class-options.php:339
 #: release/svn/includes/class-options.php:339
 msgid "Reunion | 262"
-msgstr ""
+msgstr "Reunion | 262"
 
 #: includes/class-options.php:340 release/0.1.0/includes/class-options.php:340
 #: release/svn/includes/class-options.php:340
 msgid "Romania | 40"
-msgstr ""
+msgstr "Romania | 40"
 
 #: includes/class-options.php:341 release/0.1.0/includes/class-options.php:341
 #: release/svn/includes/class-options.php:341
 msgid "Russia | 7"
-msgstr ""
+msgstr "Russia | 7"
 
 #: includes/class-options.php:342 release/0.1.0/includes/class-options.php:342
 #: release/svn/includes/class-options.php:342
 msgid "Rwanda | 250"
-msgstr ""
+msgstr "Rwanda | 250"
 
 #: includes/class-options.php:343 release/0.1.0/includes/class-options.php:343
 #: release/svn/includes/class-options.php:343
 msgid "Saint Barthelemy | 590"
-msgstr ""
+msgstr "Saint Barthelemy | 590"
 
 #: includes/class-options.php:344 release/0.1.0/includes/class-options.php:344
 #: release/svn/includes/class-options.php:344
 msgid "Saint Helena | 290"
-msgstr ""
+msgstr "Saint Helena | 290"
 
 #: includes/class-options.php:345 release/0.1.0/includes/class-options.php:345
 #: release/svn/includes/class-options.php:345
 msgid "Saint Kitts and Nevis | 1-869"
-msgstr ""
+msgstr "Saint Kitts and Nevis | 1-869"
 
 #: includes/class-options.php:346 release/0.1.0/includes/class-options.php:346
 #: release/svn/includes/class-options.php:346
 msgid "Saint Lucia | 1-758"
-msgstr ""
+msgstr "Saint Lucia | 1-758"
 
 #: includes/class-options.php:347 release/0.1.0/includes/class-options.php:347
 #: release/svn/includes/class-options.php:347
 msgid "Saint Martin | 590"
-msgstr ""
+msgstr "Saint Martin | 590"
 
 #: includes/class-options.php:348 release/0.1.0/includes/class-options.php:348
 #: release/svn/includes/class-options.php:348
 msgid "Saint Pierre and Miquelon | 508"
-msgstr ""
+msgstr "Saint Pierre and Miquelon | 508"
 
 #: includes/class-options.php:349 release/0.1.0/includes/class-options.php:349
 #: release/svn/includes/class-options.php:349
 msgid "Saint Vincent and the Grenadines | 1-784"
-msgstr ""
+msgstr "Saint Vincent and the Grenadines | 1-784"
 
 #: includes/class-options.php:350 release/0.1.0/includes/class-options.php:350
 #: release/svn/includes/class-options.php:350
 msgid "Samoa | 685"
-msgstr ""
+msgstr "Samoa | 685"
 
 #: includes/class-options.php:351 release/0.1.0/includes/class-options.php:351
 #: release/svn/includes/class-options.php:351
 msgid "San Marino | 378"
-msgstr ""
+msgstr "San Marino | 378"
 
 #: includes/class-options.php:352 release/0.1.0/includes/class-options.php:352
 #: release/svn/includes/class-options.php:352
 msgid "Sao Tome and Principe | 239"
-msgstr ""
+msgstr "Sao Tome and Principe | 239"
 
 #: includes/class-options.php:353 release/0.1.0/includes/class-options.php:353
 #: release/svn/includes/class-options.php:353
 msgid "Saudi Arabia | 966"
-msgstr ""
+msgstr "Saudi Arabia | 966"
 
 #: includes/class-options.php:354 release/0.1.0/includes/class-options.php:354
 #: release/svn/includes/class-options.php:354
 msgid "Senegal | 221"
-msgstr ""
+msgstr "Senegal | 221"
 
 #: includes/class-options.php:355 release/0.1.0/includes/class-options.php:355
 #: release/svn/includes/class-options.php:355
 msgid "Serbia | 381"
-msgstr ""
+msgstr "Serbia | 381"
 
 #: includes/class-options.php:356 release/0.1.0/includes/class-options.php:356
 #: release/svn/includes/class-options.php:356
 msgid "Seychelles | 248"
-msgstr ""
+msgstr "Seychelles | 248"
 
 #: includes/class-options.php:357 release/0.1.0/includes/class-options.php:357
 #: release/svn/includes/class-options.php:357
 msgid "Sierra Leone | 232"
-msgstr ""
+msgstr "Sierra Leone | 232"
 
 #: includes/class-options.php:358 release/0.1.0/includes/class-options.php:358
 #: release/svn/includes/class-options.php:358
 msgid "Singapore | 65"
-msgstr ""
+msgstr "Singapore | 65"
 
 #: includes/class-options.php:359 release/0.1.0/includes/class-options.php:359
 #: release/svn/includes/class-options.php:359
 msgid "Sint Maarten | 1-721"
-msgstr ""
+msgstr "Sint Maarten | 1-721"
 
 #: includes/class-options.php:360 release/0.1.0/includes/class-options.php:360
 #: release/svn/includes/class-options.php:360
 msgid "Slovakia | 421"
-msgstr ""
+msgstr "Slovakia | 421"
 
 #: includes/class-options.php:361 release/0.1.0/includes/class-options.php:361
 #: release/svn/includes/class-options.php:361
 msgid "Slovenia | 386"
-msgstr ""
+msgstr "Slovenia | 386"
 
 #: includes/class-options.php:362 release/0.1.0/includes/class-options.php:362
 #: release/svn/includes/class-options.php:362
 msgid "Solomon Islands | 677"
-msgstr ""
+msgstr "Solomon Islands | 677"
 
 #: includes/class-options.php:363 release/0.1.0/includes/class-options.php:363
 #: release/svn/includes/class-options.php:363
 msgid "Somalia | 252"
-msgstr ""
+msgstr "Somalia | 252"
 
 #: includes/class-options.php:364 release/0.1.0/includes/class-options.php:364
 #: release/svn/includes/class-options.php:364
 msgid "South Africa | 27"
-msgstr ""
+msgstr "South Africa | 27"
 
 #: includes/class-options.php:365 release/0.1.0/includes/class-options.php:365
 #: release/svn/includes/class-options.php:365
 msgid "South Korea | 82"
-msgstr ""
+msgstr "South Korea | 82"
 
 #: includes/class-options.php:366 release/0.1.0/includes/class-options.php:366
 #: release/svn/includes/class-options.php:366
 msgid "South Sudan | 211"
-msgstr ""
+msgstr "South Sudan | 211"
 
 #: includes/class-options.php:367 release/0.1.0/includes/class-options.php:367
 #: release/svn/includes/class-options.php:367
 msgid "Spain | 34"
-msgstr ""
+msgstr "Spain | 34"
 
 #: includes/class-options.php:368 release/0.1.0/includes/class-options.php:368
 #: release/svn/includes/class-options.php:368
 msgid "Sri Lanka | 94"
-msgstr ""
+msgstr "Sri Lanka | 94"
 
 #: includes/class-options.php:369 release/0.1.0/includes/class-options.php:369
 #: release/svn/includes/class-options.php:369
 msgid "Sudan | 249"
-msgstr ""
+msgstr "Sudan | 249"
 
 #: includes/class-options.php:370 release/0.1.0/includes/class-options.php:370
 #: release/svn/includes/class-options.php:370
 msgid "Suriname | 597"
-msgstr ""
+msgstr "Suriname | 597"
 
 #: includes/class-options.php:371 release/0.1.0/includes/class-options.php:371
 #: release/svn/includes/class-options.php:371
 msgid "Svalbard and Jan Mayen | 47"
-msgstr ""
+msgstr "Svalbard and Jan Mayen | 47"
 
 #: includes/class-options.php:372 release/0.1.0/includes/class-options.php:372
 #: release/svn/includes/class-options.php:372
 msgid "Swaziland | 268"
-msgstr ""
+msgstr "Swaziland | 268"
 
 #: includes/class-options.php:373 release/0.1.0/includes/class-options.php:373
 #: release/svn/includes/class-options.php:373
 msgid "Sweden | 46"
-msgstr ""
+msgstr "Sweden | 46"
 
 #: includes/class-options.php:374 release/0.1.0/includes/class-options.php:374
 #: release/svn/includes/class-options.php:374
 msgid "Switzerland | 41"
-msgstr ""
+msgstr "Switzerland | 41"
 
 #: includes/class-options.php:375 release/0.1.0/includes/class-options.php:375
 #: release/svn/includes/class-options.php:375
 msgid "Syria | 963"
-msgstr ""
+msgstr "Syria | 963"
 
 #: includes/class-options.php:376 release/0.1.0/includes/class-options.php:376
 #: release/svn/includes/class-options.php:376
 msgid "Taiwan | 886"
-msgstr ""
+msgstr "Taiwan | 886"
 
 #: includes/class-options.php:377 release/0.1.0/includes/class-options.php:377
 #: release/svn/includes/class-options.php:377
 msgid "Tajikistan | 992"
-msgstr ""
+msgstr "Tajikistan | 992"
 
 #: includes/class-options.php:378 release/0.1.0/includes/class-options.php:378
 #: release/svn/includes/class-options.php:378
 msgid "Tanzania | 255"
-msgstr ""
+msgstr "Tanzania | 255"
 
 #: includes/class-options.php:379 release/0.1.0/includes/class-options.php:379
 #: release/svn/includes/class-options.php:379
 msgid "Thailand | 66"
-msgstr ""
+msgstr "Thailand | 66"
 
 #: includes/class-options.php:380 release/0.1.0/includes/class-options.php:380
 #: release/svn/includes/class-options.php:380
 msgid "Togo | 228"
-msgstr ""
+msgstr "Togo | 228"
 
 #: includes/class-options.php:381 release/0.1.0/includes/class-options.php:381
 #: release/svn/includes/class-options.php:381
 msgid "Tokelau | 690"
-msgstr ""
+msgstr "Tokelau | 690"
 
 #: includes/class-options.php:382 release/0.1.0/includes/class-options.php:382
 #: release/svn/includes/class-options.php:382
 msgid "Tonga | 676"
-msgstr ""
+msgstr "Tonga | 676"
 
 #: includes/class-options.php:383 release/0.1.0/includes/class-options.php:383
 #: release/svn/includes/class-options.php:383
 msgid "Trinidad and Tobago | 1-868"
-msgstr ""
+msgstr "Trinidad and Tobago | 1-868"
 
 #: includes/class-options.php:384 release/0.1.0/includes/class-options.php:384
 #: release/svn/includes/class-options.php:384
 msgid "Tunisia | 216"
-msgstr ""
+msgstr "Tunisia | 216"
 
 #: includes/class-options.php:385 release/0.1.0/includes/class-options.php:385
 #: release/svn/includes/class-options.php:385
 msgid "Turkey | 90"
-msgstr ""
+msgstr "Turkey | 90"
 
 #: includes/class-options.php:386 release/0.1.0/includes/class-options.php:386
 #: release/svn/includes/class-options.php:386
 msgid "Turkmenistan | 993"
-msgstr ""
+msgstr "Turkmenistan | 993"
 
 #: includes/class-options.php:387 release/0.1.0/includes/class-options.php:387
 #: release/svn/includes/class-options.php:387
 msgid "Turks and Caicos Islands | 1-649"
-msgstr ""
+msgstr "Turks and Caicos Islands | 1-649"
 
 #: includes/class-options.php:388 release/0.1.0/includes/class-options.php:388
 #: release/svn/includes/class-options.php:388
 msgid "Tuvalu | 688"
-msgstr ""
+msgstr "Tuvalu | 688"
 
 #: includes/class-options.php:389 release/0.1.0/includes/class-options.php:389
 #: release/svn/includes/class-options.php:389
 msgid "U.S. Virgin Islands | 1-340"
-msgstr ""
+msgstr "U.S. Virgin Islands | 1-340"
 
 #: includes/class-options.php:390 release/0.1.0/includes/class-options.php:390
 #: release/svn/includes/class-options.php:390
 msgid "Uganda | 256"
-msgstr ""
+msgstr "Uganda | 256"
 
 #: includes/class-options.php:391 release/0.1.0/includes/class-options.php:391
 #: release/svn/includes/class-options.php:391
 msgid "Ukraine | 380"
-msgstr ""
+msgstr "Ukraine | 380"
 
 #: includes/class-options.php:392 release/0.1.0/includes/class-options.php:392
 #: release/svn/includes/class-options.php:392
 msgid "United Arab Emirates | 971"
-msgstr ""
+msgstr "United Arab Emirates | 971"
 
 #: includes/class-options.php:393 release/0.1.0/includes/class-options.php:393
 #: release/svn/includes/class-options.php:393
 msgid "United Kingdom | 44"
-msgstr ""
+msgstr "United Kingdom | 44"
 
 #: includes/class-options.php:394 release/0.1.0/includes/class-options.php:394
 #: release/svn/includes/class-options.php:394
 msgid "United States | 1"
-msgstr ""
+msgstr "United States | 1"
 
 #: includes/class-options.php:395 release/0.1.0/includes/class-options.php:395
 #: release/svn/includes/class-options.php:395
 msgid "Uruguay | 598"
-msgstr ""
+msgstr "Uruguay | 598"
 
 #: includes/class-options.php:396 release/0.1.0/includes/class-options.php:396
 #: release/svn/includes/class-options.php:396
 msgid "Uzbekistan | 998"
-msgstr ""
+msgstr "Uzbekistan | 998"
 
 #: includes/class-options.php:397 release/0.1.0/includes/class-options.php:397
 #: release/svn/includes/class-options.php:397
 msgid "Vanuatu | 678"
-msgstr ""
+msgstr "Vanuatu | 678"
 
 #: includes/class-options.php:398 release/0.1.0/includes/class-options.php:398
 #: release/svn/includes/class-options.php:398
 msgid "Vatican | 379"
-msgstr ""
+msgstr "Vatican | 379"
 
 #: includes/class-options.php:399 release/0.1.0/includes/class-options.php:399
 #: release/svn/includes/class-options.php:399
 msgid "Venezuela | 58"
-msgstr ""
+msgstr "Venezuela | 58"
 
 #: includes/class-options.php:400 release/0.1.0/includes/class-options.php:400
 #: release/svn/includes/class-options.php:400
 msgid "Vietnam | 84"
-msgstr ""
+msgstr "Vietnam | 84"
 
 #: includes/class-options.php:401 release/0.1.0/includes/class-options.php:401
 #: release/svn/includes/class-options.php:401
 msgid "Wallis and Futuna | 681"
-msgstr ""
+msgstr "Wallis and Futuna | 681"
 
 #: includes/class-options.php:402 release/0.1.0/includes/class-options.php:402
 #: release/svn/includes/class-options.php:402
 msgid "Western Sahara | 212"
-msgstr ""
+msgstr "Western Sahara | 212"
 
 #: includes/class-options.php:403 release/0.1.0/includes/class-options.php:403
 #: release/svn/includes/class-options.php:403
 msgid "Yemen | 967"
-msgstr ""
+msgstr "Yemen | 967"
 
 #: includes/class-options.php:404 release/0.1.0/includes/class-options.php:404
 #: release/svn/includes/class-options.php:404
 msgid "Zambia | 260"
-msgstr ""
+msgstr "Zambia | 260"
 
 #: includes/class-options.php:405 release/0.1.0/includes/class-options.php:405
 #: release/svn/includes/class-options.php:405
 msgid "Zimbabwe | 263"
-msgstr ""
+msgstr "Zimbabwe | 263"
 
 #: includes/class-options.php:410 release/0.1.0/includes/class-options.php:410
 #: release/svn/includes/class-options.php:410
 msgid "Phone Number"
-msgstr ""
+msgstr "Nomor Telepon"
 
 #: includes/class-options.php:411 release/0.1.0/includes/class-options.php:411
 #: release/svn/includes/class-options.php:411
 msgid "Add your phone / mobile number"
-msgstr ""
+msgstr "Tambahkan nomor telepon / handphone anda"
 
 #: includes/class-options.php:414 includes/class-options.php:423
 #: release/0.1.0/includes/class-options.php:414
@@ -1276,99 +1274,100 @@ msgstr ""
 #: release/svn/includes/class-options.php:414
 #: release/svn/includes/class-options.php:423
 msgid "082127602518"
-msgstr ""
+msgstr "082127602518"
 
 #: includes/class-options.php:419 release/0.1.0/includes/class-options.php:419
 #: release/svn/includes/class-options.php:419
 msgid "WhatsApp Number"
-msgstr ""
+msgstr "Nomor WhatsApp"
 
 #: includes/class-options.php:420 release/0.1.0/includes/class-options.php:420
 #: release/svn/includes/class-options.php:420
 msgid "Add your whatsapp number"
-msgstr ""
+msgstr "Tambahkan nomor whatsapp anda"
 
 #: includes/class-options.php:428 release/0.1.0/includes/class-options.php:428
 #: release/svn/includes/class-options.php:428
 msgid "WhatsApp Message"
-msgstr ""
+msgstr "Berita WhatsApp"
 
 #: includes/class-options.php:429 release/0.1.0/includes/class-options.php:429
 #: release/svn/includes/class-options.php:429
 msgid "Add your message for whatsapp"
-msgstr ""
+msgstr "Tambahkan berita anda di whatsapp"
 
 #: includes/class-options.php:432 release/0.1.0/includes/class-options.php:432
 #: release/svn/includes/class-options.php:432
 msgid "Hello World"
-msgstr ""
+msgstr "Halo Dunia"
 
 #: includes/class-options.php:437 release/0.1.0/includes/class-options.php:437
 #: release/svn/includes/class-options.php:437
 msgid "Display Position"
-msgstr ""
+msgstr "Posisi Tampilan"
 
 #: includes/class-options.php:438 release/0.1.0/includes/class-options.php:438
 #: release/svn/includes/class-options.php:438
 msgid "Set display position"
-msgstr ""
+msgstr "Atur posisi tampilan"
 
 #: includes/class-options.php:444 release/0.1.0/includes/class-options.php:444
 #: release/svn/includes/class-options.php:444
 msgid "Bottom"
-msgstr ""
+msgstr "Bawah"
 
 #: includes/class-options.php:445 release/0.1.0/includes/class-options.php:445
 #: release/svn/includes/class-options.php:445
 msgid "Bottom Full"
-msgstr ""
+msgstr "Bawah Penuh"
 
 #: includes/class-options.php:446 release/0.1.0/includes/class-options.php:446
 #: release/svn/includes/class-options.php:446
 msgid "Left"
-msgstr ""
+msgstr "Kiri"
 
 #: includes/class-options.php:447 release/0.1.0/includes/class-options.php:447
 #: release/svn/includes/class-options.php:447
 msgid "Right"
-msgstr ""
+msgstr "Kanan"
 
 #: includes/class-options.php:448 release/0.1.0/includes/class-options.php:448
 #: release/svn/includes/class-options.php:448
 msgid "Bottom Left"
-msgstr ""
+msgstr "Bawah Kiri"
 
 #: includes/class-options.php:449 release/0.1.0/includes/class-options.php:449
 #: release/svn/includes/class-options.php:449
 msgid "Bottom Right"
-msgstr ""
+msgstr "Bawah Kanan"
 
 #: includes/class-options.php:455 release/0.1.0/includes/class-options.php:455
 #: release/svn/includes/class-options.php:455
 msgid "Display Icon"
-msgstr ""
+msgstr "Tampilan Ikon"
 
 #: includes/class-options.php:456 release/0.1.0/includes/class-options.php:456
 #: release/svn/includes/class-options.php:456
 msgid "Set display icon and text"
-msgstr ""
+msgstr "Atur tampilan ikon dan teks"
 
 #: includes/class-options.php:462 release/0.1.0/includes/class-options.php:462
 #: release/svn/includes/class-options.php:462
 msgid "Icon Only"
-msgstr ""
+msgstr "Ikon Saja"
 
 #: includes/class-options.php:463 release/0.1.0/includes/class-options.php:463
 #: release/svn/includes/class-options.php:463
 msgid "Icon Text"
-msgstr ""
+msgstr "Ikon dan Teks"
 
 #: rdmobile.php:288 release/0.1.0/rdmobile.php:288 release/svn/rdmobile.php:288
 msgid ""
-"RD Mobile WordPress Plugin is missing requirements and has been <a "
-"href=\"%s\">deactivated</a>. Please make sure all requirements are "
-"available."
+"RD Mobile WordPress Plugin is missing requirements and has been <a href=\"%s"
+"\">deactivated</a>. Please make sure all requirements are available."
 msgstr ""
+"RD Mobile WordPress Plugin memerlukan sesuatu yang hilang dan telah di <a "
+"href=\"%s\">non aktif</a>. Mohon periksa semua kebutuhan tersedia."
 
 #: release/0.1.0/vendor/cmb2/example-functions.php:117
 #: release/svn/vendor/cmb2/example-functions.php:117
@@ -1731,11 +1730,12 @@ msgstr ""
 msgid "oEmbed"
 msgstr ""
 
+#. translators: %s: link to codex.wordpress.org/Embeds
 #: release/0.1.0/vendor/cmb2/example-functions.php:410
 #: release/svn/vendor/cmb2/example-functions.php:410
 #: vendor/cmb2/example-functions.php:410
-#. translators: %s: link to codex.wordpress.org/Embeds
-msgid "Enter a youtube, twitter, or instagram URL. Supports services listed at %s."
+msgid ""
+"Enter a youtube, twitter, or instagram URL. Supports services listed at %s."
 msgstr ""
 
 #: release/0.1.0/vendor/cmb2/example-functions.php:443
@@ -1938,13 +1938,13 @@ msgstr ""
 msgid "Remove Embed"
 msgstr ""
 
+#. translators: 1: results for. 2: link to codex.wordpress.org/Embeds
 #: release/0.1.0/vendor/cmb2/includes/CMB2_Ajax.php:181
 #: release/0.1.0/vendor/cmb2/includes/helper-functions.php:99
 #: release/svn/vendor/cmb2/includes/CMB2_Ajax.php:181
 #: release/svn/vendor/cmb2/includes/helper-functions.php:99
 #: vendor/cmb2/includes/CMB2_Ajax.php:181
 #: vendor/cmb2/includes/helper-functions.php:99
-#. translators: 1: results for. 2: link to codex.wordpress.org/Embeds
 msgid "No oEmbed Results Found for %1$s. View more info at %2$s."
 msgstr ""
 
@@ -2246,8 +2246,8 @@ msgstr ""
 #: release/svn/vendor/cmb2/includes/rest-api/CMB2_REST_Controller.php:289
 #: vendor/cmb2/includes/rest-api/CMB2_REST_Controller.php:289
 msgid ""
-"No box found by that id. A box needs to be registered with the "
-"\"show_in_rest\" parameter configured."
+"No box found by that id. A box needs to be registered with the \"show_in_rest"
+"\" parameter configured."
 msgstr ""
 
 #: release/0.1.0/vendor/cmb2/includes/rest-api/CMB2_REST_Controller.php:365
@@ -2292,7 +2292,8 @@ msgstr ""
 #: release/0.1.0/vendor/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:27
 #: release/svn/vendor/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:27
 #: vendor/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:27
-msgid "Includes the box object which the fields are registered to in the response."
+msgid ""
+"Includes the box object which the fields are registered to in the response."
 msgstr ""
 
 #: release/0.1.0/vendor/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:30
@@ -2318,7 +2319,8 @@ msgstr ""
 #: release/0.1.0/vendor/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:236
 #: release/svn/vendor/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:236
 #: vendor/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:236
-msgid "CMB2 Field value cannot be updated without the value parameter specified."
+msgid ""
+"CMB2 Field value cannot be updated without the value parameter specified."
 msgstr ""
 
 #: release/0.1.0/vendor/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:295
@@ -2411,8 +2413,7 @@ msgstr ""
 #: release/svn/vendor/cmb2/includes/shim/WP_REST_Controller.php:283
 #: vendor/cmb2/includes/shim/WP_REST_Controller.php:283
 msgid ""
-"Scope under which the request is made; determines fields present in "
-"response."
+"Scope under which the request is made; determines fields present in response."
 msgstr ""
 
 #: release/0.1.0/vendor/cmb2/includes/types/CMB2_Type_File.php:36
@@ -2567,10 +2568,10 @@ msgstr ""
 msgid "%1$s updated."
 msgstr ""
 
+#. translators: %s: date and time of the revision
 #: release/0.1.0/vendor/cpt-core/CPT_Core.php:204
 #: release/svn/vendor/cpt-core/CPT_Core.php:204
 #: vendor/cpt-core/CPT_Core.php:204
-#. translators: %s: date and time of the revision
 msgid "%1$s restored to revision from %2$s"
 msgstr ""
 
@@ -2598,13 +2599,13 @@ msgstr ""
 msgid "%1$s submitted. <a target=\"_blank\" href=\"%2$s\">Preview %1$s</a>"
 msgstr ""
 
+#. translators: Publish box date format, see http:php.net/date
 #: release/0.1.0/vendor/cpt-core/CPT_Core.php:214
 #: release/svn/vendor/cpt-core/CPT_Core.php:214
 #: vendor/cpt-core/CPT_Core.php:214
-#. translators: Publish box date format, see http:php.net/date
 msgid ""
-"%1$s scheduled for: <strong>%2$s</strong>. <a target=\"_blank\" "
-"href=\"%3$s\">Preview %1$s</a>"
+"%1$s scheduled for: <strong>%2$s</strong>. <a target=\"_blank\" href=\"%3$s"
+"\">Preview %1$s</a>"
 msgstr ""
 
 #: release/0.1.0/vendor/cpt-core/CPT_Core.php:214
@@ -2633,10 +2634,10 @@ msgstr ""
 msgid "%1$s submitted."
 msgstr ""
 
+#. translators: Publish box date format, see http:php.net/date
 #: release/0.1.0/vendor/cpt-core/CPT_Core.php:223
 #: release/svn/vendor/cpt-core/CPT_Core.php:223
 #: vendor/cpt-core/CPT_Core.php:223
-#. translators: Publish box date format, see http:php.net/date
 msgid "%1$s scheduled for: <strong>%2$s</strong>."
 msgstr ""
 
@@ -2652,7 +2653,6 @@ msgstr ""
 msgid "%1$s %2$s updated."
 msgid_plural "%1$s %3$s updated."
 msgstr[0] ""
-msgstr[1] ""
 
 #: release/0.1.0/vendor/cpt-core/CPT_Core.php:243
 #: release/svn/vendor/cpt-core/CPT_Core.php:243
@@ -2660,7 +2660,6 @@ msgstr[1] ""
 msgid "%1$s %2$s not updated, somebody is editing it."
 msgid_plural "%1$s %3$s not updated, somebody is editing them."
 msgstr[0] ""
-msgstr[1] ""
 
 #: release/0.1.0/vendor/cpt-core/CPT_Core.php:244
 #: release/svn/vendor/cpt-core/CPT_Core.php:244
@@ -2668,7 +2667,6 @@ msgstr[1] ""
 msgid "%1$s %2$s permanently deleted."
 msgid_plural "%1$s %3$s permanently deleted."
 msgstr[0] ""
-msgstr[1] ""
 
 #: release/0.1.0/vendor/cpt-core/CPT_Core.php:245
 #: release/svn/vendor/cpt-core/CPT_Core.php:245
@@ -2676,7 +2674,6 @@ msgstr[1] ""
 msgid "%1$s %2$s moved to the Trash."
 msgid_plural "%1$s %3$s moved to the Trash."
 msgstr[0] ""
-msgstr[1] ""
 
 #: release/0.1.0/vendor/cpt-core/CPT_Core.php:246
 #: release/svn/vendor/cpt-core/CPT_Core.php:246
@@ -2684,7 +2681,6 @@ msgstr[1] ""
 msgid "%1$s %2$s restored from the Trash."
 msgid_plural "%1$s %3$s restored from the Trash."
 msgstr[0] ""
-msgstr[1] ""
 
 #: release/0.1.0/vendor/cpt-core/CPT_Core.php:292
 #: release/svn/vendor/cpt-core/CPT_Core.php:292
@@ -2701,7 +2697,8 @@ msgstr ""
 #: vendor/taxonomy-core/Taxonomy_Core.php:84
 #: vendor/taxonomy-core/Taxonomy_Core.php:88
 #: vendor/taxonomy-core/Taxonomy_Core.php:92
-msgid "It is required to pass a single, plural and slug string to Taxonomy_Core"
+msgid ""
+"It is required to pass a single, plural and slug string to Taxonomy_Core"
 msgstr ""
 
 #: release/0.1.0/vendor/taxonomy-core/Taxonomy_Core.php:130
@@ -2777,7 +2774,7 @@ msgstr ""
 #: release/svn/vendor/cmb2/includes/CMB2_JS.php:145
 #: vendor/cmb2/includes/CMB2_JS.php:145
 msgctxt ""
-"Valid formatting string, as per "
-"http://trentrichardson.com/examples/timepicker/"
+"Valid formatting string, as per http://trentrichardson.com/examples/"
+"timepicker/"
 msgid "hh:mm TT"
 msgstr ""

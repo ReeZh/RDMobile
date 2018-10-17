@@ -5,25 +5,23 @@ msgstr ""
 "Project-Id-Version: RD Mobile 0.1.0\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/rdmobile\n"
 "POT-Creation-Date: 2018-10-17 13:05:32+00:00\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2018-MO-DA HO:MI+ZONE\n"
-"Last-Translator: ReeZh Design <hireus@reezhdesign.com>\n"
+"PO-Revision-Date: 2018-10-17 20:01+0700\n"
+"Last-Translator: Arissandi <arissandi@gmail.com>\n"
 "Language-Team: ReeZh Design <hireus@reezhdesign.com>\n"
-"Language: en\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_n\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Poedit-Country: Indonesia\n"
-"X-Poedit-SourceCharset: UTF-8\n"
-"X-Poedit-KeywordsList: "
-"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
-"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
-"X-Poedit-Basepath: ../\n"
 "X-Poedit-SearchPath-0: .\n"
-"X-Poedit-Bookmarks: \n"
-"X-Textdomain-Support: yes\n"
-"X-Poedit-Language: Indonesian\n"
-"X-Generator: grunt-wp-i18n1.0.2\n"
+"X-Poedit-SearchPathExcluded-0: release\n"
+"X-Poedit-SearchPathExcluded-1: node_modules\n"
+"X-Poedit-SearchPathExcluded-2: bin\n"
+"X-Poedit-SearchPathExcluded-3: tests\n"
+"X-Poedit-SearchPathExcluded-4: vendor\n"
 
 #: includes/class-options.php:163 release/0.1.0/includes/class-options.php:163
 #: release/svn/includes/class-options.php:163
@@ -33,7 +31,7 @@ msgstr ""
 #: includes/class-frontend.php:95 release/0.1.0/includes/class-frontend.php:95
 #: release/svn/includes/class-frontend.php:95
 msgid "Call Us"
-msgstr ""
+msgstr "Call Us"
 
 #: includes/class-frontend.php:104
 #: release/0.1.0/includes/class-frontend.php:104
@@ -1281,7 +1279,7 @@ msgstr ""
 #: includes/class-options.php:419 release/0.1.0/includes/class-options.php:419
 #: release/svn/includes/class-options.php:419
 msgid "WhatsApp Number"
-msgstr ""
+msgstr "WhatsApp Number"
 
 #: includes/class-options.php:420 release/0.1.0/includes/class-options.php:420
 #: release/svn/includes/class-options.php:420
@@ -1316,7 +1314,7 @@ msgstr ""
 #: includes/class-options.php:444 release/0.1.0/includes/class-options.php:444
 #: release/svn/includes/class-options.php:444
 msgid "Bottom"
-msgstr ""
+msgstr "Bottom"
 
 #: includes/class-options.php:445 release/0.1.0/includes/class-options.php:445
 #: release/svn/includes/class-options.php:445
@@ -1365,24 +1363,25 @@ msgstr ""
 
 #: rdmobile.php:288 release/0.1.0/rdmobile.php:288 release/svn/rdmobile.php:288
 msgid ""
-"RD Mobile WordPress Plugin is missing requirements and has been <a "
-"href=\"%s\">deactivated</a>. Please make sure all requirements are "
-"available."
+"RD Mobile WordPress Plugin is missing requirements and has been <a href=\"%s"
+"\">deactivated</a>. Please make sure all requirements are available."
 msgstr ""
 
 #: release/0.1.0/vendor/cmb2/example-functions.php:117
 #: release/svn/vendor/cmb2/example-functions.php:117
 #: vendor/cmb2/example-functions.php:117
+#, fuzzy
 msgid "Test Metabox"
-msgstr ""
+msgstr "Test Metabox"
 
 #: release/0.1.0/vendor/cmb2/example-functions.php:130
 #: release/0.1.0/vendor/cmb2/example-functions.php:452
 #: release/svn/vendor/cmb2/example-functions.php:130
 #: release/svn/vendor/cmb2/example-functions.php:452
 #: vendor/cmb2/example-functions.php:130 vendor/cmb2/example-functions.php:452
+#, fuzzy
 msgid "Test Text"
-msgstr ""
+msgstr "Test Text"
 
 #: release/0.1.0/vendor/cmb2/example-functions.php:131
 #: release/0.1.0/vendor/cmb2/example-functions.php:144
@@ -1477,20 +1476,23 @@ msgstr ""
 #: vendor/cmb2/example-functions.php:587 vendor/cmb2/example-functions.php:614
 #: vendor/cmb2/example-functions.php:622 vendor/cmb2/example-functions.php:629
 #: vendor/cmb2/example-functions.php:666
+#, fuzzy
 msgid "field description (optional)"
-msgstr ""
+msgstr "field description (optional)"
 
 #: release/0.1.0/vendor/cmb2/example-functions.php:143
 #: release/svn/vendor/cmb2/example-functions.php:143
 #: vendor/cmb2/example-functions.php:143
+#, fuzzy
 msgid "Test Text Small"
-msgstr ""
+msgstr "Test Text Small"
 
 #: release/0.1.0/vendor/cmb2/example-functions.php:156
 #: release/svn/vendor/cmb2/example-functions.php:156
 #: vendor/cmb2/example-functions.php:156
+#, fuzzy
 msgid "Test Text Medium"
-msgstr ""
+msgstr "Test Text Medium"
 
 #: release/0.1.0/vendor/cmb2/example-functions.php:163
 #: release/svn/vendor/cmb2/example-functions.php:163
@@ -1507,100 +1509,116 @@ msgstr ""
 #: release/0.1.0/vendor/cmb2/example-functions.php:176
 #: release/svn/vendor/cmb2/example-functions.php:176
 #: vendor/cmb2/example-functions.php:176
+#, fuzzy
 msgid "Custom Rendered Field"
-msgstr ""
+msgstr "Custom field deleted."
 
 #: release/0.1.0/vendor/cmb2/example-functions.php:184
 #: release/svn/vendor/cmb2/example-functions.php:184
 #: vendor/cmb2/example-functions.php:184
+#, fuzzy
 msgid "Website URL"
-msgstr ""
+msgstr "Website URL"
 
 #: release/0.1.0/vendor/cmb2/example-functions.php:193
 #: release/svn/vendor/cmb2/example-functions.php:193
 #: vendor/cmb2/example-functions.php:193
+#, fuzzy
 msgid "Test Text Email"
-msgstr ""
+msgstr "Test Text Email"
 
 #: release/0.1.0/vendor/cmb2/example-functions.php:201
 #: release/svn/vendor/cmb2/example-functions.php:201
 #: vendor/cmb2/example-functions.php:201
+#, fuzzy
 msgid "Test Time"
-msgstr ""
+msgstr "Test Time"
 
 #: release/0.1.0/vendor/cmb2/example-functions.php:209
 #: release/0.1.0/vendor/cmb2/example-functions.php:210
 #: release/svn/vendor/cmb2/example-functions.php:209
 #: release/svn/vendor/cmb2/example-functions.php:210
 #: vendor/cmb2/example-functions.php:209 vendor/cmb2/example-functions.php:210
+#, fuzzy
 msgid "Time zone"
-msgstr ""
+msgstr "Time zone"
 
 #: release/0.1.0/vendor/cmb2/example-functions.php:216
 #: release/svn/vendor/cmb2/example-functions.php:216
 #: vendor/cmb2/example-functions.php:216
+#, fuzzy
 msgid "Test Date Picker"
-msgstr ""
+msgstr "Test Date Picker"
 
 #: release/0.1.0/vendor/cmb2/example-functions.php:224
 #: release/svn/vendor/cmb2/example-functions.php:224
 #: vendor/cmb2/example-functions.php:224
+#, fuzzy
 msgid "Test Date Picker (UNIX timestamp)"
-msgstr ""
+msgstr "Test Date Picker (UNIX timestamp)"
 
 #: release/0.1.0/vendor/cmb2/example-functions.php:232
 #: release/svn/vendor/cmb2/example-functions.php:232
 #: vendor/cmb2/example-functions.php:232
+#, fuzzy
 msgid "Test Date/Time Picker Combo (UNIX timestamp)"
-msgstr ""
+msgstr "Test Date/Time Picker Combo (UNIX timestamp)"
 
 #: release/0.1.0/vendor/cmb2/example-functions.php:249
 #: release/svn/vendor/cmb2/example-functions.php:249
 #: vendor/cmb2/example-functions.php:249
+#, fuzzy
 msgid "Test Money"
-msgstr ""
+msgstr "Test Money"
 
 #: release/0.1.0/vendor/cmb2/example-functions.php:258
 #: release/svn/vendor/cmb2/example-functions.php:258
 #: vendor/cmb2/example-functions.php:258
+#, fuzzy
 msgid "Test Color Picker"
-msgstr ""
+msgstr "Test Color Picker"
 
 #: release/0.1.0/vendor/cmb2/example-functions.php:271
 #: release/svn/vendor/cmb2/example-functions.php:271
 #: vendor/cmb2/example-functions.php:271
+#, fuzzy
 msgid "Test Text Area"
-msgstr ""
+msgstr "Test Text Area"
 
 #: release/0.1.0/vendor/cmb2/example-functions.php:278
 #: release/svn/vendor/cmb2/example-functions.php:278
 #: vendor/cmb2/example-functions.php:278
+#, fuzzy
 msgid "Test Text Area Small"
-msgstr ""
+msgstr "Test Text Area Small"
 
 #: release/0.1.0/vendor/cmb2/example-functions.php:285
 #: release/svn/vendor/cmb2/example-functions.php:285
 #: vendor/cmb2/example-functions.php:285
+#, fuzzy
 msgid "Test Text Area for Code"
-msgstr ""
+msgstr "Test Text Area for Code"
 
 #: release/0.1.0/vendor/cmb2/example-functions.php:292
 #: release/svn/vendor/cmb2/example-functions.php:292
 #: vendor/cmb2/example-functions.php:292
+#, fuzzy
 msgid "Test Title Weeeee"
-msgstr ""
+msgstr "Test Title Weeeee"
 
 #: release/0.1.0/vendor/cmb2/example-functions.php:293
 #: release/svn/vendor/cmb2/example-functions.php:293
 #: vendor/cmb2/example-functions.php:293
+#, fuzzy
 msgid "This is a title description"
-msgstr ""
+msgstr "This is a title description"
 
 #: release/0.1.0/vendor/cmb2/example-functions.php:299
 #: release/svn/vendor/cmb2/example-functions.php:299
 #: vendor/cmb2/example-functions.php:299
+#, fuzzy
 msgid "Test Select"
-msgstr ""
+msgstr "Test Select"
 
 #: release/0.1.0/vendor/cmb2/example-functions.php:305
 #: release/0.1.0/vendor/cmb2/example-functions.php:318
@@ -1610,8 +1628,9 @@ msgstr ""
 #: release/svn/vendor/cmb2/example-functions.php:330
 #: vendor/cmb2/example-functions.php:305 vendor/cmb2/example-functions.php:318
 #: vendor/cmb2/example-functions.php:330
+#, fuzzy
 msgid "Option One"
-msgstr ""
+msgstr "Option One"
 
 #: release/0.1.0/vendor/cmb2/example-functions.php:306
 #: release/0.1.0/vendor/cmb2/example-functions.php:319
@@ -1621,8 +1640,9 @@ msgstr ""
 #: release/svn/vendor/cmb2/example-functions.php:331
 #: vendor/cmb2/example-functions.php:306 vendor/cmb2/example-functions.php:319
 #: vendor/cmb2/example-functions.php:331
+#, fuzzy
 msgid "Option Two"
-msgstr ""
+msgstr "Option Two"
 
 #: release/0.1.0/vendor/cmb2/example-functions.php:307
 #: release/0.1.0/vendor/cmb2/example-functions.php:320
@@ -1632,159 +1652,185 @@ msgstr ""
 #: release/svn/vendor/cmb2/example-functions.php:332
 #: vendor/cmb2/example-functions.php:307 vendor/cmb2/example-functions.php:320
 #: vendor/cmb2/example-functions.php:332
+#, fuzzy
 msgid "Option Three"
-msgstr ""
+msgstr "Option Three"
 
 #: release/0.1.0/vendor/cmb2/example-functions.php:312
 #: release/svn/vendor/cmb2/example-functions.php:312
 #: vendor/cmb2/example-functions.php:312
+#, fuzzy
 msgid "Test Radio inline"
-msgstr ""
+msgstr "Test Radio inline"
 
 #: release/0.1.0/vendor/cmb2/example-functions.php:325
 #: release/svn/vendor/cmb2/example-functions.php:325
 #: vendor/cmb2/example-functions.php:325
+#, fuzzy
 msgid "Test Radio"
-msgstr ""
+msgstr "Test Radio"
 
 #: release/0.1.0/vendor/cmb2/example-functions.php:337
 #: release/svn/vendor/cmb2/example-functions.php:337
 #: vendor/cmb2/example-functions.php:337
+#, fuzzy
 msgid "Test Taxonomy Radio"
-msgstr ""
+msgstr "Test Taxonomy Radio"
 
 #: release/0.1.0/vendor/cmb2/example-functions.php:346
 #: release/svn/vendor/cmb2/example-functions.php:346
 #: vendor/cmb2/example-functions.php:346
+#, fuzzy
 msgid "Test Taxonomy Select"
-msgstr ""
+msgstr "Test Taxonomy Select"
 
 #: release/0.1.0/vendor/cmb2/example-functions.php:354
 #: release/svn/vendor/cmb2/example-functions.php:354
 #: vendor/cmb2/example-functions.php:354
+#, fuzzy
 msgid "Test Taxonomy Multi Checkbox"
-msgstr ""
+msgstr "Test Taxonomy Multi Checkbox"
 
 #: release/0.1.0/vendor/cmb2/example-functions.php:363
 #: release/svn/vendor/cmb2/example-functions.php:363
 #: vendor/cmb2/example-functions.php:363
+#, fuzzy
 msgid "Test Checkbox"
-msgstr ""
+msgstr "Test Checkbox"
 
 #: release/0.1.0/vendor/cmb2/example-functions.php:370
 #: release/svn/vendor/cmb2/example-functions.php:370
 #: vendor/cmb2/example-functions.php:370
+#, fuzzy
 msgid "Test Multi Checkbox"
-msgstr ""
+msgstr "Test Multi Checkbox"
 
 #: release/0.1.0/vendor/cmb2/example-functions.php:376
 #: release/svn/vendor/cmb2/example-functions.php:376
 #: vendor/cmb2/example-functions.php:376
+#, fuzzy
 msgid "Check One"
-msgstr ""
+msgstr "Check One"
 
 #: release/0.1.0/vendor/cmb2/example-functions.php:377
 #: release/svn/vendor/cmb2/example-functions.php:377
 #: vendor/cmb2/example-functions.php:377
+#, fuzzy
 msgid "Check Two"
-msgstr ""
+msgstr "Check Two"
 
 #: release/0.1.0/vendor/cmb2/example-functions.php:378
 #: release/svn/vendor/cmb2/example-functions.php:378
 #: vendor/cmb2/example-functions.php:378
+#, fuzzy
 msgid "Check Three"
-msgstr ""
+msgstr "Check Three"
 
 #: release/0.1.0/vendor/cmb2/example-functions.php:384
 #: release/svn/vendor/cmb2/example-functions.php:384
 #: vendor/cmb2/example-functions.php:384
+#, fuzzy
 msgid "Test wysiwyg"
-msgstr ""
+msgstr "Test wysiwyg"
 
 #: release/0.1.0/vendor/cmb2/example-functions.php:392
 #: release/svn/vendor/cmb2/example-functions.php:392
 #: vendor/cmb2/example-functions.php:392
+#, fuzzy
 msgid "Test Image"
-msgstr ""
+msgstr "Test Image"
 
 #: release/0.1.0/vendor/cmb2/example-functions.php:393
 #: release/svn/vendor/cmb2/example-functions.php:393
 #: vendor/cmb2/example-functions.php:393
+#, fuzzy
 msgid "Upload an image or enter a URL."
-msgstr ""
+msgstr "Upload an image or enter a URL."
 
 #: release/0.1.0/vendor/cmb2/example-functions.php:399
 #: release/svn/vendor/cmb2/example-functions.php:399
 #: vendor/cmb2/example-functions.php:399
+#, fuzzy
 msgid "Multiple Files"
-msgstr ""
+msgstr "Multiple Files"
 
 #: release/0.1.0/vendor/cmb2/example-functions.php:400
 #: release/svn/vendor/cmb2/example-functions.php:400
 #: vendor/cmb2/example-functions.php:400
+#, fuzzy
 msgid "Upload or add multiple images/attachments."
-msgstr ""
+msgstr "Upload or add multiple images/attachments."
 
 #: release/0.1.0/vendor/cmb2/example-functions.php:407
 #: release/svn/vendor/cmb2/example-functions.php:407
 #: vendor/cmb2/example-functions.php:407
+#, fuzzy
 msgid "oEmbed"
-msgstr ""
+msgstr "oEmbed"
 
+#. translators: %s: link to codex.wordpress.org/Embeds
 #: release/0.1.0/vendor/cmb2/example-functions.php:410
 #: release/svn/vendor/cmb2/example-functions.php:410
 #: vendor/cmb2/example-functions.php:410
-#. translators: %s: link to codex.wordpress.org/Embeds
-msgid "Enter a youtube, twitter, or instagram URL. Supports services listed at %s."
+msgid ""
+"Enter a youtube, twitter, or instagram URL. Supports services listed at %s."
 msgstr ""
 
 #: release/0.1.0/vendor/cmb2/example-functions.php:443
 #: release/svn/vendor/cmb2/example-functions.php:443
 #: vendor/cmb2/example-functions.php:443
+#, fuzzy
 msgid "About Page Metabox"
-msgstr ""
+msgstr "About Page Metabox"
 
 #: release/0.1.0/vendor/cmb2/example-functions.php:472
 #: release/svn/vendor/cmb2/example-functions.php:472
 #: vendor/cmb2/example-functions.php:472
+#, fuzzy
 msgid "Repeating Field Group"
-msgstr ""
+msgstr "Repeating Field Group"
 
 #: release/0.1.0/vendor/cmb2/example-functions.php:480
 #: release/svn/vendor/cmb2/example-functions.php:480
 #: vendor/cmb2/example-functions.php:480
+#, fuzzy
 msgid "Generates reusable form entries"
-msgstr ""
+msgstr "Generates reusable form entries"
 
 #: release/0.1.0/vendor/cmb2/example-functions.php:482
 #: release/svn/vendor/cmb2/example-functions.php:482
 #: vendor/cmb2/example-functions.php:482
+#, fuzzy
 msgid "Entry {#}"
-msgstr ""
+msgstr "Entry {#}"
 
 #: release/0.1.0/vendor/cmb2/example-functions.php:483
 #: release/svn/vendor/cmb2/example-functions.php:483
 #: vendor/cmb2/example-functions.php:483
+#, fuzzy
 msgid "Add Another Entry"
-msgstr ""
+msgstr "Add Another Entry"
 
 #: release/0.1.0/vendor/cmb2/example-functions.php:484
 #: release/svn/vendor/cmb2/example-functions.php:484
 #: vendor/cmb2/example-functions.php:484
+#, fuzzy
 msgid "Remove Entry"
-msgstr ""
+msgstr "Remove Entry"
 
 #: release/0.1.0/vendor/cmb2/example-functions.php:497
 #: release/svn/vendor/cmb2/example-functions.php:497
 #: vendor/cmb2/example-functions.php:497
+#, fuzzy
 msgid "Entry Title"
-msgstr ""
+msgstr "Entry {#}"
 
 #: release/0.1.0/vendor/cmb2/example-functions.php:504
 #: release/svn/vendor/cmb2/example-functions.php:504
 #: vendor/cmb2/example-functions.php:504
+#, fuzzy
 msgid "Description"
-msgstr ""
+msgstr "field description (optional)"
 
 #: release/0.1.0/vendor/cmb2/example-functions.php:505
 #: release/svn/vendor/cmb2/example-functions.php:505
@@ -1795,8 +1841,9 @@ msgstr ""
 #: release/0.1.0/vendor/cmb2/example-functions.php:511
 #: release/svn/vendor/cmb2/example-functions.php:511
 #: vendor/cmb2/example-functions.php:511
+#, fuzzy
 msgid "Entry Image"
-msgstr ""
+msgstr "Test Image"
 
 #: release/0.1.0/vendor/cmb2/example-functions.php:517
 #: release/svn/vendor/cmb2/example-functions.php:517
@@ -1807,64 +1854,74 @@ msgstr ""
 #: release/0.1.0/vendor/cmb2/example-functions.php:536
 #: release/svn/vendor/cmb2/example-functions.php:536
 #: vendor/cmb2/example-functions.php:536
+#, fuzzy
 msgid "User Profile Metabox"
-msgstr ""
+msgstr "User Profile Metabox"
 
 #: release/0.1.0/vendor/cmb2/example-functions.php:543
 #: release/0.1.0/vendor/cmb2/example-functions.php:613
 #: release/svn/vendor/cmb2/example-functions.php:543
 #: release/svn/vendor/cmb2/example-functions.php:613
 #: vendor/cmb2/example-functions.php:543 vendor/cmb2/example-functions.php:613
+#, fuzzy
 msgid "Extra Info"
-msgstr ""
+msgstr "Extra Info"
 
 #: release/0.1.0/vendor/cmb2/example-functions.php:551
 #: release/svn/vendor/cmb2/example-functions.php:551
 #: vendor/cmb2/example-functions.php:551
+#, fuzzy
 msgid "Avatar"
-msgstr ""
+msgstr "Avatar"
 
 #: release/0.1.0/vendor/cmb2/example-functions.php:558
 #: release/svn/vendor/cmb2/example-functions.php:558
 #: vendor/cmb2/example-functions.php:558
+#, fuzzy
 msgid "Facebook URL"
-msgstr ""
+msgstr "Facebook URL"
 
 #: release/0.1.0/vendor/cmb2/example-functions.php:565
 #: release/svn/vendor/cmb2/example-functions.php:565
 #: vendor/cmb2/example-functions.php:565
+#, fuzzy
 msgid "Twitter URL"
-msgstr ""
+msgstr "Twitter URL"
 
 #: release/0.1.0/vendor/cmb2/example-functions.php:572
 #: release/svn/vendor/cmb2/example-functions.php:572
 #: vendor/cmb2/example-functions.php:572
+#, fuzzy
 msgid "Google+ URL"
-msgstr ""
+msgstr "Google+ URL"
 
 #: release/0.1.0/vendor/cmb2/example-functions.php:579
 #: release/svn/vendor/cmb2/example-functions.php:579
 #: vendor/cmb2/example-functions.php:579
+#, fuzzy
 msgid "Linkedin URL"
-msgstr ""
+msgstr "Linkedin URL"
 
 #: release/0.1.0/vendor/cmb2/example-functions.php:586
 #: release/svn/vendor/cmb2/example-functions.php:586
 #: vendor/cmb2/example-functions.php:586
+#, fuzzy
 msgid "User Field"
-msgstr ""
+msgstr "User Field"
 
 #: release/0.1.0/vendor/cmb2/example-functions.php:606
 #: release/svn/vendor/cmb2/example-functions.php:606
 #: vendor/cmb2/example-functions.php:606
+#, fuzzy
 msgid "Category Metabox"
-msgstr ""
+msgstr "Test Metabox"
 
 #: release/0.1.0/vendor/cmb2/example-functions.php:621
 #: release/svn/vendor/cmb2/example-functions.php:621
 #: vendor/cmb2/example-functions.php:621
+#, fuzzy
 msgid "Term Image"
-msgstr ""
+msgstr "Test Image"
 
 #: release/0.1.0/vendor/cmb2/example-functions.php:628
 #: release/svn/vendor/cmb2/example-functions.php:628
@@ -1875,14 +1932,16 @@ msgstr ""
 #: release/0.1.0/vendor/cmb2/example-functions.php:650
 #: release/svn/vendor/cmb2/example-functions.php:650
 #: vendor/cmb2/example-functions.php:650
+#, fuzzy
 msgid "Theme Options Metabox"
-msgstr ""
+msgstr "Theme Options Metabox"
 
 #: release/0.1.0/vendor/cmb2/example-functions.php:665
 #: release/svn/vendor/cmb2/example-functions.php:665
 #: vendor/cmb2/example-functions.php:665
+#, fuzzy
 msgid "Site Background Color"
-msgstr ""
+msgstr "Site Background Color"
 
 #: release/0.1.0/vendor/cmb2/example-functions.php:701
 #: release/svn/vendor/cmb2/example-functions.php:701
@@ -1893,8 +1952,9 @@ msgstr ""
 #: release/0.1.0/vendor/cmb2/example-functions.php:710
 #: release/svn/vendor/cmb2/example-functions.php:710
 #: vendor/cmb2/example-functions.php:710
+#, fuzzy
 msgid "REST Test Text"
-msgstr ""
+msgstr "Test Text"
 
 #: release/0.1.0/vendor/cmb2/example-functions.php:711
 #: release/svn/vendor/cmb2/example-functions.php:711
@@ -1917,8 +1977,9 @@ msgstr ""
 #: release/0.1.0/vendor/cmb2/includes/CMB2.php:117
 #: release/svn/vendor/cmb2/includes/CMB2.php:117
 #: vendor/cmb2/includes/CMB2.php:117
+#, fuzzy
 msgid "Metabox configuration is required to have an ID parameter."
-msgstr ""
+msgstr "Metabox configuration is required to have an ID parameter"
 
 #: release/0.1.0/vendor/cmb2/includes/CMB2.php:432
 #: release/svn/vendor/cmb2/includes/CMB2.php:432
@@ -1929,22 +1990,24 @@ msgstr ""
 #: release/0.1.0/vendor/cmb2/includes/CMB2_Ajax.php:71
 #: release/svn/vendor/cmb2/includes/CMB2_Ajax.php:71
 #: vendor/cmb2/includes/CMB2_Ajax.php:71
+#, fuzzy
 msgid "Please Try Again"
-msgstr ""
+msgstr "Please Try Again"
 
 #: release/0.1.0/vendor/cmb2/includes/CMB2_Ajax.php:173
 #: release/svn/vendor/cmb2/includes/CMB2_Ajax.php:173
 #: vendor/cmb2/includes/CMB2_Ajax.php:173
+#, fuzzy
 msgid "Remove Embed"
-msgstr ""
+msgstr "Remove Embed"
 
+#. translators: 1: results for. 2: link to codex.wordpress.org/Embeds
 #: release/0.1.0/vendor/cmb2/includes/CMB2_Ajax.php:181
 #: release/0.1.0/vendor/cmb2/includes/helper-functions.php:99
 #: release/svn/vendor/cmb2/includes/CMB2_Ajax.php:181
 #: release/svn/vendor/cmb2/includes/helper-functions.php:99
 #: vendor/cmb2/includes/CMB2_Ajax.php:181
 #: vendor/cmb2/includes/helper-functions.php:99
-#. translators: 1: results for. 2: link to codex.wordpress.org/Embeds
 msgid "No oEmbed Results Found for %1$s. View more info at %2$s."
 msgstr ""
 
@@ -2001,14 +2064,16 @@ msgstr ""
 #: release/0.1.0/vendor/cmb2/includes/CMB2_Field.php:1118
 #: release/svn/vendor/cmb2/includes/CMB2_Field.php:1118
 #: vendor/cmb2/includes/CMB2_Field.php:1118
+#, fuzzy
 msgid "Add Group"
-msgstr ""
+msgstr "Add Group"
 
 #: release/0.1.0/vendor/cmb2/includes/CMB2_Field.php:1119
 #: release/svn/vendor/cmb2/includes/CMB2_Field.php:1119
 #: vendor/cmb2/includes/CMB2_Field.php:1119
+#, fuzzy
 msgid "Remove Group"
-msgstr ""
+msgstr "Remove Group"
 
 #: release/0.1.0/vendor/cmb2/includes/CMB2_Field.php:1141
 #: release/0.1.0/vendor/cmb2/includes/CMB2_Field.php:1145
@@ -2016,8 +2081,9 @@ msgstr ""
 #: release/svn/vendor/cmb2/includes/CMB2_Field.php:1145
 #: vendor/cmb2/includes/CMB2_Field.php:1141
 #: vendor/cmb2/includes/CMB2_Field.php:1145
+#, fuzzy
 msgid "None"
-msgstr ""
+msgstr "None"
 
 #: release/0.1.0/vendor/cmb2/includes/CMB2_Field.php:1206
 #: release/svn/vendor/cmb2/includes/CMB2_Field.php:1206
@@ -2034,104 +2100,122 @@ msgstr ""
 #: vendor/cmb2/includes/CMB2_Field_Display.php:406
 #: vendor/cmb2/includes/CMB2_JS.php:155
 #: vendor/cmb2/includes/types/CMB2_Type_File_Base.php:75
+#, fuzzy
 msgid "File:"
-msgstr ""
+msgstr "File:"
 
 #: release/0.1.0/vendor/cmb2/includes/CMB2_JS.php:96
 #: release/0.1.0/vendor/cmb2/includes/CMB2_JS.php:135
 #: release/svn/vendor/cmb2/includes/CMB2_JS.php:96
 #: release/svn/vendor/cmb2/includes/CMB2_JS.php:135
 #: vendor/cmb2/includes/CMB2_JS.php:96 vendor/cmb2/includes/CMB2_JS.php:135
+#, fuzzy
 msgid "Clear"
-msgstr ""
+msgstr "Clear"
 
 #: release/0.1.0/vendor/cmb2/includes/CMB2_JS.php:97
 #: release/svn/vendor/cmb2/includes/CMB2_JS.php:97
 #: vendor/cmb2/includes/CMB2_JS.php:97
+#, fuzzy
 msgid "Default"
-msgstr ""
+msgstr "Default"
 
 #: release/0.1.0/vendor/cmb2/includes/CMB2_JS.php:98
 #: release/svn/vendor/cmb2/includes/CMB2_JS.php:98
 #: vendor/cmb2/includes/CMB2_JS.php:98
+#, fuzzy
 msgid "Select Color"
-msgstr ""
+msgstr "Select Color"
 
 #: release/0.1.0/vendor/cmb2/includes/CMB2_JS.php:99
 #: release/svn/vendor/cmb2/includes/CMB2_JS.php:99
 #: vendor/cmb2/includes/CMB2_JS.php:99
+#, fuzzy
 msgid "Current Color"
-msgstr ""
+msgstr "Current Color"
 
 #: release/0.1.0/vendor/cmb2/includes/CMB2_JS.php:126
 #: release/svn/vendor/cmb2/includes/CMB2_JS.php:126
 #: vendor/cmb2/includes/CMB2_JS.php:126
+#, fuzzy
 msgid "Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday"
-msgstr ""
+msgstr "Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday"
 
 #: release/0.1.0/vendor/cmb2/includes/CMB2_JS.php:127
 #: release/svn/vendor/cmb2/includes/CMB2_JS.php:127
 #: vendor/cmb2/includes/CMB2_JS.php:127
+#, fuzzy
 msgid "Su, Mo, Tu, We, Th, Fr, Sa"
-msgstr ""
+msgstr "Su, Mo, Tu, We, Th, Fr, Sa"
 
 #: release/0.1.0/vendor/cmb2/includes/CMB2_JS.php:128
 #: release/svn/vendor/cmb2/includes/CMB2_JS.php:128
 #: vendor/cmb2/includes/CMB2_JS.php:128
+#, fuzzy
 msgid "Sun, Mon, Tue, Wed, Thu, Fri, Sat"
-msgstr ""
+msgstr "Sun, Mon, Tue, Wed, Thu, Fri, Sat"
 
 #: release/0.1.0/vendor/cmb2/includes/CMB2_JS.php:129
 #: release/svn/vendor/cmb2/includes/CMB2_JS.php:129
 #: vendor/cmb2/includes/CMB2_JS.php:129
+#, fuzzy
 msgid ""
 "January, February, March, April, May, June, July, August, September, "
 "October, November, December"
 msgstr ""
+"January, February, March, April, May, June, July, August, September, "
+"October, November, December"
 
 #: release/0.1.0/vendor/cmb2/includes/CMB2_JS.php:130
 #: release/svn/vendor/cmb2/includes/CMB2_JS.php:130
 #: vendor/cmb2/includes/CMB2_JS.php:130
+#, fuzzy
 msgid "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec"
-msgstr ""
+msgstr "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec"
 
 #: release/0.1.0/vendor/cmb2/includes/CMB2_JS.php:131
 #: release/svn/vendor/cmb2/includes/CMB2_JS.php:131
 #: vendor/cmb2/includes/CMB2_JS.php:131
+#, fuzzy
 msgid "Next"
-msgstr ""
+msgstr "Next"
 
 #: release/0.1.0/vendor/cmb2/includes/CMB2_JS.php:132
 #: release/svn/vendor/cmb2/includes/CMB2_JS.php:132
 #: vendor/cmb2/includes/CMB2_JS.php:132
+#, fuzzy
 msgid "Prev"
-msgstr ""
+msgstr "Prev"
 
 #: release/0.1.0/vendor/cmb2/includes/CMB2_JS.php:133
 #: release/svn/vendor/cmb2/includes/CMB2_JS.php:133
 #: vendor/cmb2/includes/CMB2_JS.php:133
+#, fuzzy
 msgid "Today"
-msgstr ""
+msgstr "Today"
 
 #: release/0.1.0/vendor/cmb2/includes/CMB2_JS.php:134
 #: release/0.1.0/vendor/cmb2/includes/CMB2_JS.php:144
 #: release/svn/vendor/cmb2/includes/CMB2_JS.php:134
 #: release/svn/vendor/cmb2/includes/CMB2_JS.php:144
 #: vendor/cmb2/includes/CMB2_JS.php:134 vendor/cmb2/includes/CMB2_JS.php:144
+#, fuzzy
 msgid "Done"
-msgstr ""
+msgstr "Done"
 
 #: release/0.1.0/vendor/cmb2/includes/CMB2_JS.php:138
 #: release/svn/vendor/cmb2/includes/CMB2_JS.php:138
 #: vendor/cmb2/includes/CMB2_JS.php:138
+#, fuzzy
 msgid "Choose Time"
-msgstr ""
+msgstr "Test Time"
 
 #: release/0.1.0/vendor/cmb2/includes/CMB2_JS.php:139
 #: release/svn/vendor/cmb2/includes/CMB2_JS.php:139
 #: vendor/cmb2/includes/CMB2_JS.php:139
+#, fuzzy
 msgid "Time"
-msgstr ""
+msgstr "Test Time"
 
 #: release/0.1.0/vendor/cmb2/includes/CMB2_JS.php:140
 #: release/svn/vendor/cmb2/includes/CMB2_JS.php:140
@@ -2148,8 +2232,9 @@ msgstr ""
 #: release/0.1.0/vendor/cmb2/includes/CMB2_JS.php:142
 #: release/svn/vendor/cmb2/includes/CMB2_JS.php:142
 #: vendor/cmb2/includes/CMB2_JS.php:142
+#, fuzzy
 msgid "Second"
-msgstr ""
+msgstr "Second Footer Sidebar."
 
 #: release/0.1.0/vendor/cmb2/includes/CMB2_JS.php:143
 #: release/svn/vendor/cmb2/includes/CMB2_JS.php:143
@@ -2160,14 +2245,16 @@ msgstr ""
 #: release/0.1.0/vendor/cmb2/includes/CMB2_JS.php:151
 #: release/svn/vendor/cmb2/includes/CMB2_JS.php:151
 #: vendor/cmb2/includes/CMB2_JS.php:151
+#, fuzzy
 msgid "Use this file"
-msgstr ""
+msgstr "Use this file"
 
 #: release/0.1.0/vendor/cmb2/includes/CMB2_JS.php:152
 #: release/svn/vendor/cmb2/includes/CMB2_JS.php:152
 #: vendor/cmb2/includes/CMB2_JS.php:152
+#, fuzzy
 msgid "Use these files"
-msgstr ""
+msgstr "Use this file"
 
 #: release/0.1.0/vendor/cmb2/includes/CMB2_JS.php:153
 #: release/0.1.0/vendor/cmb2/includes/types/CMB2_Type_File_Base.php:61
@@ -2175,8 +2262,9 @@ msgstr ""
 #: release/svn/vendor/cmb2/includes/types/CMB2_Type_File_Base.php:61
 #: vendor/cmb2/includes/CMB2_JS.php:153
 #: vendor/cmb2/includes/types/CMB2_Type_File_Base.php:61
+#, fuzzy
 msgid "Remove Image"
-msgstr ""
+msgstr "Remove Image"
 
 #: release/0.1.0/vendor/cmb2/includes/CMB2_JS.php:154
 #: release/0.1.0/vendor/cmb2/includes/CMB2_Types.php:300
@@ -2186,8 +2274,9 @@ msgstr ""
 #: release/svn/vendor/cmb2/includes/types/CMB2_Type_File_Base.php:80
 #: vendor/cmb2/includes/CMB2_JS.php:154 vendor/cmb2/includes/CMB2_Types.php:300
 #: vendor/cmb2/includes/types/CMB2_Type_File_Base.php:80
+#, fuzzy
 msgid "Remove"
-msgstr ""
+msgstr "Remove"
 
 #: release/0.1.0/vendor/cmb2/includes/CMB2_JS.php:156
 #: release/0.1.0/vendor/cmb2/includes/types/CMB2_Type_File_Base.php:78
@@ -2195,20 +2284,23 @@ msgstr ""
 #: release/svn/vendor/cmb2/includes/types/CMB2_Type_File_Base.php:78
 #: vendor/cmb2/includes/CMB2_JS.php:156
 #: vendor/cmb2/includes/types/CMB2_Type_File_Base.php:78
+#, fuzzy
 msgid "Download"
-msgstr ""
+msgstr "Download"
 
 #: release/0.1.0/vendor/cmb2/includes/CMB2_JS.php:157
 #: release/svn/vendor/cmb2/includes/CMB2_JS.php:157
 #: vendor/cmb2/includes/CMB2_JS.php:157
+#, fuzzy
 msgid "Select / Deselect All"
-msgstr ""
+msgstr "Select / Deselect All"
 
 #: release/0.1.0/vendor/cmb2/includes/CMB2_Types.php:237
 #: release/svn/vendor/cmb2/includes/CMB2_Types.php:237
 #: vendor/cmb2/includes/CMB2_Types.php:237
+#, fuzzy
 msgid "Add Row"
-msgstr ""
+msgstr "Add Row"
 
 #: release/0.1.0/vendor/cmb2/includes/CMB2_hookup.php:122
 #: release/svn/vendor/cmb2/includes/CMB2_hookup.php:122
@@ -2221,14 +2313,16 @@ msgstr ""
 #: release/0.1.0/vendor/cmb2/includes/CMB2_hookup.php:126
 #: release/svn/vendor/cmb2/includes/CMB2_hookup.php:126
 #: vendor/cmb2/includes/CMB2_hookup.php:126
+#, fuzzy
 msgid "Term metaboxes configuration requires a \"taxonomies\" parameter."
-msgstr ""
+msgstr "Metabox configuration is required to have an ID parameter"
 
 #: release/0.1.0/vendor/cmb2/includes/helper-functions.php:288
 #: release/svn/vendor/cmb2/includes/helper-functions.php:288
 #: vendor/cmb2/includes/helper-functions.php:288
+#, fuzzy
 msgid "Save"
-msgstr ""
+msgstr "Save"
 
 #: release/0.1.0/vendor/cmb2/includes/rest-api/CMB2_REST_Controller.php:250
 #: release/svn/vendor/cmb2/includes/rest-api/CMB2_REST_Controller.php:250
@@ -2246,8 +2340,8 @@ msgstr ""
 #: release/svn/vendor/cmb2/includes/rest-api/CMB2_REST_Controller.php:289
 #: vendor/cmb2/includes/rest-api/CMB2_REST_Controller.php:289
 msgid ""
-"No box found by that id. A box needs to be registered with the "
-"\"show_in_rest\" parameter configured."
+"No box found by that id. A box needs to be registered with the \"show_in_rest"
+"\" parameter configured."
 msgstr ""
 
 #: release/0.1.0/vendor/cmb2/includes/rest-api/CMB2_REST_Controller.php:365
@@ -2292,7 +2386,8 @@ msgstr ""
 #: release/0.1.0/vendor/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:27
 #: release/svn/vendor/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:27
 #: vendor/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:27
-msgid "Includes the box object which the fields are registered to in the response."
+msgid ""
+"Includes the box object which the fields are registered to in the response."
 msgstr ""
 
 #: release/0.1.0/vendor/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:30
@@ -2318,7 +2413,8 @@ msgstr ""
 #: release/0.1.0/vendor/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:236
 #: release/svn/vendor/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:236
 #: vendor/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:236
-msgid "CMB2 Field value cannot be updated without the value parameter specified."
+msgid ""
+"CMB2 Field value cannot be updated without the value parameter specified."
 msgstr ""
 
 #: release/0.1.0/vendor/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:295
@@ -2411,21 +2507,22 @@ msgstr ""
 #: release/svn/vendor/cmb2/includes/shim/WP_REST_Controller.php:283
 #: vendor/cmb2/includes/shim/WP_REST_Controller.php:283
 msgid ""
-"Scope under which the request is made; determines fields present in "
-"response."
+"Scope under which the request is made; determines fields present in response."
 msgstr ""
 
 #: release/0.1.0/vendor/cmb2/includes/types/CMB2_Type_File.php:36
 #: release/svn/vendor/cmb2/includes/types/CMB2_Type_File.php:36
 #: vendor/cmb2/includes/types/CMB2_Type_File.php:36
+#, fuzzy
 msgid "Add or Upload File"
-msgstr ""
+msgstr "Add or Upload File"
 
 #: release/0.1.0/vendor/cmb2/includes/types/CMB2_Type_File_List.php:36
 #: release/svn/vendor/cmb2/includes/types/CMB2_Type_File_List.php:36
 #: vendor/cmb2/includes/types/CMB2_Type_File_List.php:36
+#, fuzzy
 msgid "Add or Upload Files"
-msgstr ""
+msgstr "Add or Upload File"
 
 #: release/0.1.0/vendor/cmb2/includes/types/CMB2_Type_Taxonomy_Multicheck.php:27
 #: release/0.1.0/vendor/cmb2/includes/types/CMB2_Type_Taxonomy_Radio.php:25
@@ -2433,8 +2530,9 @@ msgstr ""
 #: release/svn/vendor/cmb2/includes/types/CMB2_Type_Taxonomy_Radio.php:25
 #: vendor/cmb2/includes/types/CMB2_Type_Taxonomy_Multicheck.php:27
 #: vendor/cmb2/includes/types/CMB2_Type_Taxonomy_Radio.php:25
+#, fuzzy
 msgid "No terms"
-msgstr ""
+msgstr "No terms"
 
 #: release/0.1.0/vendor/cpt-core/CPT_Core.php:77
 #: release/0.1.0/vendor/cpt-core/CPT_Core.php:81
@@ -2550,14 +2648,16 @@ msgstr ""
 #: release/0.1.0/vendor/cpt-core/CPT_Core.php:200
 #: release/svn/vendor/cpt-core/CPT_Core.php:200
 #: vendor/cpt-core/CPT_Core.php:200
+#, fuzzy
 msgid "Custom field updated."
-msgstr ""
+msgstr "Custom field updated."
 
 #: release/0.1.0/vendor/cpt-core/CPT_Core.php:201
 #: release/svn/vendor/cpt-core/CPT_Core.php:201
 #: vendor/cpt-core/CPT_Core.php:201
+#, fuzzy
 msgid "Custom field deleted."
-msgstr ""
+msgstr "Custom field deleted."
 
 #: release/0.1.0/vendor/cpt-core/CPT_Core.php:202
 #: release/0.1.0/vendor/cpt-core/CPT_Core.php:219
@@ -2567,10 +2667,10 @@ msgstr ""
 msgid "%1$s updated."
 msgstr ""
 
+#. translators: %s: date and time of the revision
 #: release/0.1.0/vendor/cpt-core/CPT_Core.php:204
 #: release/svn/vendor/cpt-core/CPT_Core.php:204
 #: vendor/cpt-core/CPT_Core.php:204
-#. translators: %s: date and time of the revision
 msgid "%1$s restored to revision from %2$s"
 msgstr ""
 
@@ -2598,13 +2698,13 @@ msgstr ""
 msgid "%1$s submitted. <a target=\"_blank\" href=\"%2$s\">Preview %1$s</a>"
 msgstr ""
 
+#. translators: Publish box date format, see http:php.net/date
 #: release/0.1.0/vendor/cpt-core/CPT_Core.php:214
 #: release/svn/vendor/cpt-core/CPT_Core.php:214
 #: vendor/cpt-core/CPT_Core.php:214
-#. translators: Publish box date format, see http:php.net/date
 msgid ""
-"%1$s scheduled for: <strong>%2$s</strong>. <a target=\"_blank\" "
-"href=\"%3$s\">Preview %1$s</a>"
+"%1$s scheduled for: <strong>%2$s</strong>. <a target=\"_blank\" href=\"%3$s"
+"\">Preview %1$s</a>"
 msgstr ""
 
 #: release/0.1.0/vendor/cpt-core/CPT_Core.php:214
@@ -2612,8 +2712,9 @@ msgstr ""
 #: release/svn/vendor/cpt-core/CPT_Core.php:214
 #: release/svn/vendor/cpt-core/CPT_Core.php:223
 #: vendor/cpt-core/CPT_Core.php:214 vendor/cpt-core/CPT_Core.php:223
+#, fuzzy
 msgid "M j, Y @ G:i"
-msgstr ""
+msgstr "M j, Y @ G:i"
 
 #: release/0.1.0/vendor/cpt-core/CPT_Core.php:215
 #: release/svn/vendor/cpt-core/CPT_Core.php:215
@@ -2633,18 +2734,19 @@ msgstr ""
 msgid "%1$s submitted."
 msgstr ""
 
+#. translators: Publish box date format, see http:php.net/date
 #: release/0.1.0/vendor/cpt-core/CPT_Core.php:223
 #: release/svn/vendor/cpt-core/CPT_Core.php:223
 #: vendor/cpt-core/CPT_Core.php:223
-#. translators: Publish box date format, see http:php.net/date
 msgid "%1$s scheduled for: <strong>%2$s</strong>."
 msgstr ""
 
 #: release/0.1.0/vendor/cpt-core/CPT_Core.php:224
 #: release/svn/vendor/cpt-core/CPT_Core.php:224
 #: vendor/cpt-core/CPT_Core.php:224
+#, fuzzy
 msgid "%1$s draft updated."
-msgstr ""
+msgstr "Custom field updated."
 
 #: release/0.1.0/vendor/cpt-core/CPT_Core.php:242
 #: release/svn/vendor/cpt-core/CPT_Core.php:242
@@ -2701,7 +2803,8 @@ msgstr ""
 #: vendor/taxonomy-core/Taxonomy_Core.php:84
 #: vendor/taxonomy-core/Taxonomy_Core.php:88
 #: vendor/taxonomy-core/Taxonomy_Core.php:92
-msgid "It is required to pass a single, plural and slug string to Taxonomy_Core"
+msgid ""
+"It is required to pass a single, plural and slug string to Taxonomy_Core"
 msgstr ""
 
 #: release/0.1.0/vendor/taxonomy-core/Taxonomy_Core.php:130
@@ -2763,21 +2866,23 @@ msgid ""
 msgstr ""
 
 #. Author of the plugin/theme
+#, fuzzy
 msgid "ReeZh Design"
-msgstr ""
+msgstr "ReeZh Design"
 
 #: release/0.1.0/vendor/cmb2/includes/CMB2_JS.php:125
 #: release/svn/vendor/cmb2/includes/CMB2_JS.php:125
 #: vendor/cmb2/includes/CMB2_JS.php:125
+#, fuzzy
 msgctxt "Valid formatDate string for jquery-ui datepicker"
 msgid "mm/dd/yy"
-msgstr ""
+msgstr "mm/dd/yy"
 
 #: release/0.1.0/vendor/cmb2/includes/CMB2_JS.php:145
 #: release/svn/vendor/cmb2/includes/CMB2_JS.php:145
 #: vendor/cmb2/includes/CMB2_JS.php:145
 msgctxt ""
-"Valid formatting string, as per "
-"http://trentrichardson.com/examples/timepicker/"
+"Valid formatting string, as per http://trentrichardson.com/examples/"
+"timepicker/"
 msgid "hh:mm TT"
 msgstr ""
