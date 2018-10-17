@@ -1,0 +1,1094 @@
+# Copyright (C) 2018 ReeZh Design
+# This file is distributed under the GPLv2.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: RD Mobile 0.1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/rdmobile\n"
+"POT-Creation-Date: 2018-10-17 17:02+0700\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: ReeZh Design <hireus@reezhdesign.com>\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_n\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: release\n"
+"X-Poedit-SearchPathExcluded-1: node_modules\n"
+"X-Poedit-SearchPathExcluded-2: bin\n"
+"X-Poedit-SearchPathExcluded-3: tests\n"
+"X-Poedit-SearchPathExcluded-4: vendor\n"
+
+#: includes/class-frontend.php:95
+msgid "Call Us"
+msgstr ""
+
+#: includes/class-frontend.php:104
+msgid "Chat Us"
+msgstr ""
+
+#: includes/class-options.php:158
+msgid "Country Code"
+msgstr ""
+
+#: includes/class-options.php:159
+msgid "Choose your country code"
+msgstr ""
+
+#: includes/class-options.php:163
+msgid "62"
+msgstr ""
+
+#: includes/class-options.php:165
+msgid "Afghanistan | 93"
+msgstr ""
+
+#: includes/class-options.php:166
+msgid "Albania | 355"
+msgstr ""
+
+#: includes/class-options.php:167
+msgid "Algeria | 213"
+msgstr ""
+
+#: includes/class-options.php:168
+msgid "American Samoa | 1-684"
+msgstr ""
+
+#: includes/class-options.php:169
+msgid "Andorra | 376"
+msgstr ""
+
+#: includes/class-options.php:170
+msgid "Angola | 244"
+msgstr ""
+
+#: includes/class-options.php:171
+msgid "Anguilla | 1-264"
+msgstr ""
+
+#: includes/class-options.php:172
+msgid "Antarctica | 672"
+msgstr ""
+
+#: includes/class-options.php:173
+msgid "Antigua and Barbuda | 1-268"
+msgstr ""
+
+#: includes/class-options.php:174
+msgid "Argentina | 54"
+msgstr ""
+
+#: includes/class-options.php:175
+msgid "Armenia | 374"
+msgstr ""
+
+#: includes/class-options.php:176
+msgid "Aruba | 297"
+msgstr ""
+
+#: includes/class-options.php:177
+msgid "Australia, Christmas Island, Cocos Islands | 61"
+msgstr ""
+
+#: includes/class-options.php:178
+msgid "Austria | 43"
+msgstr ""
+
+#: includes/class-options.php:179
+msgid "Azerbaijan | 994"
+msgstr ""
+
+#: includes/class-options.php:180
+msgid "Bahamas | 1-242"
+msgstr ""
+
+#: includes/class-options.php:181
+msgid "Bahrain | 973"
+msgstr ""
+
+#: includes/class-options.php:182
+msgid "Bangladesh | 880"
+msgstr ""
+
+#: includes/class-options.php:183
+msgid "Barbados | 1-246"
+msgstr ""
+
+#: includes/class-options.php:184
+msgid "Belarus | 375"
+msgstr ""
+
+#: includes/class-options.php:185
+msgid "Belgium | 32"
+msgstr ""
+
+#: includes/class-options.php:186
+msgid "Belize | 501"
+msgstr ""
+
+#: includes/class-options.php:187
+msgid "Benin | 229"
+msgstr ""
+
+#: includes/class-options.php:188
+msgid "Bermuda | 1-441"
+msgstr ""
+
+#: includes/class-options.php:189
+msgid "Bhutan | 975"
+msgstr ""
+
+#: includes/class-options.php:190
+msgid "Bolivia | 591"
+msgstr ""
+
+#: includes/class-options.php:191
+msgid "Bosnia and Herzegovina | 387"
+msgstr ""
+
+#: includes/class-options.php:192
+msgid "Botswana | 267"
+msgstr ""
+
+#: includes/class-options.php:193
+msgid "Brazil | 55"
+msgstr ""
+
+#: includes/class-options.php:194
+msgid "British Indian Ocean Territory | 246"
+msgstr ""
+
+#: includes/class-options.php:195
+msgid "British Virgin Islands | 1-284"
+msgstr ""
+
+#: includes/class-options.php:196
+msgid "Brunei | 673"
+msgstr ""
+
+#: includes/class-options.php:197
+msgid "Bulgaria | 359"
+msgstr ""
+
+#: includes/class-options.php:198
+msgid "Burkina Faso | 226"
+msgstr ""
+
+#: includes/class-options.php:199
+msgid "Burundi | 257"
+msgstr ""
+
+#: includes/class-options.php:200
+msgid "Cambodia | 855"
+msgstr ""
+
+#: includes/class-options.php:201
+msgid "Cameroon | 237"
+msgstr ""
+
+#: includes/class-options.php:202
+msgid "Canada | 1"
+msgstr ""
+
+#: includes/class-options.php:203
+msgid "Cape Verde | 238"
+msgstr ""
+
+#: includes/class-options.php:204
+msgid "Cayman Islands | 1-345"
+msgstr ""
+
+#: includes/class-options.php:205
+msgid "Central African Republic | 236"
+msgstr ""
+
+#: includes/class-options.php:206
+msgid "Chad | 235"
+msgstr ""
+
+#: includes/class-options.php:207
+msgid "Chile | 56"
+msgstr ""
+
+#: includes/class-options.php:208
+msgid "China | 86"
+msgstr ""
+
+#: includes/class-options.php:209
+msgid "Colombia | 57"
+msgstr ""
+
+#: includes/class-options.php:210
+msgid "Comoros | 269"
+msgstr ""
+
+#: includes/class-options.php:211
+msgid "Cook Islands | 682"
+msgstr ""
+
+#: includes/class-options.php:212
+msgid "Costa Rica | 506"
+msgstr ""
+
+#: includes/class-options.php:213
+msgid "Croatia | 385"
+msgstr ""
+
+#: includes/class-options.php:214
+msgid "Cuba | 53"
+msgstr ""
+
+#: includes/class-options.php:215
+msgid "Curacao | 599"
+msgstr ""
+
+#: includes/class-options.php:216
+msgid "Cyprus | 357"
+msgstr ""
+
+#: includes/class-options.php:217
+msgid "Czech Republic | 420"
+msgstr ""
+
+#: includes/class-options.php:218
+msgid "Democratic Republic of the Congo | 243"
+msgstr ""
+
+#: includes/class-options.php:219
+msgid "Denmark | 45"
+msgstr ""
+
+#: includes/class-options.php:220
+msgid "Djibouti | 253"
+msgstr ""
+
+#: includes/class-options.php:221
+msgid "Dominica | 1-767"
+msgstr ""
+
+#: includes/class-options.php:222
+msgid "Dominican Republic | 1-809"
+msgstr ""
+
+#: includes/class-options.php:223
+msgid "Dominican Republic | 1-829"
+msgstr ""
+
+#: includes/class-options.php:224
+msgid "Dominican Republic | 1-849"
+msgstr ""
+
+#: includes/class-options.php:225
+msgid "East Timor | 670"
+msgstr ""
+
+#: includes/class-options.php:226
+msgid "Ecuador | 593"
+msgstr ""
+
+#: includes/class-options.php:227
+msgid "Egypt | 20"
+msgstr ""
+
+#: includes/class-options.php:228
+msgid "El Salvador | 503"
+msgstr ""
+
+#: includes/class-options.php:229
+msgid "Equatorial Guinea | 240"
+msgstr ""
+
+#: includes/class-options.php:230
+msgid "Eritrea | 291"
+msgstr ""
+
+#: includes/class-options.php:231
+msgid "Estonia | 372"
+msgstr ""
+
+#: includes/class-options.php:232
+msgid "Ethiopia | 251"
+msgstr ""
+
+#: includes/class-options.php:233
+msgid "Falkland Islands | 500"
+msgstr ""
+
+#: includes/class-options.php:234
+msgid "Faroe Islands | 298"
+msgstr ""
+
+#: includes/class-options.php:235
+msgid "Fiji | 679"
+msgstr ""
+
+#: includes/class-options.php:236
+msgid "Finland | 358"
+msgstr ""
+
+#: includes/class-options.php:237
+msgid "France | 33"
+msgstr ""
+
+#: includes/class-options.php:238
+msgid "French Polynesia | 689"
+msgstr ""
+
+#: includes/class-options.php:239
+msgid "Gabon | 241"
+msgstr ""
+
+#: includes/class-options.php:240
+msgid "Gambia | 220"
+msgstr ""
+
+#: includes/class-options.php:241
+msgid "Georgia | 995"
+msgstr ""
+
+#: includes/class-options.php:242
+msgid "Germany | 49"
+msgstr ""
+
+#: includes/class-options.php:243
+msgid "Ghana | 233"
+msgstr ""
+
+#: includes/class-options.php:244
+msgid "Gibraltar | 350"
+msgstr ""
+
+#: includes/class-options.php:245
+msgid "Greece | 30"
+msgstr ""
+
+#: includes/class-options.php:246
+msgid "Greenland | 299"
+msgstr ""
+
+#: includes/class-options.php:247
+msgid "Grenada | 1-473"
+msgstr ""
+
+#: includes/class-options.php:248
+msgid "Guam | 1-671"
+msgstr ""
+
+#: includes/class-options.php:249
+msgid "Guatemala | 502"
+msgstr ""
+
+#: includes/class-options.php:250
+msgid "Guernsey | 44-1481"
+msgstr ""
+
+#: includes/class-options.php:251
+msgid "Guinea | 224"
+msgstr ""
+
+#: includes/class-options.php:252
+msgid "Guinea-Bissau | 245"
+msgstr ""
+
+#: includes/class-options.php:253
+msgid "Guyana | 592"
+msgstr ""
+
+#: includes/class-options.php:254
+msgid "Haiti | 509"
+msgstr ""
+
+#: includes/class-options.php:255
+msgid "Honduras | 504"
+msgstr ""
+
+#: includes/class-options.php:256
+msgid "Hong Kong | 852"
+msgstr ""
+
+#: includes/class-options.php:257
+msgid "Hungary | 36"
+msgstr ""
+
+#: includes/class-options.php:258
+msgid "Iceland | 354"
+msgstr ""
+
+#: includes/class-options.php:259
+msgid "India | 91"
+msgstr ""
+
+#: includes/class-options.php:260
+msgid "Indonesia | 62"
+msgstr ""
+
+#: includes/class-options.php:261
+msgid "Iran | 98"
+msgstr ""
+
+#: includes/class-options.php:262
+msgid "Iraq | 964"
+msgstr ""
+
+#: includes/class-options.php:263
+msgid "Ireland | 353"
+msgstr ""
+
+#: includes/class-options.php:264
+msgid "Isle of Man | 44-1624"
+msgstr ""
+
+#: includes/class-options.php:265
+msgid "Israel | 972"
+msgstr ""
+
+#: includes/class-options.php:266
+msgid "Italy | 39"
+msgstr ""
+
+#: includes/class-options.php:267
+msgid "Ivory Coast | 225"
+msgstr ""
+
+#: includes/class-options.php:268
+msgid "Jamaica | 1-876"
+msgstr ""
+
+#: includes/class-options.php:269
+msgid "Japan | 81"
+msgstr ""
+
+#: includes/class-options.php:270
+msgid "Jersey | 44-1534"
+msgstr ""
+
+#: includes/class-options.php:271
+msgid "Jordan | 962"
+msgstr ""
+
+#: includes/class-options.php:272
+msgid "Kazakhstan | 7"
+msgstr ""
+
+#: includes/class-options.php:273
+msgid "Kenya | 254"
+msgstr ""
+
+#: includes/class-options.php:274
+msgid "Kiribati | 686"
+msgstr ""
+
+#: includes/class-options.php:275
+msgid "Kosovo | 383"
+msgstr ""
+
+#: includes/class-options.php:276
+msgid "Kuwait | 965"
+msgstr ""
+
+#: includes/class-options.php:277
+msgid "Kyrgyzstan | 996"
+msgstr ""
+
+#: includes/class-options.php:278
+msgid "Laos | 856"
+msgstr ""
+
+#: includes/class-options.php:279
+msgid "Latvia | 371"
+msgstr ""
+
+#: includes/class-options.php:280
+msgid "Lebanon | 961"
+msgstr ""
+
+#: includes/class-options.php:281
+msgid "Lesotho | 266"
+msgstr ""
+
+#: includes/class-options.php:282
+msgid "Liberia | 231"
+msgstr ""
+
+#: includes/class-options.php:283
+msgid "Libya | 218"
+msgstr ""
+
+#: includes/class-options.php:284
+msgid "Liechtenstein | 423"
+msgstr ""
+
+#: includes/class-options.php:285
+msgid "Lithuania | 370"
+msgstr ""
+
+#: includes/class-options.php:286
+msgid "Luxembourg | 352"
+msgstr ""
+
+#: includes/class-options.php:287
+msgid "Macau | 853"
+msgstr ""
+
+#: includes/class-options.php:288
+msgid "Macedonia | 389"
+msgstr ""
+
+#: includes/class-options.php:289
+msgid "Madagascar | 261"
+msgstr ""
+
+#: includes/class-options.php:290
+msgid "Malawi | 265"
+msgstr ""
+
+#: includes/class-options.php:291
+msgid "Malaysia | 60"
+msgstr ""
+
+#: includes/class-options.php:292
+msgid "Maldives | 960"
+msgstr ""
+
+#: includes/class-options.php:293
+msgid "Mali | 223"
+msgstr ""
+
+#: includes/class-options.php:294
+msgid "Malta | 356"
+msgstr ""
+
+#: includes/class-options.php:295
+msgid "Marshall Islands | 692"
+msgstr ""
+
+#: includes/class-options.php:296
+msgid "Mauritania | 222"
+msgstr ""
+
+#: includes/class-options.php:297
+msgid "Mauritius | 230"
+msgstr ""
+
+#: includes/class-options.php:298
+msgid "Mayotte | 262"
+msgstr ""
+
+#: includes/class-options.php:299
+msgid "Mexico | 52"
+msgstr ""
+
+#: includes/class-options.php:300
+msgid "Micronesia | 691"
+msgstr ""
+
+#: includes/class-options.php:301
+msgid "Moldova | 373"
+msgstr ""
+
+#: includes/class-options.php:302
+msgid "Monaco | 377"
+msgstr ""
+
+#: includes/class-options.php:303
+msgid "Mongolia | 976"
+msgstr ""
+
+#: includes/class-options.php:304
+msgid "Montenegro | 382"
+msgstr ""
+
+#: includes/class-options.php:305
+msgid "Montserrat | 1-664"
+msgstr ""
+
+#: includes/class-options.php:306
+msgid "Morocco | 212"
+msgstr ""
+
+#: includes/class-options.php:307
+msgid "Mozambique | 258"
+msgstr ""
+
+#: includes/class-options.php:308
+msgid "Myanmar | 95"
+msgstr ""
+
+#: includes/class-options.php:309
+msgid "Namibia | 264"
+msgstr ""
+
+#: includes/class-options.php:310
+msgid "Nauru | 674"
+msgstr ""
+
+#: includes/class-options.php:311
+msgid "Nepal | 977"
+msgstr ""
+
+#: includes/class-options.php:312
+msgid "Netherlands | 31"
+msgstr ""
+
+#: includes/class-options.php:313
+msgid "Netherlands Antilles | 599"
+msgstr ""
+
+#: includes/class-options.php:314
+msgid "New Caledonia | 687"
+msgstr ""
+
+#: includes/class-options.php:315
+msgid "New Zealand | 64"
+msgstr ""
+
+#: includes/class-options.php:316
+msgid "Nicaragua | 505"
+msgstr ""
+
+#: includes/class-options.php:317
+msgid "Niger | 227"
+msgstr ""
+
+#: includes/class-options.php:318
+msgid "Nigeria | 234"
+msgstr ""
+
+#: includes/class-options.php:319
+msgid "Niue | 683"
+msgstr ""
+
+#: includes/class-options.php:320
+msgid "North Korea | 850"
+msgstr ""
+
+#: includes/class-options.php:321
+msgid "Northern Mariana Islands | 1-670"
+msgstr ""
+
+#: includes/class-options.php:322
+msgid "Norway | 47"
+msgstr ""
+
+#: includes/class-options.php:323
+msgid "Oman | 968"
+msgstr ""
+
+#: includes/class-options.php:324
+msgid "Pakistan | 92"
+msgstr ""
+
+#: includes/class-options.php:325
+msgid "Palau | 680"
+msgstr ""
+
+#: includes/class-options.php:326
+msgid "Palestine | 970"
+msgstr ""
+
+#: includes/class-options.php:327
+msgid "Panama | 507"
+msgstr ""
+
+#: includes/class-options.php:328
+msgid "Papua New Guinea | 675"
+msgstr ""
+
+#: includes/class-options.php:329
+msgid "Paraguay | 595"
+msgstr ""
+
+#: includes/class-options.php:330
+msgid "Peru | 51"
+msgstr ""
+
+#: includes/class-options.php:331
+msgid "Philippines | 63"
+msgstr ""
+
+#: includes/class-options.php:332
+msgid "Pitcairn | 64"
+msgstr ""
+
+#: includes/class-options.php:333
+msgid "Poland | 48"
+msgstr ""
+
+#: includes/class-options.php:334
+msgid "Portugal | 351"
+msgstr ""
+
+#: includes/class-options.php:335
+msgid "Puerto Rico | 1-787"
+msgstr ""
+
+#: includes/class-options.php:336
+msgid "Puerto Rico | 1-939"
+msgstr ""
+
+#: includes/class-options.php:337
+msgid "Qatar | 974"
+msgstr ""
+
+#: includes/class-options.php:338
+msgid "Republic of the Congo | 242"
+msgstr ""
+
+#: includes/class-options.php:339
+msgid "Reunion | 262"
+msgstr ""
+
+#: includes/class-options.php:340
+msgid "Romania | 40"
+msgstr ""
+
+#: includes/class-options.php:341
+msgid "Russia | 7"
+msgstr ""
+
+#: includes/class-options.php:342
+msgid "Rwanda | 250"
+msgstr ""
+
+#: includes/class-options.php:343
+msgid "Saint Barthelemy | 590"
+msgstr ""
+
+#: includes/class-options.php:344
+msgid "Saint Helena | 290"
+msgstr ""
+
+#: includes/class-options.php:345
+msgid "Saint Kitts and Nevis | 1-869"
+msgstr ""
+
+#: includes/class-options.php:346
+msgid "Saint Lucia | 1-758"
+msgstr ""
+
+#: includes/class-options.php:347
+msgid "Saint Martin | 590"
+msgstr ""
+
+#: includes/class-options.php:348
+msgid "Saint Pierre and Miquelon | 508"
+msgstr ""
+
+#: includes/class-options.php:349
+msgid "Saint Vincent and the Grenadines | 1-784"
+msgstr ""
+
+#: includes/class-options.php:350
+msgid "Samoa | 685"
+msgstr ""
+
+#: includes/class-options.php:351
+msgid "San Marino | 378"
+msgstr ""
+
+#: includes/class-options.php:352
+msgid "Sao Tome and Principe | 239"
+msgstr ""
+
+#: includes/class-options.php:353
+msgid "Saudi Arabia | 966"
+msgstr ""
+
+#: includes/class-options.php:354
+msgid "Senegal | 221"
+msgstr ""
+
+#: includes/class-options.php:355
+msgid "Serbia | 381"
+msgstr ""
+
+#: includes/class-options.php:356
+msgid "Seychelles | 248"
+msgstr ""
+
+#: includes/class-options.php:357
+msgid "Sierra Leone | 232"
+msgstr ""
+
+#: includes/class-options.php:358
+msgid "Singapore | 65"
+msgstr ""
+
+#: includes/class-options.php:359
+msgid "Sint Maarten | 1-721"
+msgstr ""
+
+#: includes/class-options.php:360
+msgid "Slovakia | 421"
+msgstr ""
+
+#: includes/class-options.php:361
+msgid "Slovenia | 386"
+msgstr ""
+
+#: includes/class-options.php:362
+msgid "Solomon Islands | 677"
+msgstr ""
+
+#: includes/class-options.php:363
+msgid "Somalia | 252"
+msgstr ""
+
+#: includes/class-options.php:364
+msgid "South Africa | 27"
+msgstr ""
+
+#: includes/class-options.php:365
+msgid "South Korea | 82"
+msgstr ""
+
+#: includes/class-options.php:366
+msgid "South Sudan | 211"
+msgstr ""
+
+#: includes/class-options.php:367
+msgid "Spain | 34"
+msgstr ""
+
+#: includes/class-options.php:368
+msgid "Sri Lanka | 94"
+msgstr ""
+
+#: includes/class-options.php:369
+msgid "Sudan | 249"
+msgstr ""
+
+#: includes/class-options.php:370
+msgid "Suriname | 597"
+msgstr ""
+
+#: includes/class-options.php:371
+msgid "Svalbard and Jan Mayen | 47"
+msgstr ""
+
+#: includes/class-options.php:372
+msgid "Swaziland | 268"
+msgstr ""
+
+#: includes/class-options.php:373
+msgid "Sweden | 46"
+msgstr ""
+
+#: includes/class-options.php:374
+msgid "Switzerland | 41"
+msgstr ""
+
+#: includes/class-options.php:375
+msgid "Syria | 963"
+msgstr ""
+
+#: includes/class-options.php:376
+msgid "Taiwan | 886"
+msgstr ""
+
+#: includes/class-options.php:377
+msgid "Tajikistan | 992"
+msgstr ""
+
+#: includes/class-options.php:378
+msgid "Tanzania | 255"
+msgstr ""
+
+#: includes/class-options.php:379
+msgid "Thailand | 66"
+msgstr ""
+
+#: includes/class-options.php:380
+msgid "Togo | 228"
+msgstr ""
+
+#: includes/class-options.php:381
+msgid "Tokelau | 690"
+msgstr ""
+
+#: includes/class-options.php:382
+msgid "Tonga | 676"
+msgstr ""
+
+#: includes/class-options.php:383
+msgid "Trinidad and Tobago | 1-868"
+msgstr ""
+
+#: includes/class-options.php:384
+msgid "Tunisia | 216"
+msgstr ""
+
+#: includes/class-options.php:385
+msgid "Turkey | 90"
+msgstr ""
+
+#: includes/class-options.php:386
+msgid "Turkmenistan | 993"
+msgstr ""
+
+#: includes/class-options.php:387
+msgid "Turks and Caicos Islands | 1-649"
+msgstr ""
+
+#: includes/class-options.php:388
+msgid "Tuvalu | 688"
+msgstr ""
+
+#: includes/class-options.php:389
+msgid "U.S. Virgin Islands | 1-340"
+msgstr ""
+
+#: includes/class-options.php:390
+msgid "Uganda | 256"
+msgstr ""
+
+#: includes/class-options.php:391
+msgid "Ukraine | 380"
+msgstr ""
+
+#: includes/class-options.php:392
+msgid "United Arab Emirates | 971"
+msgstr ""
+
+#: includes/class-options.php:393
+msgid "United Kingdom | 44"
+msgstr ""
+
+#: includes/class-options.php:394
+msgid "United States | 1"
+msgstr ""
+
+#: includes/class-options.php:395
+msgid "Uruguay | 598"
+msgstr ""
+
+#: includes/class-options.php:396
+msgid "Uzbekistan | 998"
+msgstr ""
+
+#: includes/class-options.php:397
+msgid "Vanuatu | 678"
+msgstr ""
+
+#: includes/class-options.php:398
+msgid "Vatican | 379"
+msgstr ""
+
+#: includes/class-options.php:399
+msgid "Venezuela | 58"
+msgstr ""
+
+#: includes/class-options.php:400
+msgid "Vietnam | 84"
+msgstr ""
+
+#: includes/class-options.php:401
+msgid "Wallis and Futuna | 681"
+msgstr ""
+
+#: includes/class-options.php:402
+msgid "Western Sahara | 212"
+msgstr ""
+
+#: includes/class-options.php:403
+msgid "Yemen | 967"
+msgstr ""
+
+#: includes/class-options.php:404
+msgid "Zambia | 260"
+msgstr ""
+
+#: includes/class-options.php:405
+msgid "Zimbabwe | 263"
+msgstr ""
+
+#: includes/class-options.php:410
+msgid "Phone Number"
+msgstr ""
+
+#: includes/class-options.php:411
+msgid "Add your phone / mobile number"
+msgstr ""
+
+#: includes/class-options.php:414 includes/class-options.php:423
+msgid "082127602518"
+msgstr ""
+
+#: includes/class-options.php:419
+msgid "WhatsApp Number"
+msgstr ""
+
+#: includes/class-options.php:420
+msgid "Add your whatsapp number"
+msgstr ""
+
+#: includes/class-options.php:428
+msgid "WhatsApp Message"
+msgstr ""
+
+#: includes/class-options.php:429
+msgid "Add your message for whatsapp"
+msgstr ""
+
+#: includes/class-options.php:432
+msgid "Hello World"
+msgstr ""
+
+#: includes/class-options.php:437
+msgid "Display Position"
+msgstr ""
+
+#: includes/class-options.php:438
+msgid "Set display position"
+msgstr ""
+
+#: includes/class-options.php:444
+msgid "Bottom"
+msgstr ""
+
+#: includes/class-options.php:445
+msgid "Bottom Full"
+msgstr ""
+
+#: includes/class-options.php:446
+msgid "Left"
+msgstr ""
+
+#: includes/class-options.php:447
+msgid "Right"
+msgstr ""
+
+#: includes/class-options.php:448
+msgid "Bottom Left"
+msgstr ""
+
+#: includes/class-options.php:449
+msgid "Bottom Right"
+msgstr ""
+
+#: includes/class-options.php:455
+msgid "Display Icon"
+msgstr ""
+
+#: includes/class-options.php:456
+msgid "Set display icon and text"
+msgstr ""
+
+#: includes/class-options.php:462
+msgid "Icon Only"
+msgstr ""
+
+#: includes/class-options.php:463
+msgid "Icon Text"
+msgstr ""
+
+#: rdmobile.php:288
+#, php-format
+msgid ""
+"RD Mobile WordPress Plugin is missing requirements and has been <a href=\"%s"
+"\">deactivated</a>. Please make sure all requirements are available."
+msgstr ""

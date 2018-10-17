@@ -1,0 +1,404 @@
+/**
+ * RDMobile
+ * https://reezhdesign.com
+ *
+ * Copyright (c) 2018 ReeZh Design
+ * Licensed under the GPLv2+ license.
+ */
+/******************************************************************
+Site Name:
+Author:
+
+Stylesheet: Mixins Stylesheet
+
+This is where you can take advantage of Sass' great features: Mixins.
+I won't go in-depth on how they work exactly,
+there are a few articles below that will help do that. What I will
+tell you is that this will help speed up simple changes like
+changing a color or adding CSS3 techniques gradients.
+
+A WORD OF WARNING: It's very easy to overdo it here. Be careful and
+remember less is more.
+
+Helpful:
+http://sachagreif.com/useful-sass-mixins/
+http://thesassway.com/intermediate/leveraging-sass-mixins-for-cleaner-code
+http://web-design-weekly.com/blog/2013/05/12/handy-sass-mixins/
+
+******************************************************************/
+/*********************
+TRANSITION
+*********************/
+/*
+I totally rewrote this to be cleaner and easier to use.
+You'll need to be using Sass 3.2+ for these to work.
+Thanks to @anthonyshort for the inspiration on these.
+USAGE: @include transition(all 0.2s ease-in-out);
+*/
+/*
+CENTERING
+*/
+#rdmobile {
+  position: fixed;
+  width: 50%;
+  height: auto;
+  overflow: hidden;
+  top: 50%;
+  left: 50%;
+  bottom: auto;
+  right: auto;
+  transform: translate(-50%, -50%);
+  /*
+  @media screen and (max-width: 767px) {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    top: auto;
+    right: auto;
+    transform: translate(0, 0);
+    width: 100%!important;
+    height: auto;
+  }
+*/
+  background: #fff;
+  color: #111;
+  min-height: 30px;
+  height: auto;
+  opacity: 1;
+  z-index: 2500; }
+  #rdmobile a {
+    color: #111; }
+    #rdmobile a:hover {
+      color: #666; }
+  #rdmobile ul {
+    margin: 0;
+    padding: 0;
+    list-style: none; }
+    #rdmobile ul li a {
+      color: #333;
+      display: block;
+      line-height: 40px;
+      padding: 5px;
+      text-decoration: none; }
+      #rdmobile ul li a:hover {
+        color: #fff; }
+    #rdmobile ul li i.fa {
+      font-size: 24px;
+      line-height: 40px;
+      width: 40px;
+      height: 40px;
+      text-align: center;
+      vertical-align: middle; }
+    #rdmobile ul li span {
+      padding: 5px 10px; }
+    #rdmobile ul li.rdm_phone {
+      -webkit-transition: all 0.25s ease-in-out;
+      transition: all 0.25s ease-in-out;
+      background: #34b7f1; }
+      #rdmobile ul li.rdm_phone a {
+        -webkit-transition: all 0.25s ease-in-out;
+        transition: all 0.25s ease-in-out;
+        color: #095e83; }
+        #rdmobile ul li.rdm_phone a:hover {
+          color: #fff; }
+      #rdmobile ul li.rdm_phone:hover {
+        background: #095e83; }
+    #rdmobile ul li.rdm_whatsapp {
+      -webkit-transition: all 0.25s ease-in-out;
+      transition: all 0.25s ease-in-out;
+      background: #25d366; }
+      #rdmobile ul li.rdm_whatsapp a {
+        -webkit-transition: all 0.25s ease-in-out;
+        transition: all 0.25s ease-in-out;
+        color: #0e5127; }
+        #rdmobile ul li.rdm_whatsapp a:hover {
+          color: #fff; }
+      #rdmobile ul li.rdm_whatsapp:hover {
+        background: #0e5127; }
+  #rdmobile.icon > ul {
+    margin: 0;
+    padding: 0;
+    list-style: none; }
+    #rdmobile.icon > ul > li > a i.fa + span {
+      overflow: hidden;
+      position: absolute;
+      clip: rect(0 0 0 0);
+      height: 1px;
+      width: 1px;
+      margin: -1px;
+      padding: 0;
+      border: 0; }
+  #rdmobile.left {
+    position: fixed;
+    width: 50%;
+    height: auto;
+    overflow: hidden;
+    top: 50%;
+    left: 0;
+    right: auto;
+    bottom: auto;
+    transform: translate(0, -50%);
+    /*
+  @media screen and (max-width: 767px) {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    top: auto;
+    right: auto;
+    transform: translate(0, 0);
+    width: 100%!important;
+    height: auto;
+  }
+*/
+    right: auto;
+    width: auto; }
+    #rdmobile.left ul > li {
+      display: block; }
+      #rdmobile.left ul > li > a i.fa + span {
+        overflow: hidden;
+        position: absolute;
+        clip: rect(0 0 0 0);
+        height: 1px;
+        width: 1px;
+        margin: -1px;
+        padding: 0;
+        border: 0; }
+  #rdmobile.right {
+    position: fixed;
+    width: 50%;
+    height: auto;
+    overflow: hidden;
+    top: 50%;
+    right: 0;
+    bottom: auto;
+    left: auto;
+    transform: translate(0, -50%);
+    /*
+  @media screen and (max-width: 767px) {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    top: auto;
+    right: auto;
+    transform: translate(0, 0);
+    width: 100%!important;
+    height: auto;
+  }
+*/
+    left: auto;
+    width: auto; }
+    #rdmobile.right ul > li {
+      display: block; }
+      #rdmobile.right ul > li > a i.fa + span {
+        overflow: hidden;
+        position: absolute;
+        clip: rect(0 0 0 0);
+        height: 1px;
+        width: 1px;
+        margin: -1px;
+        padding: 0;
+        border: 0; }
+  #rdmobile.topleft {
+    position: fixed;
+    width: 50%;
+    height: auto;
+    overflow: hidden;
+    top: 0;
+    left: 0;
+    bottom: auto;
+    right: auto;
+    transform: translate(0, 0);
+    /*
+  @media screen and (max-width: 767px) {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    top: auto;
+    right: auto;
+    transform: translate(0, 0);
+    width: 100%!important;
+    height: auto;
+  }
+*/
+    right: auto;
+    width: auto; }
+  #rdmobile.topright {
+    position: fixed;
+    width: 50%;
+    height: auto;
+    overflow: hidden;
+    top: 0;
+    right: 0;
+    bottom: auto;
+    left: auto;
+    transform: translate(0, 0);
+    /*
+  @media screen and (max-width: 767px) {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    top: auto;
+    right: auto;
+    transform: translate(0, 0);
+    width: 100%!important;
+    height: auto;
+  }
+*/
+    left: auto;
+    width: auto; }
+  #rdmobile.bottomleft {
+    position: fixed;
+    width: 50%;
+    height: auto;
+    overflow: hidden;
+    bottom: 0;
+    left: 0;
+    top: auto;
+    right: auto;
+    transform: translate(0, 0);
+    /*
+  @media screen and (max-width: 767px) {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    top: auto;
+    right: auto;
+    transform: translate(0, 0);
+    width: 100%!important;
+    height: auto;
+  }
+*/
+    right: auto;
+    width: auto; }
+    #rdmobile.bottomleft ul > li {
+      display: block;
+      float: left; }
+    #rdmobile.bottomleft ul:after {
+      display: table;
+      clear: both; }
+  #rdmobile.bottomright {
+    position: fixed;
+    width: 50%;
+    height: auto;
+    overflow: hidden;
+    bottom: 0;
+    right: 0;
+    top: auto;
+    left: auto;
+    transform: translate(0, 0);
+    /*
+  @media screen and (max-width: 767px) {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    top: auto;
+    right: auto;
+    transform: translate(0, 0);
+    width: 100%!important;
+    height: auto;
+  }
+*/
+    left: auto;
+    width: auto; }
+    #rdmobile.bottomright ul > li {
+      display: block;
+      float: left; }
+    #rdmobile.bottomright ul:after {
+      display: table;
+      clear: both; }
+  #rdmobile.top {
+    position: fixed;
+    width: 50%;
+    height: auto;
+    overflow: hidden;
+    top: 5%;
+    left: 50%;
+    bottom: auto;
+    right: auto;
+    transform: translate(-50%, 0);
+    /*
+  @media screen and (max-width: 767px) {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    top: auto;
+    right: auto;
+    transform: translate(0, 0);
+    width: 100%!important;
+    height: auto;
+  }
+*/ }
+    #rdmobile.top ul > li {
+      display: inline; }
+  #rdmobile.bottom {
+    position: fixed;
+    width: 50%;
+    height: auto;
+    overflow: hidden;
+    bottom: 0;
+    left: 50%;
+    top: auto;
+    right: auto;
+    transform: translate(-50%, 0);
+    /*
+  @media screen and (max-width: 767px) {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    top: auto;
+    right: auto;
+    transform: translate(0, 0);
+    width: 100%!important;
+    height: auto;
+  }
+*/
+    width: auto; }
+    #rdmobile.bottom ul {
+      display: table;
+      margin: 0 auto;
+      text-align: center; }
+      #rdmobile.bottom ul > li {
+        display: table-cell; }
+        #rdmobile.bottom ul > li a {
+          line-height: normal; }
+          #rdmobile.bottom ul > li a span {
+            display: block;
+            clear: both; }
+  #rdmobile.bottomfull {
+    position: fixed;
+    width: 50%;
+    height: auto;
+    overflow: hidden;
+    bottom: 0;
+    left: 0;
+    top: auto;
+    right: 0;
+    width: 100%;
+    transform: translate(0, 0);
+    /*
+  @media screen and (max-width: 767px) {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    top: auto;
+    right: auto;
+    transform: translate(0, 0);
+    width: 100%!important;
+    height: auto;
+  }
+*/
+    width: 100%; }
+    #rdmobile.bottomfull ul {
+      display: table;
+      width: 100%;
+      margin: 0 auto;
+      text-align: center; }
+      #rdmobile.bottomfull ul > li {
+        display: table-cell;
+        float: none; }
+
+@media screen and (min-width: 768px) {
+  #rdmobile {
+    opacity: 0;
+    top: 100%;
+    bottom: auto; } }
