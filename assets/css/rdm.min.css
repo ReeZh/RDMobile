@@ -1,6 +1,6 @@
 /**
- * RDMobile - v0.1.0 - 2018-09-28
- * RDMobile WP Plugin for supporting mobile Phone and WhatsApp button on mobile view website.
+ * RDMobile - v0.1.0 - 2018-10-17
+ * RD Mobile WordPress Plugin, add Phone and WhatsApp button for website in mobile view. Accelerate more Call to Action from your website.
  * https://reezhdesign.com
  *
  * Copyright (c) 2018 ReeZh Design

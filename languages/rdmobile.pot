@@ -1,1094 +1,2778 @@
 # Copyright (C) 2018 ReeZh Design
 # This file is distributed under the GPLv2.
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: RD Mobile 0.1.0\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/rdmobile\n"
-"POT-Creation-Date: 2018-10-17 17:02+0700\n"
+"POT-Creation-Date: 2018-10-17 11:17:16+00:00\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "PO-Revision-Date: 2018-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: ReeZh Design <hireus@reezhdesign.com>\n"
-"X-Generator: Poedit 2.2\n"
-"X-Poedit-Basepath: ..\n"
-"X-Poedit-KeywordsList: __;_e;_n\n"
-"X-Poedit-SearchPath-0: .\n"
-"X-Poedit-SearchPathExcluded-0: release\n"
-"X-Poedit-SearchPathExcluded-1: node_modules\n"
-"X-Poedit-SearchPathExcluded-2: bin\n"
-"X-Poedit-SearchPathExcluded-3: tests\n"
-"X-Poedit-SearchPathExcluded-4: vendor\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n1.0.2\n"
 
-#: includes/class-frontend.php:95
+#: includes/class-options.php:163 release/0.1.0/includes/class-options.php:163
+#: release/svn/includes/class-options.php:163
+msgid "62"
+msgstr ""
+
+#: includes/class-frontend.php:95 release/0.1.0/includes/class-frontend.php:95
+#: release/svn/includes/class-frontend.php:95
 msgid "Call Us"
 msgstr ""
 
 #: includes/class-frontend.php:104
+#: release/0.1.0/includes/class-frontend.php:104
+#: release/svn/includes/class-frontend.php:104
 msgid "Chat Us"
 msgstr ""
 
-#: includes/class-options.php:158
+#. Plugin Name of the plugin/theme
+msgid "RD Mobile"
+msgstr ""
+
+#: includes/class-options.php:158 release/0.1.0/includes/class-options.php:158
+#: release/svn/includes/class-options.php:158
 msgid "Country Code"
 msgstr ""
 
-#: includes/class-options.php:159
+#: includes/class-options.php:159 release/0.1.0/includes/class-options.php:159
+#: release/svn/includes/class-options.php:159
 msgid "Choose your country code"
 msgstr ""
 
-#: includes/class-options.php:163
-msgid "62"
-msgstr ""
-
-#: includes/class-options.php:165
+#: includes/class-options.php:165 release/0.1.0/includes/class-options.php:165
+#: release/svn/includes/class-options.php:165
 msgid "Afghanistan | 93"
 msgstr ""
 
-#: includes/class-options.php:166
+#: includes/class-options.php:166 release/0.1.0/includes/class-options.php:166
+#: release/svn/includes/class-options.php:166
 msgid "Albania | 355"
 msgstr ""
 
-#: includes/class-options.php:167
+#: includes/class-options.php:167 release/0.1.0/includes/class-options.php:167
+#: release/svn/includes/class-options.php:167
 msgid "Algeria | 213"
 msgstr ""
 
-#: includes/class-options.php:168
+#: includes/class-options.php:168 release/0.1.0/includes/class-options.php:168
+#: release/svn/includes/class-options.php:168
 msgid "American Samoa | 1-684"
 msgstr ""
 
-#: includes/class-options.php:169
+#: includes/class-options.php:169 release/0.1.0/includes/class-options.php:169
+#: release/svn/includes/class-options.php:169
 msgid "Andorra | 376"
 msgstr ""
 
-#: includes/class-options.php:170
+#: includes/class-options.php:170 release/0.1.0/includes/class-options.php:170
+#: release/svn/includes/class-options.php:170
 msgid "Angola | 244"
 msgstr ""
 
-#: includes/class-options.php:171
+#: includes/class-options.php:171 release/0.1.0/includes/class-options.php:171
+#: release/svn/includes/class-options.php:171
 msgid "Anguilla | 1-264"
 msgstr ""
 
-#: includes/class-options.php:172
+#: includes/class-options.php:172 release/0.1.0/includes/class-options.php:172
+#: release/svn/includes/class-options.php:172
 msgid "Antarctica | 672"
 msgstr ""
 
-#: includes/class-options.php:173
+#: includes/class-options.php:173 release/0.1.0/includes/class-options.php:173
+#: release/svn/includes/class-options.php:173
 msgid "Antigua and Barbuda | 1-268"
 msgstr ""
 
-#: includes/class-options.php:174
+#: includes/class-options.php:174 release/0.1.0/includes/class-options.php:174
+#: release/svn/includes/class-options.php:174
 msgid "Argentina | 54"
 msgstr ""
 
-#: includes/class-options.php:175
+#: includes/class-options.php:175 release/0.1.0/includes/class-options.php:175
+#: release/svn/includes/class-options.php:175
 msgid "Armenia | 374"
 msgstr ""
 
-#: includes/class-options.php:176
+#: includes/class-options.php:176 release/0.1.0/includes/class-options.php:176
+#: release/svn/includes/class-options.php:176
 msgid "Aruba | 297"
 msgstr ""
 
-#: includes/class-options.php:177
+#: includes/class-options.php:177 release/0.1.0/includes/class-options.php:177
+#: release/svn/includes/class-options.php:177
 msgid "Australia, Christmas Island, Cocos Islands | 61"
 msgstr ""
 
-#: includes/class-options.php:178
+#: includes/class-options.php:178 release/0.1.0/includes/class-options.php:178
+#: release/svn/includes/class-options.php:178
 msgid "Austria | 43"
 msgstr ""
 
-#: includes/class-options.php:179
+#: includes/class-options.php:179 release/0.1.0/includes/class-options.php:179
+#: release/svn/includes/class-options.php:179
 msgid "Azerbaijan | 994"
 msgstr ""
 
-#: includes/class-options.php:180
+#: includes/class-options.php:180 release/0.1.0/includes/class-options.php:180
+#: release/svn/includes/class-options.php:180
 msgid "Bahamas | 1-242"
 msgstr ""
 
-#: includes/class-options.php:181
+#: includes/class-options.php:181 release/0.1.0/includes/class-options.php:181
+#: release/svn/includes/class-options.php:181
 msgid "Bahrain | 973"
 msgstr ""
 
-#: includes/class-options.php:182
+#: includes/class-options.php:182 release/0.1.0/includes/class-options.php:182
+#: release/svn/includes/class-options.php:182
 msgid "Bangladesh | 880"
 msgstr ""
 
-#: includes/class-options.php:183
+#: includes/class-options.php:183 release/0.1.0/includes/class-options.php:183
+#: release/svn/includes/class-options.php:183
 msgid "Barbados | 1-246"
 msgstr ""
 
-#: includes/class-options.php:184
+#: includes/class-options.php:184 release/0.1.0/includes/class-options.php:184
+#: release/svn/includes/class-options.php:184
 msgid "Belarus | 375"
 msgstr ""
 
-#: includes/class-options.php:185
+#: includes/class-options.php:185 release/0.1.0/includes/class-options.php:185
+#: release/svn/includes/class-options.php:185
 msgid "Belgium | 32"
 msgstr ""
 
-#: includes/class-options.php:186
+#: includes/class-options.php:186 release/0.1.0/includes/class-options.php:186
+#: release/svn/includes/class-options.php:186
 msgid "Belize | 501"
 msgstr ""
 
-#: includes/class-options.php:187
+#: includes/class-options.php:187 release/0.1.0/includes/class-options.php:187
+#: release/svn/includes/class-options.php:187
 msgid "Benin | 229"
 msgstr ""
 
-#: includes/class-options.php:188
+#: includes/class-options.php:188 release/0.1.0/includes/class-options.php:188
+#: release/svn/includes/class-options.php:188
 msgid "Bermuda | 1-441"
 msgstr ""
 
-#: includes/class-options.php:189
+#: includes/class-options.php:189 release/0.1.0/includes/class-options.php:189
+#: release/svn/includes/class-options.php:189
 msgid "Bhutan | 975"
 msgstr ""
 
-#: includes/class-options.php:190
+#: includes/class-options.php:190 release/0.1.0/includes/class-options.php:190
+#: release/svn/includes/class-options.php:190
 msgid "Bolivia | 591"
 msgstr ""
 
-#: includes/class-options.php:191
+#: includes/class-options.php:191 release/0.1.0/includes/class-options.php:191
+#: release/svn/includes/class-options.php:191
 msgid "Bosnia and Herzegovina | 387"
 msgstr ""
 
-#: includes/class-options.php:192
+#: includes/class-options.php:192 release/0.1.0/includes/class-options.php:192
+#: release/svn/includes/class-options.php:192
 msgid "Botswana | 267"
 msgstr ""
 
-#: includes/class-options.php:193
+#: includes/class-options.php:193 release/0.1.0/includes/class-options.php:193
+#: release/svn/includes/class-options.php:193
 msgid "Brazil | 55"
 msgstr ""
 
-#: includes/class-options.php:194
+#: includes/class-options.php:194 release/0.1.0/includes/class-options.php:194
+#: release/svn/includes/class-options.php:194
 msgid "British Indian Ocean Territory | 246"
 msgstr ""
 
-#: includes/class-options.php:195
+#: includes/class-options.php:195 release/0.1.0/includes/class-options.php:195
+#: release/svn/includes/class-options.php:195
 msgid "British Virgin Islands | 1-284"
 msgstr ""
 
-#: includes/class-options.php:196
+#: includes/class-options.php:196 release/0.1.0/includes/class-options.php:196
+#: release/svn/includes/class-options.php:196
 msgid "Brunei | 673"
 msgstr ""
 
-#: includes/class-options.php:197
+#: includes/class-options.php:197 release/0.1.0/includes/class-options.php:197
+#: release/svn/includes/class-options.php:197
 msgid "Bulgaria | 359"
 msgstr ""
 
-#: includes/class-options.php:198
+#: includes/class-options.php:198 release/0.1.0/includes/class-options.php:198
+#: release/svn/includes/class-options.php:198
 msgid "Burkina Faso | 226"
 msgstr ""
 
-#: includes/class-options.php:199
+#: includes/class-options.php:199 release/0.1.0/includes/class-options.php:199
+#: release/svn/includes/class-options.php:199
 msgid "Burundi | 257"
 msgstr ""
 
-#: includes/class-options.php:200
+#: includes/class-options.php:200 release/0.1.0/includes/class-options.php:200
+#: release/svn/includes/class-options.php:200
 msgid "Cambodia | 855"
 msgstr ""
 
-#: includes/class-options.php:201
+#: includes/class-options.php:201 release/0.1.0/includes/class-options.php:201
+#: release/svn/includes/class-options.php:201
 msgid "Cameroon | 237"
 msgstr ""
 
-#: includes/class-options.php:202
+#: includes/class-options.php:202 release/0.1.0/includes/class-options.php:202
+#: release/svn/includes/class-options.php:202
 msgid "Canada | 1"
 msgstr ""
 
-#: includes/class-options.php:203
+#: includes/class-options.php:203 release/0.1.0/includes/class-options.php:203
+#: release/svn/includes/class-options.php:203
 msgid "Cape Verde | 238"
 msgstr ""
 
-#: includes/class-options.php:204
+#: includes/class-options.php:204 release/0.1.0/includes/class-options.php:204
+#: release/svn/includes/class-options.php:204
 msgid "Cayman Islands | 1-345"
 msgstr ""
 
-#: includes/class-options.php:205
+#: includes/class-options.php:205 release/0.1.0/includes/class-options.php:205
+#: release/svn/includes/class-options.php:205
 msgid "Central African Republic | 236"
 msgstr ""
 
-#: includes/class-options.php:206
+#: includes/class-options.php:206 release/0.1.0/includes/class-options.php:206
+#: release/svn/includes/class-options.php:206
 msgid "Chad | 235"
 msgstr ""
 
-#: includes/class-options.php:207
+#: includes/class-options.php:207 release/0.1.0/includes/class-options.php:207
+#: release/svn/includes/class-options.php:207
 msgid "Chile | 56"
 msgstr ""
 
-#: includes/class-options.php:208
+#: includes/class-options.php:208 release/0.1.0/includes/class-options.php:208
+#: release/svn/includes/class-options.php:208
 msgid "China | 86"
 msgstr ""
 
-#: includes/class-options.php:209
+#: includes/class-options.php:209 release/0.1.0/includes/class-options.php:209
+#: release/svn/includes/class-options.php:209
 msgid "Colombia | 57"
 msgstr ""
 
-#: includes/class-options.php:210
+#: includes/class-options.php:210 release/0.1.0/includes/class-options.php:210
+#: release/svn/includes/class-options.php:210
 msgid "Comoros | 269"
 msgstr ""
 
-#: includes/class-options.php:211
+#: includes/class-options.php:211 release/0.1.0/includes/class-options.php:211
+#: release/svn/includes/class-options.php:211
 msgid "Cook Islands | 682"
 msgstr ""
 
-#: includes/class-options.php:212
+#: includes/class-options.php:212 release/0.1.0/includes/class-options.php:212
+#: release/svn/includes/class-options.php:212
 msgid "Costa Rica | 506"
 msgstr ""
 
-#: includes/class-options.php:213
+#: includes/class-options.php:213 release/0.1.0/includes/class-options.php:213
+#: release/svn/includes/class-options.php:213
 msgid "Croatia | 385"
 msgstr ""
 
-#: includes/class-options.php:214
+#: includes/class-options.php:214 release/0.1.0/includes/class-options.php:214
+#: release/svn/includes/class-options.php:214
 msgid "Cuba | 53"
 msgstr ""
 
-#: includes/class-options.php:215
+#: includes/class-options.php:215 release/0.1.0/includes/class-options.php:215
+#: release/svn/includes/class-options.php:215
 msgid "Curacao | 599"
 msgstr ""
 
-#: includes/class-options.php:216
+#: includes/class-options.php:216 release/0.1.0/includes/class-options.php:216
+#: release/svn/includes/class-options.php:216
 msgid "Cyprus | 357"
 msgstr ""
 
-#: includes/class-options.php:217
+#: includes/class-options.php:217 release/0.1.0/includes/class-options.php:217
+#: release/svn/includes/class-options.php:217
 msgid "Czech Republic | 420"
 msgstr ""
 
-#: includes/class-options.php:218
+#: includes/class-options.php:218 release/0.1.0/includes/class-options.php:218
+#: release/svn/includes/class-options.php:218
 msgid "Democratic Republic of the Congo | 243"
 msgstr ""
 
-#: includes/class-options.php:219
+#: includes/class-options.php:219 release/0.1.0/includes/class-options.php:219
+#: release/svn/includes/class-options.php:219
 msgid "Denmark | 45"
 msgstr ""
 
-#: includes/class-options.php:220
+#: includes/class-options.php:220 release/0.1.0/includes/class-options.php:220
+#: release/svn/includes/class-options.php:220
 msgid "Djibouti | 253"
 msgstr ""
 
-#: includes/class-options.php:221
+#: includes/class-options.php:221 release/0.1.0/includes/class-options.php:221
+#: release/svn/includes/class-options.php:221
 msgid "Dominica | 1-767"
 msgstr ""
 
-#: includes/class-options.php:222
+#: includes/class-options.php:222 release/0.1.0/includes/class-options.php:222
+#: release/svn/includes/class-options.php:222
 msgid "Dominican Republic | 1-809"
 msgstr ""
 
-#: includes/class-options.php:223
+#: includes/class-options.php:223 release/0.1.0/includes/class-options.php:223
+#: release/svn/includes/class-options.php:223
 msgid "Dominican Republic | 1-829"
 msgstr ""
 
-#: includes/class-options.php:224
+#: includes/class-options.php:224 release/0.1.0/includes/class-options.php:224
+#: release/svn/includes/class-options.php:224
 msgid "Dominican Republic | 1-849"
 msgstr ""
 
-#: includes/class-options.php:225
+#: includes/class-options.php:225 release/0.1.0/includes/class-options.php:225
+#: release/svn/includes/class-options.php:225
 msgid "East Timor | 670"
 msgstr ""
 
-#: includes/class-options.php:226
+#: includes/class-options.php:226 release/0.1.0/includes/class-options.php:226
+#: release/svn/includes/class-options.php:226
 msgid "Ecuador | 593"
 msgstr ""
 
-#: includes/class-options.php:227
+#: includes/class-options.php:227 release/0.1.0/includes/class-options.php:227
+#: release/svn/includes/class-options.php:227
 msgid "Egypt | 20"
 msgstr ""
 
-#: includes/class-options.php:228
+#: includes/class-options.php:228 release/0.1.0/includes/class-options.php:228
+#: release/svn/includes/class-options.php:228
 msgid "El Salvador | 503"
 msgstr ""
 
-#: includes/class-options.php:229
+#: includes/class-options.php:229 release/0.1.0/includes/class-options.php:229
+#: release/svn/includes/class-options.php:229
 msgid "Equatorial Guinea | 240"
 msgstr ""
 
-#: includes/class-options.php:230
+#: includes/class-options.php:230 release/0.1.0/includes/class-options.php:230
+#: release/svn/includes/class-options.php:230
 msgid "Eritrea | 291"
 msgstr ""
 
-#: includes/class-options.php:231
+#: includes/class-options.php:231 release/0.1.0/includes/class-options.php:231
+#: release/svn/includes/class-options.php:231
 msgid "Estonia | 372"
 msgstr ""
 
-#: includes/class-options.php:232
+#: includes/class-options.php:232 release/0.1.0/includes/class-options.php:232
+#: release/svn/includes/class-options.php:232
 msgid "Ethiopia | 251"
 msgstr ""
 
-#: includes/class-options.php:233
+#: includes/class-options.php:233 release/0.1.0/includes/class-options.php:233
+#: release/svn/includes/class-options.php:233
 msgid "Falkland Islands | 500"
 msgstr ""
 
-#: includes/class-options.php:234
+#: includes/class-options.php:234 release/0.1.0/includes/class-options.php:234
+#: release/svn/includes/class-options.php:234
 msgid "Faroe Islands | 298"
 msgstr ""
 
-#: includes/class-options.php:235
+#: includes/class-options.php:235 release/0.1.0/includes/class-options.php:235
+#: release/svn/includes/class-options.php:235
 msgid "Fiji | 679"
 msgstr ""
 
-#: includes/class-options.php:236
+#: includes/class-options.php:236 release/0.1.0/includes/class-options.php:236
+#: release/svn/includes/class-options.php:236
 msgid "Finland | 358"
 msgstr ""
 
-#: includes/class-options.php:237
+#: includes/class-options.php:237 release/0.1.0/includes/class-options.php:237
+#: release/svn/includes/class-options.php:237
 msgid "France | 33"
 msgstr ""
 
-#: includes/class-options.php:238
+#: includes/class-options.php:238 release/0.1.0/includes/class-options.php:238
+#: release/svn/includes/class-options.php:238
 msgid "French Polynesia | 689"
 msgstr ""
 
-#: includes/class-options.php:239
+#: includes/class-options.php:239 release/0.1.0/includes/class-options.php:239
+#: release/svn/includes/class-options.php:239
 msgid "Gabon | 241"
 msgstr ""
 
-#: includes/class-options.php:240
+#: includes/class-options.php:240 release/0.1.0/includes/class-options.php:240
+#: release/svn/includes/class-options.php:240
 msgid "Gambia | 220"
 msgstr ""
 
-#: includes/class-options.php:241
+#: includes/class-options.php:241 release/0.1.0/includes/class-options.php:241
+#: release/svn/includes/class-options.php:241
 msgid "Georgia | 995"
 msgstr ""
 
-#: includes/class-options.php:242
+#: includes/class-options.php:242 release/0.1.0/includes/class-options.php:242
+#: release/svn/includes/class-options.php:242
 msgid "Germany | 49"
 msgstr ""
 
-#: includes/class-options.php:243
+#: includes/class-options.php:243 release/0.1.0/includes/class-options.php:243
+#: release/svn/includes/class-options.php:243
 msgid "Ghana | 233"
 msgstr ""
 
-#: includes/class-options.php:244
+#: includes/class-options.php:244 release/0.1.0/includes/class-options.php:244
+#: release/svn/includes/class-options.php:244
 msgid "Gibraltar | 350"
 msgstr ""
 
-#: includes/class-options.php:245
+#: includes/class-options.php:245 release/0.1.0/includes/class-options.php:245
+#: release/svn/includes/class-options.php:245
 msgid "Greece | 30"
 msgstr ""
 
-#: includes/class-options.php:246
+#: includes/class-options.php:246 release/0.1.0/includes/class-options.php:246
+#: release/svn/includes/class-options.php:246
 msgid "Greenland | 299"
 msgstr ""
 
-#: includes/class-options.php:247
+#: includes/class-options.php:247 release/0.1.0/includes/class-options.php:247
+#: release/svn/includes/class-options.php:247
 msgid "Grenada | 1-473"
 msgstr ""
 
-#: includes/class-options.php:248
+#: includes/class-options.php:248 release/0.1.0/includes/class-options.php:248
+#: release/svn/includes/class-options.php:248
 msgid "Guam | 1-671"
 msgstr ""
 
-#: includes/class-options.php:249
+#: includes/class-options.php:249 release/0.1.0/includes/class-options.php:249
+#: release/svn/includes/class-options.php:249
 msgid "Guatemala | 502"
 msgstr ""
 
-#: includes/class-options.php:250
+#: includes/class-options.php:250 release/0.1.0/includes/class-options.php:250
+#: release/svn/includes/class-options.php:250
 msgid "Guernsey | 44-1481"
 msgstr ""
 
-#: includes/class-options.php:251
+#: includes/class-options.php:251 release/0.1.0/includes/class-options.php:251
+#: release/svn/includes/class-options.php:251
 msgid "Guinea | 224"
 msgstr ""
 
-#: includes/class-options.php:252
+#: includes/class-options.php:252 release/0.1.0/includes/class-options.php:252
+#: release/svn/includes/class-options.php:252
 msgid "Guinea-Bissau | 245"
 msgstr ""
 
-#: includes/class-options.php:253
+#: includes/class-options.php:253 release/0.1.0/includes/class-options.php:253
+#: release/svn/includes/class-options.php:253
 msgid "Guyana | 592"
 msgstr ""
 
-#: includes/class-options.php:254
+#: includes/class-options.php:254 release/0.1.0/includes/class-options.php:254
+#: release/svn/includes/class-options.php:254
 msgid "Haiti | 509"
 msgstr ""
 
-#: includes/class-options.php:255
+#: includes/class-options.php:255 release/0.1.0/includes/class-options.php:255
+#: release/svn/includes/class-options.php:255
 msgid "Honduras | 504"
 msgstr ""
 
-#: includes/class-options.php:256
+#: includes/class-options.php:256 release/0.1.0/includes/class-options.php:256
+#: release/svn/includes/class-options.php:256
 msgid "Hong Kong | 852"
 msgstr ""
 
-#: includes/class-options.php:257
+#: includes/class-options.php:257 release/0.1.0/includes/class-options.php:257
+#: release/svn/includes/class-options.php:257
 msgid "Hungary | 36"
 msgstr ""
 
-#: includes/class-options.php:258
+#: includes/class-options.php:258 release/0.1.0/includes/class-options.php:258
+#: release/svn/includes/class-options.php:258
 msgid "Iceland | 354"
 msgstr ""
 
-#: includes/class-options.php:259
+#: includes/class-options.php:259 release/0.1.0/includes/class-options.php:259
+#: release/svn/includes/class-options.php:259
 msgid "India | 91"
 msgstr ""
 
-#: includes/class-options.php:260
+#: includes/class-options.php:260 release/0.1.0/includes/class-options.php:260
+#: release/svn/includes/class-options.php:260
 msgid "Indonesia | 62"
 msgstr ""
 
-#: includes/class-options.php:261
+#: includes/class-options.php:261 release/0.1.0/includes/class-options.php:261
+#: release/svn/includes/class-options.php:261
 msgid "Iran | 98"
 msgstr ""
 
-#: includes/class-options.php:262
+#: includes/class-options.php:262 release/0.1.0/includes/class-options.php:262
+#: release/svn/includes/class-options.php:262
 msgid "Iraq | 964"
 msgstr ""
 
-#: includes/class-options.php:263
+#: includes/class-options.php:263 release/0.1.0/includes/class-options.php:263
+#: release/svn/includes/class-options.php:263
 msgid "Ireland | 353"
 msgstr ""
 
-#: includes/class-options.php:264
+#: includes/class-options.php:264 release/0.1.0/includes/class-options.php:264
+#: release/svn/includes/class-options.php:264
 msgid "Isle of Man | 44-1624"
 msgstr ""
 
-#: includes/class-options.php:265
+#: includes/class-options.php:265 release/0.1.0/includes/class-options.php:265
+#: release/svn/includes/class-options.php:265
 msgid "Israel | 972"
 msgstr ""
 
-#: includes/class-options.php:266
+#: includes/class-options.php:266 release/0.1.0/includes/class-options.php:266
+#: release/svn/includes/class-options.php:266
 msgid "Italy | 39"
 msgstr ""
 
-#: includes/class-options.php:267
+#: includes/class-options.php:267 release/0.1.0/includes/class-options.php:267
+#: release/svn/includes/class-options.php:267
 msgid "Ivory Coast | 225"
 msgstr ""
 
-#: includes/class-options.php:268
+#: includes/class-options.php:268 release/0.1.0/includes/class-options.php:268
+#: release/svn/includes/class-options.php:268
 msgid "Jamaica | 1-876"
 msgstr ""
 
-#: includes/class-options.php:269
+#: includes/class-options.php:269 release/0.1.0/includes/class-options.php:269
+#: release/svn/includes/class-options.php:269
 msgid "Japan | 81"
 msgstr ""
 
-#: includes/class-options.php:270
+#: includes/class-options.php:270 release/0.1.0/includes/class-options.php:270
+#: release/svn/includes/class-options.php:270
 msgid "Jersey | 44-1534"
 msgstr ""
 
-#: includes/class-options.php:271
+#: includes/class-options.php:271 release/0.1.0/includes/class-options.php:271
+#: release/svn/includes/class-options.php:271
 msgid "Jordan | 962"
 msgstr ""
 
-#: includes/class-options.php:272
+#: includes/class-options.php:272 release/0.1.0/includes/class-options.php:272
+#: release/svn/includes/class-options.php:272
 msgid "Kazakhstan | 7"
 msgstr ""
 
-#: includes/class-options.php:273
+#: includes/class-options.php:273 release/0.1.0/includes/class-options.php:273
+#: release/svn/includes/class-options.php:273
 msgid "Kenya | 254"
 msgstr ""
 
-#: includes/class-options.php:274
+#: includes/class-options.php:274 release/0.1.0/includes/class-options.php:274
+#: release/svn/includes/class-options.php:274
 msgid "Kiribati | 686"
 msgstr ""
 
-#: includes/class-options.php:275
+#: includes/class-options.php:275 release/0.1.0/includes/class-options.php:275
+#: release/svn/includes/class-options.php:275
 msgid "Kosovo | 383"
 msgstr ""
 
-#: includes/class-options.php:276
+#: includes/class-options.php:276 release/0.1.0/includes/class-options.php:276
+#: release/svn/includes/class-options.php:276
 msgid "Kuwait | 965"
 msgstr ""
 
-#: includes/class-options.php:277
+#: includes/class-options.php:277 release/0.1.0/includes/class-options.php:277
+#: release/svn/includes/class-options.php:277
 msgid "Kyrgyzstan | 996"
 msgstr ""
 
-#: includes/class-options.php:278
+#: includes/class-options.php:278 release/0.1.0/includes/class-options.php:278
+#: release/svn/includes/class-options.php:278
 msgid "Laos | 856"
 msgstr ""
 
-#: includes/class-options.php:279
+#: includes/class-options.php:279 release/0.1.0/includes/class-options.php:279
+#: release/svn/includes/class-options.php:279
 msgid "Latvia | 371"
 msgstr ""
 
-#: includes/class-options.php:280
+#: includes/class-options.php:280 release/0.1.0/includes/class-options.php:280
+#: release/svn/includes/class-options.php:280
 msgid "Lebanon | 961"
 msgstr ""
 
-#: includes/class-options.php:281
+#: includes/class-options.php:281 release/0.1.0/includes/class-options.php:281
+#: release/svn/includes/class-options.php:281
 msgid "Lesotho | 266"
 msgstr ""
 
-#: includes/class-options.php:282
+#: includes/class-options.php:282 release/0.1.0/includes/class-options.php:282
+#: release/svn/includes/class-options.php:282
 msgid "Liberia | 231"
 msgstr ""
 
-#: includes/class-options.php:283
+#: includes/class-options.php:283 release/0.1.0/includes/class-options.php:283
+#: release/svn/includes/class-options.php:283
 msgid "Libya | 218"
 msgstr ""
 
-#: includes/class-options.php:284
+#: includes/class-options.php:284 release/0.1.0/includes/class-options.php:284
+#: release/svn/includes/class-options.php:284
 msgid "Liechtenstein | 423"
 msgstr ""
 
-#: includes/class-options.php:285
+#: includes/class-options.php:285 release/0.1.0/includes/class-options.php:285
+#: release/svn/includes/class-options.php:285
 msgid "Lithuania | 370"
 msgstr ""
 
-#: includes/class-options.php:286
+#: includes/class-options.php:286 release/0.1.0/includes/class-options.php:286
+#: release/svn/includes/class-options.php:286
 msgid "Luxembourg | 352"
 msgstr ""
 
-#: includes/class-options.php:287
+#: includes/class-options.php:287 release/0.1.0/includes/class-options.php:287
+#: release/svn/includes/class-options.php:287
 msgid "Macau | 853"
 msgstr ""
 
-#: includes/class-options.php:288
+#: includes/class-options.php:288 release/0.1.0/includes/class-options.php:288
+#: release/svn/includes/class-options.php:288
 msgid "Macedonia | 389"
 msgstr ""
 
-#: includes/class-options.php:289
+#: includes/class-options.php:289 release/0.1.0/includes/class-options.php:289
+#: release/svn/includes/class-options.php:289
 msgid "Madagascar | 261"
 msgstr ""
 
-#: includes/class-options.php:290
+#: includes/class-options.php:290 release/0.1.0/includes/class-options.php:290
+#: release/svn/includes/class-options.php:290
 msgid "Malawi | 265"
 msgstr ""
 
-#: includes/class-options.php:291
+#: includes/class-options.php:291 release/0.1.0/includes/class-options.php:291
+#: release/svn/includes/class-options.php:291
 msgid "Malaysia | 60"
 msgstr ""
 
-#: includes/class-options.php:292
+#: includes/class-options.php:292 release/0.1.0/includes/class-options.php:292
+#: release/svn/includes/class-options.php:292
 msgid "Maldives | 960"
 msgstr ""
 
-#: includes/class-options.php:293
+#: includes/class-options.php:293 release/0.1.0/includes/class-options.php:293
+#: release/svn/includes/class-options.php:293
 msgid "Mali | 223"
 msgstr ""
 
-#: includes/class-options.php:294
+#: includes/class-options.php:294 release/0.1.0/includes/class-options.php:294
+#: release/svn/includes/class-options.php:294
 msgid "Malta | 356"
 msgstr ""
 
-#: includes/class-options.php:295
+#: includes/class-options.php:295 release/0.1.0/includes/class-options.php:295
+#: release/svn/includes/class-options.php:295
 msgid "Marshall Islands | 692"
 msgstr ""
 
-#: includes/class-options.php:296
+#: includes/class-options.php:296 release/0.1.0/includes/class-options.php:296
+#: release/svn/includes/class-options.php:296
 msgid "Mauritania | 222"
 msgstr ""
 
-#: includes/class-options.php:297
+#: includes/class-options.php:297 release/0.1.0/includes/class-options.php:297
+#: release/svn/includes/class-options.php:297
 msgid "Mauritius | 230"
 msgstr ""
 
-#: includes/class-options.php:298
+#: includes/class-options.php:298 release/0.1.0/includes/class-options.php:298
+#: release/svn/includes/class-options.php:298
 msgid "Mayotte | 262"
 msgstr ""
 
-#: includes/class-options.php:299
+#: includes/class-options.php:299 release/0.1.0/includes/class-options.php:299
+#: release/svn/includes/class-options.php:299
 msgid "Mexico | 52"
 msgstr ""
 
-#: includes/class-options.php:300
+#: includes/class-options.php:300 release/0.1.0/includes/class-options.php:300
+#: release/svn/includes/class-options.php:300
 msgid "Micronesia | 691"
 msgstr ""
 
-#: includes/class-options.php:301
+#: includes/class-options.php:301 release/0.1.0/includes/class-options.php:301
+#: release/svn/includes/class-options.php:301
 msgid "Moldova | 373"
 msgstr ""
 
-#: includes/class-options.php:302
+#: includes/class-options.php:302 release/0.1.0/includes/class-options.php:302
+#: release/svn/includes/class-options.php:302
 msgid "Monaco | 377"
 msgstr ""
 
-#: includes/class-options.php:303
+#: includes/class-options.php:303 release/0.1.0/includes/class-options.php:303
+#: release/svn/includes/class-options.php:303
 msgid "Mongolia | 976"
 msgstr ""
 
-#: includes/class-options.php:304
+#: includes/class-options.php:304 release/0.1.0/includes/class-options.php:304
+#: release/svn/includes/class-options.php:304
 msgid "Montenegro | 382"
 msgstr ""
 
-#: includes/class-options.php:305
+#: includes/class-options.php:305 release/0.1.0/includes/class-options.php:305
+#: release/svn/includes/class-options.php:305
 msgid "Montserrat | 1-664"
 msgstr ""
 
-#: includes/class-options.php:306
+#: includes/class-options.php:306 release/0.1.0/includes/class-options.php:306
+#: release/svn/includes/class-options.php:306
 msgid "Morocco | 212"
 msgstr ""
 
-#: includes/class-options.php:307
+#: includes/class-options.php:307 release/0.1.0/includes/class-options.php:307
+#: release/svn/includes/class-options.php:307
 msgid "Mozambique | 258"
 msgstr ""
 
-#: includes/class-options.php:308
+#: includes/class-options.php:308 release/0.1.0/includes/class-options.php:308
+#: release/svn/includes/class-options.php:308
 msgid "Myanmar | 95"
 msgstr ""
 
-#: includes/class-options.php:309
+#: includes/class-options.php:309 release/0.1.0/includes/class-options.php:309
+#: release/svn/includes/class-options.php:309
 msgid "Namibia | 264"
 msgstr ""
 
-#: includes/class-options.php:310
+#: includes/class-options.php:310 release/0.1.0/includes/class-options.php:310
+#: release/svn/includes/class-options.php:310
 msgid "Nauru | 674"
 msgstr ""
 
-#: includes/class-options.php:311
+#: includes/class-options.php:311 release/0.1.0/includes/class-options.php:311
+#: release/svn/includes/class-options.php:311
 msgid "Nepal | 977"
 msgstr ""
 
-#: includes/class-options.php:312
+#: includes/class-options.php:312 release/0.1.0/includes/class-options.php:312
+#: release/svn/includes/class-options.php:312
 msgid "Netherlands | 31"
 msgstr ""
 
-#: includes/class-options.php:313
+#: includes/class-options.php:313 release/0.1.0/includes/class-options.php:313
+#: release/svn/includes/class-options.php:313
 msgid "Netherlands Antilles | 599"
 msgstr ""
 
-#: includes/class-options.php:314
+#: includes/class-options.php:314 release/0.1.0/includes/class-options.php:314
+#: release/svn/includes/class-options.php:314
 msgid "New Caledonia | 687"
 msgstr ""
 
-#: includes/class-options.php:315
+#: includes/class-options.php:315 release/0.1.0/includes/class-options.php:315
+#: release/svn/includes/class-options.php:315
 msgid "New Zealand | 64"
 msgstr ""
 
-#: includes/class-options.php:316
+#: includes/class-options.php:316 release/0.1.0/includes/class-options.php:316
+#: release/svn/includes/class-options.php:316
 msgid "Nicaragua | 505"
 msgstr ""
 
-#: includes/class-options.php:317
+#: includes/class-options.php:317 release/0.1.0/includes/class-options.php:317
+#: release/svn/includes/class-options.php:317
 msgid "Niger | 227"
 msgstr ""
 
-#: includes/class-options.php:318
+#: includes/class-options.php:318 release/0.1.0/includes/class-options.php:318
+#: release/svn/includes/class-options.php:318
 msgid "Nigeria | 234"
 msgstr ""
 
-#: includes/class-options.php:319
+#: includes/class-options.php:319 release/0.1.0/includes/class-options.php:319
+#: release/svn/includes/class-options.php:319
 msgid "Niue | 683"
 msgstr ""
 
-#: includes/class-options.php:320
+#: includes/class-options.php:320 release/0.1.0/includes/class-options.php:320
+#: release/svn/includes/class-options.php:320
 msgid "North Korea | 850"
 msgstr ""
 
-#: includes/class-options.php:321
+#: includes/class-options.php:321 release/0.1.0/includes/class-options.php:321
+#: release/svn/includes/class-options.php:321
 msgid "Northern Mariana Islands | 1-670"
 msgstr ""
 
-#: includes/class-options.php:322
+#: includes/class-options.php:322 release/0.1.0/includes/class-options.php:322
+#: release/svn/includes/class-options.php:322
 msgid "Norway | 47"
 msgstr ""
 
-#: includes/class-options.php:323
+#: includes/class-options.php:323 release/0.1.0/includes/class-options.php:323
+#: release/svn/includes/class-options.php:323
 msgid "Oman | 968"
 msgstr ""
 
-#: includes/class-options.php:324
+#: includes/class-options.php:324 release/0.1.0/includes/class-options.php:324
+#: release/svn/includes/class-options.php:324
 msgid "Pakistan | 92"
 msgstr ""
 
-#: includes/class-options.php:325
+#: includes/class-options.php:325 release/0.1.0/includes/class-options.php:325
+#: release/svn/includes/class-options.php:325
 msgid "Palau | 680"
 msgstr ""
 
-#: includes/class-options.php:326
+#: includes/class-options.php:326 release/0.1.0/includes/class-options.php:326
+#: release/svn/includes/class-options.php:326
 msgid "Palestine | 970"
 msgstr ""
 
-#: includes/class-options.php:327
+#: includes/class-options.php:327 release/0.1.0/includes/class-options.php:327
+#: release/svn/includes/class-options.php:327
 msgid "Panama | 507"
 msgstr ""
 
-#: includes/class-options.php:328
+#: includes/class-options.php:328 release/0.1.0/includes/class-options.php:328
+#: release/svn/includes/class-options.php:328
 msgid "Papua New Guinea | 675"
 msgstr ""
 
-#: includes/class-options.php:329
+#: includes/class-options.php:329 release/0.1.0/includes/class-options.php:329
+#: release/svn/includes/class-options.php:329
 msgid "Paraguay | 595"
 msgstr ""
 
-#: includes/class-options.php:330
+#: includes/class-options.php:330 release/0.1.0/includes/class-options.php:330
+#: release/svn/includes/class-options.php:330
 msgid "Peru | 51"
 msgstr ""
 
-#: includes/class-options.php:331
+#: includes/class-options.php:331 release/0.1.0/includes/class-options.php:331
+#: release/svn/includes/class-options.php:331
 msgid "Philippines | 63"
 msgstr ""
 
-#: includes/class-options.php:332
+#: includes/class-options.php:332 release/0.1.0/includes/class-options.php:332
+#: release/svn/includes/class-options.php:332
 msgid "Pitcairn | 64"
 msgstr ""
 
-#: includes/class-options.php:333
+#: includes/class-options.php:333 release/0.1.0/includes/class-options.php:333
+#: release/svn/includes/class-options.php:333
 msgid "Poland | 48"
 msgstr ""
 
-#: includes/class-options.php:334
+#: includes/class-options.php:334 release/0.1.0/includes/class-options.php:334
+#: release/svn/includes/class-options.php:334
 msgid "Portugal | 351"
 msgstr ""
 
-#: includes/class-options.php:335
+#: includes/class-options.php:335 release/0.1.0/includes/class-options.php:335
+#: release/svn/includes/class-options.php:335
 msgid "Puerto Rico | 1-787"
 msgstr ""
 
-#: includes/class-options.php:336
+#: includes/class-options.php:336 release/0.1.0/includes/class-options.php:336
+#: release/svn/includes/class-options.php:336
 msgid "Puerto Rico | 1-939"
 msgstr ""
 
-#: includes/class-options.php:337
+#: includes/class-options.php:337 release/0.1.0/includes/class-options.php:337
+#: release/svn/includes/class-options.php:337
 msgid "Qatar | 974"
 msgstr ""
 
-#: includes/class-options.php:338
+#: includes/class-options.php:338 release/0.1.0/includes/class-options.php:338
+#: release/svn/includes/class-options.php:338
 msgid "Republic of the Congo | 242"
 msgstr ""
 
-#: includes/class-options.php:339
+#: includes/class-options.php:339 release/0.1.0/includes/class-options.php:339
+#: release/svn/includes/class-options.php:339
 msgid "Reunion | 262"
 msgstr ""
 
-#: includes/class-options.php:340
+#: includes/class-options.php:340 release/0.1.0/includes/class-options.php:340
+#: release/svn/includes/class-options.php:340
 msgid "Romania | 40"
 msgstr ""
 
-#: includes/class-options.php:341
+#: includes/class-options.php:341 release/0.1.0/includes/class-options.php:341
+#: release/svn/includes/class-options.php:341
 msgid "Russia | 7"
 msgstr ""
 
-#: includes/class-options.php:342
+#: includes/class-options.php:342 release/0.1.0/includes/class-options.php:342
+#: release/svn/includes/class-options.php:342
 msgid "Rwanda | 250"
 msgstr ""
 
-#: includes/class-options.php:343
+#: includes/class-options.php:343 release/0.1.0/includes/class-options.php:343
+#: release/svn/includes/class-options.php:343
 msgid "Saint Barthelemy | 590"
 msgstr ""
 
-#: includes/class-options.php:344
+#: includes/class-options.php:344 release/0.1.0/includes/class-options.php:344
+#: release/svn/includes/class-options.php:344
 msgid "Saint Helena | 290"
 msgstr ""
 
-#: includes/class-options.php:345
+#: includes/class-options.php:345 release/0.1.0/includes/class-options.php:345
+#: release/svn/includes/class-options.php:345
 msgid "Saint Kitts and Nevis | 1-869"
 msgstr ""
 
-#: includes/class-options.php:346
+#: includes/class-options.php:346 release/0.1.0/includes/class-options.php:346
+#: release/svn/includes/class-options.php:346
 msgid "Saint Lucia | 1-758"
 msgstr ""
 
-#: includes/class-options.php:347
+#: includes/class-options.php:347 release/0.1.0/includes/class-options.php:347
+#: release/svn/includes/class-options.php:347
 msgid "Saint Martin | 590"
 msgstr ""
 
-#: includes/class-options.php:348
+#: includes/class-options.php:348 release/0.1.0/includes/class-options.php:348
+#: release/svn/includes/class-options.php:348
 msgid "Saint Pierre and Miquelon | 508"
 msgstr ""
 
-#: includes/class-options.php:349
+#: includes/class-options.php:349 release/0.1.0/includes/class-options.php:349
+#: release/svn/includes/class-options.php:349
 msgid "Saint Vincent and the Grenadines | 1-784"
 msgstr ""
 
-#: includes/class-options.php:350
+#: includes/class-options.php:350 release/0.1.0/includes/class-options.php:350
+#: release/svn/includes/class-options.php:350
 msgid "Samoa | 685"
 msgstr ""
 
-#: includes/class-options.php:351
+#: includes/class-options.php:351 release/0.1.0/includes/class-options.php:351
+#: release/svn/includes/class-options.php:351
 msgid "San Marino | 378"
 msgstr ""
 
-#: includes/class-options.php:352
+#: includes/class-options.php:352 release/0.1.0/includes/class-options.php:352
+#: release/svn/includes/class-options.php:352
 msgid "Sao Tome and Principe | 239"
 msgstr ""
 
-#: includes/class-options.php:353
+#: includes/class-options.php:353 release/0.1.0/includes/class-options.php:353
+#: release/svn/includes/class-options.php:353
 msgid "Saudi Arabia | 966"
 msgstr ""
 
-#: includes/class-options.php:354
+#: includes/class-options.php:354 release/0.1.0/includes/class-options.php:354
+#: release/svn/includes/class-options.php:354
 msgid "Senegal | 221"
 msgstr ""
 
-#: includes/class-options.php:355
+#: includes/class-options.php:355 release/0.1.0/includes/class-options.php:355
+#: release/svn/includes/class-options.php:355
 msgid "Serbia | 381"
 msgstr ""
 
-#: includes/class-options.php:356
+#: includes/class-options.php:356 release/0.1.0/includes/class-options.php:356
+#: release/svn/includes/class-options.php:356
 msgid "Seychelles | 248"
 msgstr ""
 
-#: includes/class-options.php:357
+#: includes/class-options.php:357 release/0.1.0/includes/class-options.php:357
+#: release/svn/includes/class-options.php:357
 msgid "Sierra Leone | 232"
 msgstr ""
 
-#: includes/class-options.php:358
+#: includes/class-options.php:358 release/0.1.0/includes/class-options.php:358
+#: release/svn/includes/class-options.php:358
 msgid "Singapore | 65"
 msgstr ""
 
-#: includes/class-options.php:359
+#: includes/class-options.php:359 release/0.1.0/includes/class-options.php:359
+#: release/svn/includes/class-options.php:359
 msgid "Sint Maarten | 1-721"
 msgstr ""
 
-#: includes/class-options.php:360
+#: includes/class-options.php:360 release/0.1.0/includes/class-options.php:360
+#: release/svn/includes/class-options.php:360
 msgid "Slovakia | 421"
 msgstr ""
 
-#: includes/class-options.php:361
+#: includes/class-options.php:361 release/0.1.0/includes/class-options.php:361
+#: release/svn/includes/class-options.php:361
 msgid "Slovenia | 386"
 msgstr ""
 
-#: includes/class-options.php:362
+#: includes/class-options.php:362 release/0.1.0/includes/class-options.php:362
+#: release/svn/includes/class-options.php:362
 msgid "Solomon Islands | 677"
 msgstr ""
 
-#: includes/class-options.php:363
+#: includes/class-options.php:363 release/0.1.0/includes/class-options.php:363
+#: release/svn/includes/class-options.php:363
 msgid "Somalia | 252"
 msgstr ""
 
-#: includes/class-options.php:364
+#: includes/class-options.php:364 release/0.1.0/includes/class-options.php:364
+#: release/svn/includes/class-options.php:364
 msgid "South Africa | 27"
 msgstr ""
 
-#: includes/class-options.php:365
+#: includes/class-options.php:365 release/0.1.0/includes/class-options.php:365
+#: release/svn/includes/class-options.php:365
 msgid "South Korea | 82"
 msgstr ""
 
-#: includes/class-options.php:366
+#: includes/class-options.php:366 release/0.1.0/includes/class-options.php:366
+#: release/svn/includes/class-options.php:366
 msgid "South Sudan | 211"
 msgstr ""
 
-#: includes/class-options.php:367
+#: includes/class-options.php:367 release/0.1.0/includes/class-options.php:367
+#: release/svn/includes/class-options.php:367
 msgid "Spain | 34"
 msgstr ""
 
-#: includes/class-options.php:368
+#: includes/class-options.php:368 release/0.1.0/includes/class-options.php:368
+#: release/svn/includes/class-options.php:368
 msgid "Sri Lanka | 94"
 msgstr ""
 
-#: includes/class-options.php:369
+#: includes/class-options.php:369 release/0.1.0/includes/class-options.php:369
+#: release/svn/includes/class-options.php:369
 msgid "Sudan | 249"
 msgstr ""
 
-#: includes/class-options.php:370
+#: includes/class-options.php:370 release/0.1.0/includes/class-options.php:370
+#: release/svn/includes/class-options.php:370
 msgid "Suriname | 597"
 msgstr ""
 
-#: includes/class-options.php:371
+#: includes/class-options.php:371 release/0.1.0/includes/class-options.php:371
+#: release/svn/includes/class-options.php:371
 msgid "Svalbard and Jan Mayen | 47"
 msgstr ""
 
-#: includes/class-options.php:372
+#: includes/class-options.php:372 release/0.1.0/includes/class-options.php:372
+#: release/svn/includes/class-options.php:372
 msgid "Swaziland | 268"
 msgstr ""
 
-#: includes/class-options.php:373
+#: includes/class-options.php:373 release/0.1.0/includes/class-options.php:373
+#: release/svn/includes/class-options.php:373
 msgid "Sweden | 46"
 msgstr ""
 
-#: includes/class-options.php:374
+#: includes/class-options.php:374 release/0.1.0/includes/class-options.php:374
+#: release/svn/includes/class-options.php:374
 msgid "Switzerland | 41"
 msgstr ""
 
-#: includes/class-options.php:375
+#: includes/class-options.php:375 release/0.1.0/includes/class-options.php:375
+#: release/svn/includes/class-options.php:375
 msgid "Syria | 963"
 msgstr ""
 
-#: includes/class-options.php:376
+#: includes/class-options.php:376 release/0.1.0/includes/class-options.php:376
+#: release/svn/includes/class-options.php:376
 msgid "Taiwan | 886"
 msgstr ""
 
-#: includes/class-options.php:377
+#: includes/class-options.php:377 release/0.1.0/includes/class-options.php:377
+#: release/svn/includes/class-options.php:377
 msgid "Tajikistan | 992"
 msgstr ""
 
-#: includes/class-options.php:378
+#: includes/class-options.php:378 release/0.1.0/includes/class-options.php:378
+#: release/svn/includes/class-options.php:378
 msgid "Tanzania | 255"
 msgstr ""
 
-#: includes/class-options.php:379
+#: includes/class-options.php:379 release/0.1.0/includes/class-options.php:379
+#: release/svn/includes/class-options.php:379
 msgid "Thailand | 66"
 msgstr ""
 
-#: includes/class-options.php:380
+#: includes/class-options.php:380 release/0.1.0/includes/class-options.php:380
+#: release/svn/includes/class-options.php:380
 msgid "Togo | 228"
 msgstr ""
 
-#: includes/class-options.php:381
+#: includes/class-options.php:381 release/0.1.0/includes/class-options.php:381
+#: release/svn/includes/class-options.php:381
 msgid "Tokelau | 690"
 msgstr ""
 
-#: includes/class-options.php:382
+#: includes/class-options.php:382 release/0.1.0/includes/class-options.php:382
+#: release/svn/includes/class-options.php:382
 msgid "Tonga | 676"
 msgstr ""
 
-#: includes/class-options.php:383
+#: includes/class-options.php:383 release/0.1.0/includes/class-options.php:383
+#: release/svn/includes/class-options.php:383
 msgid "Trinidad and Tobago | 1-868"
 msgstr ""
 
-#: includes/class-options.php:384
+#: includes/class-options.php:384 release/0.1.0/includes/class-options.php:384
+#: release/svn/includes/class-options.php:384
 msgid "Tunisia | 216"
 msgstr ""
 
-#: includes/class-options.php:385
+#: includes/class-options.php:385 release/0.1.0/includes/class-options.php:385
+#: release/svn/includes/class-options.php:385
 msgid "Turkey | 90"
 msgstr ""
 
-#: includes/class-options.php:386
+#: includes/class-options.php:386 release/0.1.0/includes/class-options.php:386
+#: release/svn/includes/class-options.php:386
 msgid "Turkmenistan | 993"
 msgstr ""
 
-#: includes/class-options.php:387
+#: includes/class-options.php:387 release/0.1.0/includes/class-options.php:387
+#: release/svn/includes/class-options.php:387
 msgid "Turks and Caicos Islands | 1-649"
 msgstr ""
 
-#: includes/class-options.php:388
+#: includes/class-options.php:388 release/0.1.0/includes/class-options.php:388
+#: release/svn/includes/class-options.php:388
 msgid "Tuvalu | 688"
 msgstr ""
 
-#: includes/class-options.php:389
+#: includes/class-options.php:389 release/0.1.0/includes/class-options.php:389
+#: release/svn/includes/class-options.php:389
 msgid "U.S. Virgin Islands | 1-340"
 msgstr ""
 
-#: includes/class-options.php:390
+#: includes/class-options.php:390 release/0.1.0/includes/class-options.php:390
+#: release/svn/includes/class-options.php:390
 msgid "Uganda | 256"
 msgstr ""
 
-#: includes/class-options.php:391
+#: includes/class-options.php:391 release/0.1.0/includes/class-options.php:391
+#: release/svn/includes/class-options.php:391
 msgid "Ukraine | 380"
 msgstr ""
 
-#: includes/class-options.php:392
+#: includes/class-options.php:392 release/0.1.0/includes/class-options.php:392
+#: release/svn/includes/class-options.php:392
 msgid "United Arab Emirates | 971"
 msgstr ""
 
-#: includes/class-options.php:393
+#: includes/class-options.php:393 release/0.1.0/includes/class-options.php:393
+#: release/svn/includes/class-options.php:393
 msgid "United Kingdom | 44"
 msgstr ""
 
-#: includes/class-options.php:394
+#: includes/class-options.php:394 release/0.1.0/includes/class-options.php:394
+#: release/svn/includes/class-options.php:394
 msgid "United States | 1"
 msgstr ""
 
-#: includes/class-options.php:395
+#: includes/class-options.php:395 release/0.1.0/includes/class-options.php:395
+#: release/svn/includes/class-options.php:395
 msgid "Uruguay | 598"
 msgstr ""
 
-#: includes/class-options.php:396
+#: includes/class-options.php:396 release/0.1.0/includes/class-options.php:396
+#: release/svn/includes/class-options.php:396
 msgid "Uzbekistan | 998"
 msgstr ""
 
-#: includes/class-options.php:397
+#: includes/class-options.php:397 release/0.1.0/includes/class-options.php:397
+#: release/svn/includes/class-options.php:397
 msgid "Vanuatu | 678"
 msgstr ""
 
-#: includes/class-options.php:398
+#: includes/class-options.php:398 release/0.1.0/includes/class-options.php:398
+#: release/svn/includes/class-options.php:398
 msgid "Vatican | 379"
 msgstr ""
 
-#: includes/class-options.php:399
+#: includes/class-options.php:399 release/0.1.0/includes/class-options.php:399
+#: release/svn/includes/class-options.php:399
 msgid "Venezuela | 58"
 msgstr ""
 
-#: includes/class-options.php:400
+#: includes/class-options.php:400 release/0.1.0/includes/class-options.php:400
+#: release/svn/includes/class-options.php:400
 msgid "Vietnam | 84"
 msgstr ""
 
-#: includes/class-options.php:401
+#: includes/class-options.php:401 release/0.1.0/includes/class-options.php:401
+#: release/svn/includes/class-options.php:401
 msgid "Wallis and Futuna | 681"
 msgstr ""
 
-#: includes/class-options.php:402
+#: includes/class-options.php:402 release/0.1.0/includes/class-options.php:402
+#: release/svn/includes/class-options.php:402
 msgid "Western Sahara | 212"
 msgstr ""
 
-#: includes/class-options.php:403
+#: includes/class-options.php:403 release/0.1.0/includes/class-options.php:403
+#: release/svn/includes/class-options.php:403
 msgid "Yemen | 967"
 msgstr ""
 
-#: includes/class-options.php:404
+#: includes/class-options.php:404 release/0.1.0/includes/class-options.php:404
+#: release/svn/includes/class-options.php:404
 msgid "Zambia | 260"
 msgstr ""
 
-#: includes/class-options.php:405
+#: includes/class-options.php:405 release/0.1.0/includes/class-options.php:405
+#: release/svn/includes/class-options.php:405
 msgid "Zimbabwe | 263"
 msgstr ""
 
-#: includes/class-options.php:410
+#: includes/class-options.php:410 release/0.1.0/includes/class-options.php:410
+#: release/svn/includes/class-options.php:410
 msgid "Phone Number"
 msgstr ""
 
-#: includes/class-options.php:411
+#: includes/class-options.php:411 release/0.1.0/includes/class-options.php:411
+#: release/svn/includes/class-options.php:411
 msgid "Add your phone / mobile number"
 msgstr ""
 
 #: includes/class-options.php:414 includes/class-options.php:423
+#: release/0.1.0/includes/class-options.php:414
+#: release/0.1.0/includes/class-options.php:423
+#: release/svn/includes/class-options.php:414
+#: release/svn/includes/class-options.php:423
 msgid "082127602518"
 msgstr ""
 
-#: includes/class-options.php:419
+#: includes/class-options.php:419 release/0.1.0/includes/class-options.php:419
+#: release/svn/includes/class-options.php:419
 msgid "WhatsApp Number"
 msgstr ""
 
-#: includes/class-options.php:420
+#: includes/class-options.php:420 release/0.1.0/includes/class-options.php:420
+#: release/svn/includes/class-options.php:420
 msgid "Add your whatsapp number"
 msgstr ""
 
-#: includes/class-options.php:428
+#: includes/class-options.php:428 release/0.1.0/includes/class-options.php:428
+#: release/svn/includes/class-options.php:428
 msgid "WhatsApp Message"
 msgstr ""
 
-#: includes/class-options.php:429
+#: includes/class-options.php:429 release/0.1.0/includes/class-options.php:429
+#: release/svn/includes/class-options.php:429
 msgid "Add your message for whatsapp"
 msgstr ""
 
-#: includes/class-options.php:432
+#: includes/class-options.php:432 release/0.1.0/includes/class-options.php:432
+#: release/svn/includes/class-options.php:432
 msgid "Hello World"
 msgstr ""
 
-#: includes/class-options.php:437
+#: includes/class-options.php:437 release/0.1.0/includes/class-options.php:437
+#: release/svn/includes/class-options.php:437
 msgid "Display Position"
 msgstr ""
 
-#: includes/class-options.php:438
+#: includes/class-options.php:438 release/0.1.0/includes/class-options.php:438
+#: release/svn/includes/class-options.php:438
 msgid "Set display position"
 msgstr ""
 
-#: includes/class-options.php:444
+#: includes/class-options.php:444 release/0.1.0/includes/class-options.php:444
+#: release/svn/includes/class-options.php:444
 msgid "Bottom"
 msgstr ""
 
-#: includes/class-options.php:445
+#: includes/class-options.php:445 release/0.1.0/includes/class-options.php:445
+#: release/svn/includes/class-options.php:445
 msgid "Bottom Full"
 msgstr ""
 
-#: includes/class-options.php:446
+#: includes/class-options.php:446 release/0.1.0/includes/class-options.php:446
+#: release/svn/includes/class-options.php:446
 msgid "Left"
 msgstr ""
 
-#: includes/class-options.php:447
+#: includes/class-options.php:447 release/0.1.0/includes/class-options.php:447
+#: release/svn/includes/class-options.php:447
 msgid "Right"
 msgstr ""
 
-#: includes/class-options.php:448
+#: includes/class-options.php:448 release/0.1.0/includes/class-options.php:448
+#: release/svn/includes/class-options.php:448
 msgid "Bottom Left"
 msgstr ""
 
-#: includes/class-options.php:449
+#: includes/class-options.php:449 release/0.1.0/includes/class-options.php:449
+#: release/svn/includes/class-options.php:449
 msgid "Bottom Right"
 msgstr ""
 
-#: includes/class-options.php:455
+#: includes/class-options.php:455 release/0.1.0/includes/class-options.php:455
+#: release/svn/includes/class-options.php:455
 msgid "Display Icon"
 msgstr ""
 
-#: includes/class-options.php:456
+#: includes/class-options.php:456 release/0.1.0/includes/class-options.php:456
+#: release/svn/includes/class-options.php:456
 msgid "Set display icon and text"
 msgstr ""
 
-#: includes/class-options.php:462
+#: includes/class-options.php:462 release/0.1.0/includes/class-options.php:462
+#: release/svn/includes/class-options.php:462
 msgid "Icon Only"
 msgstr ""
 
-#: includes/class-options.php:463
+#: includes/class-options.php:463 release/0.1.0/includes/class-options.php:463
+#: release/svn/includes/class-options.php:463
 msgid "Icon Text"
 msgstr ""
 
 #: rdmobile.php:288
-#, php-format
 msgid ""
-"RD Mobile WordPress Plugin is missing requirements and has been <a href=\"%s"
-"\">deactivated</a>. Please make sure all requirements are available."
+"RD Mobile WordPress Plugin is missing requirements and has been <a "
+"href=\"%s\">deactivated</a>. Please make sure all requirements are "
+"available."
+msgstr ""
+
+#: release/0.1.0/rdmobile.php:288 release/svn/rdmobile.php:288
+msgid ""
+"RD Mobile Plugin is missing requirements and has been <a "
+"href=\"%s\">deactivated</a>. Please make sure all requirements are "
+"available."
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/example-functions.php:117
+#: release/svn/vendor/cmb2/example-functions.php:117
+#: vendor/cmb2/example-functions.php:117
+msgid "Test Metabox"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/example-functions.php:130
+#: release/0.1.0/vendor/cmb2/example-functions.php:452
+#: release/svn/vendor/cmb2/example-functions.php:130
+#: release/svn/vendor/cmb2/example-functions.php:452
+#: vendor/cmb2/example-functions.php:130 vendor/cmb2/example-functions.php:452
+msgid "Test Text"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/example-functions.php:131
+#: release/0.1.0/vendor/cmb2/example-functions.php:144
+#: release/0.1.0/vendor/cmb2/example-functions.php:157
+#: release/0.1.0/vendor/cmb2/example-functions.php:164
+#: release/0.1.0/vendor/cmb2/example-functions.php:177
+#: release/0.1.0/vendor/cmb2/example-functions.php:185
+#: release/0.1.0/vendor/cmb2/example-functions.php:194
+#: release/0.1.0/vendor/cmb2/example-functions.php:202
+#: release/0.1.0/vendor/cmb2/example-functions.php:217
+#: release/0.1.0/vendor/cmb2/example-functions.php:225
+#: release/0.1.0/vendor/cmb2/example-functions.php:233
+#: release/0.1.0/vendor/cmb2/example-functions.php:250
+#: release/0.1.0/vendor/cmb2/example-functions.php:259
+#: release/0.1.0/vendor/cmb2/example-functions.php:272
+#: release/0.1.0/vendor/cmb2/example-functions.php:279
+#: release/0.1.0/vendor/cmb2/example-functions.php:286
+#: release/0.1.0/vendor/cmb2/example-functions.php:300
+#: release/0.1.0/vendor/cmb2/example-functions.php:313
+#: release/0.1.0/vendor/cmb2/example-functions.php:326
+#: release/0.1.0/vendor/cmb2/example-functions.php:338
+#: release/0.1.0/vendor/cmb2/example-functions.php:347
+#: release/0.1.0/vendor/cmb2/example-functions.php:355
+#: release/0.1.0/vendor/cmb2/example-functions.php:364
+#: release/0.1.0/vendor/cmb2/example-functions.php:371
+#: release/0.1.0/vendor/cmb2/example-functions.php:385
+#: release/0.1.0/vendor/cmb2/example-functions.php:453
+#: release/0.1.0/vendor/cmb2/example-functions.php:544
+#: release/0.1.0/vendor/cmb2/example-functions.php:552
+#: release/0.1.0/vendor/cmb2/example-functions.php:559
+#: release/0.1.0/vendor/cmb2/example-functions.php:566
+#: release/0.1.0/vendor/cmb2/example-functions.php:573
+#: release/0.1.0/vendor/cmb2/example-functions.php:580
+#: release/0.1.0/vendor/cmb2/example-functions.php:587
+#: release/0.1.0/vendor/cmb2/example-functions.php:614
+#: release/0.1.0/vendor/cmb2/example-functions.php:622
+#: release/0.1.0/vendor/cmb2/example-functions.php:629
+#: release/0.1.0/vendor/cmb2/example-functions.php:666
+#: release/svn/vendor/cmb2/example-functions.php:131
+#: release/svn/vendor/cmb2/example-functions.php:144
+#: release/svn/vendor/cmb2/example-functions.php:157
+#: release/svn/vendor/cmb2/example-functions.php:164
+#: release/svn/vendor/cmb2/example-functions.php:177
+#: release/svn/vendor/cmb2/example-functions.php:185
+#: release/svn/vendor/cmb2/example-functions.php:194
+#: release/svn/vendor/cmb2/example-functions.php:202
+#: release/svn/vendor/cmb2/example-functions.php:217
+#: release/svn/vendor/cmb2/example-functions.php:225
+#: release/svn/vendor/cmb2/example-functions.php:233
+#: release/svn/vendor/cmb2/example-functions.php:250
+#: release/svn/vendor/cmb2/example-functions.php:259
+#: release/svn/vendor/cmb2/example-functions.php:272
+#: release/svn/vendor/cmb2/example-functions.php:279
+#: release/svn/vendor/cmb2/example-functions.php:286
+#: release/svn/vendor/cmb2/example-functions.php:300
+#: release/svn/vendor/cmb2/example-functions.php:313
+#: release/svn/vendor/cmb2/example-functions.php:326
+#: release/svn/vendor/cmb2/example-functions.php:338
+#: release/svn/vendor/cmb2/example-functions.php:347
+#: release/svn/vendor/cmb2/example-functions.php:355
+#: release/svn/vendor/cmb2/example-functions.php:364
+#: release/svn/vendor/cmb2/example-functions.php:371
+#: release/svn/vendor/cmb2/example-functions.php:385
+#: release/svn/vendor/cmb2/example-functions.php:453
+#: release/svn/vendor/cmb2/example-functions.php:544
+#: release/svn/vendor/cmb2/example-functions.php:552
+#: release/svn/vendor/cmb2/example-functions.php:559
+#: release/svn/vendor/cmb2/example-functions.php:566
+#: release/svn/vendor/cmb2/example-functions.php:573
+#: release/svn/vendor/cmb2/example-functions.php:580
+#: release/svn/vendor/cmb2/example-functions.php:587
+#: release/svn/vendor/cmb2/example-functions.php:614
+#: release/svn/vendor/cmb2/example-functions.php:622
+#: release/svn/vendor/cmb2/example-functions.php:629
+#: release/svn/vendor/cmb2/example-functions.php:666
+#: vendor/cmb2/example-functions.php:131 vendor/cmb2/example-functions.php:144
+#: vendor/cmb2/example-functions.php:157 vendor/cmb2/example-functions.php:164
+#: vendor/cmb2/example-functions.php:177 vendor/cmb2/example-functions.php:185
+#: vendor/cmb2/example-functions.php:194 vendor/cmb2/example-functions.php:202
+#: vendor/cmb2/example-functions.php:217 vendor/cmb2/example-functions.php:225
+#: vendor/cmb2/example-functions.php:233 vendor/cmb2/example-functions.php:250
+#: vendor/cmb2/example-functions.php:259 vendor/cmb2/example-functions.php:272
+#: vendor/cmb2/example-functions.php:279 vendor/cmb2/example-functions.php:286
+#: vendor/cmb2/example-functions.php:300 vendor/cmb2/example-functions.php:313
+#: vendor/cmb2/example-functions.php:326 vendor/cmb2/example-functions.php:338
+#: vendor/cmb2/example-functions.php:347 vendor/cmb2/example-functions.php:355
+#: vendor/cmb2/example-functions.php:364 vendor/cmb2/example-functions.php:371
+#: vendor/cmb2/example-functions.php:385 vendor/cmb2/example-functions.php:453
+#: vendor/cmb2/example-functions.php:544 vendor/cmb2/example-functions.php:552
+#: vendor/cmb2/example-functions.php:559 vendor/cmb2/example-functions.php:566
+#: vendor/cmb2/example-functions.php:573 vendor/cmb2/example-functions.php:580
+#: vendor/cmb2/example-functions.php:587 vendor/cmb2/example-functions.php:614
+#: vendor/cmb2/example-functions.php:622 vendor/cmb2/example-functions.php:629
+#: vendor/cmb2/example-functions.php:666
+msgid "field description (optional)"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/example-functions.php:143
+#: release/svn/vendor/cmb2/example-functions.php:143
+#: vendor/cmb2/example-functions.php:143
+msgid "Test Text Small"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/example-functions.php:156
+#: release/svn/vendor/cmb2/example-functions.php:156
+#: vendor/cmb2/example-functions.php:156
+msgid "Test Text Medium"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/example-functions.php:163
+#: release/svn/vendor/cmb2/example-functions.php:163
+#: vendor/cmb2/example-functions.php:163
+msgid "Read-only Disabled Field"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/example-functions.php:167
+#: release/svn/vendor/cmb2/example-functions.php:167
+#: vendor/cmb2/example-functions.php:167
+msgid "Hey there, I'm a read-only field"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/example-functions.php:176
+#: release/svn/vendor/cmb2/example-functions.php:176
+#: vendor/cmb2/example-functions.php:176
+msgid "Custom Rendered Field"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/example-functions.php:184
+#: release/svn/vendor/cmb2/example-functions.php:184
+#: vendor/cmb2/example-functions.php:184
+msgid "Website URL"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/example-functions.php:193
+#: release/svn/vendor/cmb2/example-functions.php:193
+#: vendor/cmb2/example-functions.php:193
+msgid "Test Text Email"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/example-functions.php:201
+#: release/svn/vendor/cmb2/example-functions.php:201
+#: vendor/cmb2/example-functions.php:201
+msgid "Test Time"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/example-functions.php:209
+#: release/0.1.0/vendor/cmb2/example-functions.php:210
+#: release/svn/vendor/cmb2/example-functions.php:209
+#: release/svn/vendor/cmb2/example-functions.php:210
+#: vendor/cmb2/example-functions.php:209 vendor/cmb2/example-functions.php:210
+msgid "Time zone"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/example-functions.php:216
+#: release/svn/vendor/cmb2/example-functions.php:216
+#: vendor/cmb2/example-functions.php:216
+msgid "Test Date Picker"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/example-functions.php:224
+#: release/svn/vendor/cmb2/example-functions.php:224
+#: vendor/cmb2/example-functions.php:224
+msgid "Test Date Picker (UNIX timestamp)"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/example-functions.php:232
+#: release/svn/vendor/cmb2/example-functions.php:232
+#: vendor/cmb2/example-functions.php:232
+msgid "Test Date/Time Picker Combo (UNIX timestamp)"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/example-functions.php:249
+#: release/svn/vendor/cmb2/example-functions.php:249
+#: vendor/cmb2/example-functions.php:249
+msgid "Test Money"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/example-functions.php:258
+#: release/svn/vendor/cmb2/example-functions.php:258
+#: vendor/cmb2/example-functions.php:258
+msgid "Test Color Picker"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/example-functions.php:271
+#: release/svn/vendor/cmb2/example-functions.php:271
+#: vendor/cmb2/example-functions.php:271
+msgid "Test Text Area"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/example-functions.php:278
+#: release/svn/vendor/cmb2/example-functions.php:278
+#: vendor/cmb2/example-functions.php:278
+msgid "Test Text Area Small"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/example-functions.php:285
+#: release/svn/vendor/cmb2/example-functions.php:285
+#: vendor/cmb2/example-functions.php:285
+msgid "Test Text Area for Code"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/example-functions.php:292
+#: release/svn/vendor/cmb2/example-functions.php:292
+#: vendor/cmb2/example-functions.php:292
+msgid "Test Title Weeeee"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/example-functions.php:293
+#: release/svn/vendor/cmb2/example-functions.php:293
+#: vendor/cmb2/example-functions.php:293
+msgid "This is a title description"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/example-functions.php:299
+#: release/svn/vendor/cmb2/example-functions.php:299
+#: vendor/cmb2/example-functions.php:299
+msgid "Test Select"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/example-functions.php:305
+#: release/0.1.0/vendor/cmb2/example-functions.php:318
+#: release/0.1.0/vendor/cmb2/example-functions.php:330
+#: release/svn/vendor/cmb2/example-functions.php:305
+#: release/svn/vendor/cmb2/example-functions.php:318
+#: release/svn/vendor/cmb2/example-functions.php:330
+#: vendor/cmb2/example-functions.php:305 vendor/cmb2/example-functions.php:318
+#: vendor/cmb2/example-functions.php:330
+msgid "Option One"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/example-functions.php:306
+#: release/0.1.0/vendor/cmb2/example-functions.php:319
+#: release/0.1.0/vendor/cmb2/example-functions.php:331
+#: release/svn/vendor/cmb2/example-functions.php:306
+#: release/svn/vendor/cmb2/example-functions.php:319
+#: release/svn/vendor/cmb2/example-functions.php:331
+#: vendor/cmb2/example-functions.php:306 vendor/cmb2/example-functions.php:319
+#: vendor/cmb2/example-functions.php:331
+msgid "Option Two"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/example-functions.php:307
+#: release/0.1.0/vendor/cmb2/example-functions.php:320
+#: release/0.1.0/vendor/cmb2/example-functions.php:332
+#: release/svn/vendor/cmb2/example-functions.php:307
+#: release/svn/vendor/cmb2/example-functions.php:320
+#: release/svn/vendor/cmb2/example-functions.php:332
+#: vendor/cmb2/example-functions.php:307 vendor/cmb2/example-functions.php:320
+#: vendor/cmb2/example-functions.php:332
+msgid "Option Three"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/example-functions.php:312
+#: release/svn/vendor/cmb2/example-functions.php:312
+#: vendor/cmb2/example-functions.php:312
+msgid "Test Radio inline"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/example-functions.php:325
+#: release/svn/vendor/cmb2/example-functions.php:325
+#: vendor/cmb2/example-functions.php:325
+msgid "Test Radio"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/example-functions.php:337
+#: release/svn/vendor/cmb2/example-functions.php:337
+#: vendor/cmb2/example-functions.php:337
+msgid "Test Taxonomy Radio"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/example-functions.php:346
+#: release/svn/vendor/cmb2/example-functions.php:346
+#: vendor/cmb2/example-functions.php:346
+msgid "Test Taxonomy Select"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/example-functions.php:354
+#: release/svn/vendor/cmb2/example-functions.php:354
+#: vendor/cmb2/example-functions.php:354
+msgid "Test Taxonomy Multi Checkbox"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/example-functions.php:363
+#: release/svn/vendor/cmb2/example-functions.php:363
+#: vendor/cmb2/example-functions.php:363
+msgid "Test Checkbox"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/example-functions.php:370
+#: release/svn/vendor/cmb2/example-functions.php:370
+#: vendor/cmb2/example-functions.php:370
+msgid "Test Multi Checkbox"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/example-functions.php:376
+#: release/svn/vendor/cmb2/example-functions.php:376
+#: vendor/cmb2/example-functions.php:376
+msgid "Check One"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/example-functions.php:377
+#: release/svn/vendor/cmb2/example-functions.php:377
+#: vendor/cmb2/example-functions.php:377
+msgid "Check Two"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/example-functions.php:378
+#: release/svn/vendor/cmb2/example-functions.php:378
+#: vendor/cmb2/example-functions.php:378
+msgid "Check Three"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/example-functions.php:384
+#: release/svn/vendor/cmb2/example-functions.php:384
+#: vendor/cmb2/example-functions.php:384
+msgid "Test wysiwyg"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/example-functions.php:392
+#: release/svn/vendor/cmb2/example-functions.php:392
+#: vendor/cmb2/example-functions.php:392
+msgid "Test Image"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/example-functions.php:393
+#: release/svn/vendor/cmb2/example-functions.php:393
+#: vendor/cmb2/example-functions.php:393
+msgid "Upload an image or enter a URL."
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/example-functions.php:399
+#: release/svn/vendor/cmb2/example-functions.php:399
+#: vendor/cmb2/example-functions.php:399
+msgid "Multiple Files"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/example-functions.php:400
+#: release/svn/vendor/cmb2/example-functions.php:400
+#: vendor/cmb2/example-functions.php:400
+msgid "Upload or add multiple images/attachments."
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/example-functions.php:407
+#: release/svn/vendor/cmb2/example-functions.php:407
+#: vendor/cmb2/example-functions.php:407
+msgid "oEmbed"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/example-functions.php:410
+#: release/svn/vendor/cmb2/example-functions.php:410
+#: vendor/cmb2/example-functions.php:410
+#. translators: %s: link to codex.wordpress.org/Embeds
+msgid "Enter a youtube, twitter, or instagram URL. Supports services listed at %s."
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/example-functions.php:443
+#: release/svn/vendor/cmb2/example-functions.php:443
+#: vendor/cmb2/example-functions.php:443
+msgid "About Page Metabox"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/example-functions.php:472
+#: release/svn/vendor/cmb2/example-functions.php:472
+#: vendor/cmb2/example-functions.php:472
+msgid "Repeating Field Group"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/example-functions.php:480
+#: release/svn/vendor/cmb2/example-functions.php:480
+#: vendor/cmb2/example-functions.php:480
+msgid "Generates reusable form entries"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/example-functions.php:482
+#: release/svn/vendor/cmb2/example-functions.php:482
+#: vendor/cmb2/example-functions.php:482
+msgid "Entry {#}"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/example-functions.php:483
+#: release/svn/vendor/cmb2/example-functions.php:483
+#: vendor/cmb2/example-functions.php:483
+msgid "Add Another Entry"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/example-functions.php:484
+#: release/svn/vendor/cmb2/example-functions.php:484
+#: vendor/cmb2/example-functions.php:484
+msgid "Remove Entry"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/example-functions.php:497
+#: release/svn/vendor/cmb2/example-functions.php:497
+#: vendor/cmb2/example-functions.php:497
+msgid "Entry Title"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/example-functions.php:504
+#: release/svn/vendor/cmb2/example-functions.php:504
+#: vendor/cmb2/example-functions.php:504
+msgid "Description"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/example-functions.php:505
+#: release/svn/vendor/cmb2/example-functions.php:505
+#: vendor/cmb2/example-functions.php:505
+msgid "Write a short description for this entry"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/example-functions.php:511
+#: release/svn/vendor/cmb2/example-functions.php:511
+#: vendor/cmb2/example-functions.php:511
+msgid "Entry Image"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/example-functions.php:517
+#: release/svn/vendor/cmb2/example-functions.php:517
+#: vendor/cmb2/example-functions.php:517
+msgid "Image Caption"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/example-functions.php:536
+#: release/svn/vendor/cmb2/example-functions.php:536
+#: vendor/cmb2/example-functions.php:536
+msgid "User Profile Metabox"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/example-functions.php:543
+#: release/0.1.0/vendor/cmb2/example-functions.php:613
+#: release/svn/vendor/cmb2/example-functions.php:543
+#: release/svn/vendor/cmb2/example-functions.php:613
+#: vendor/cmb2/example-functions.php:543 vendor/cmb2/example-functions.php:613
+msgid "Extra Info"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/example-functions.php:551
+#: release/svn/vendor/cmb2/example-functions.php:551
+#: vendor/cmb2/example-functions.php:551
+msgid "Avatar"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/example-functions.php:558
+#: release/svn/vendor/cmb2/example-functions.php:558
+#: vendor/cmb2/example-functions.php:558
+msgid "Facebook URL"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/example-functions.php:565
+#: release/svn/vendor/cmb2/example-functions.php:565
+#: vendor/cmb2/example-functions.php:565
+msgid "Twitter URL"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/example-functions.php:572
+#: release/svn/vendor/cmb2/example-functions.php:572
+#: vendor/cmb2/example-functions.php:572
+msgid "Google+ URL"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/example-functions.php:579
+#: release/svn/vendor/cmb2/example-functions.php:579
+#: vendor/cmb2/example-functions.php:579
+msgid "Linkedin URL"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/example-functions.php:586
+#: release/svn/vendor/cmb2/example-functions.php:586
+#: vendor/cmb2/example-functions.php:586
+msgid "User Field"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/example-functions.php:606
+#: release/svn/vendor/cmb2/example-functions.php:606
+#: vendor/cmb2/example-functions.php:606
+msgid "Category Metabox"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/example-functions.php:621
+#: release/svn/vendor/cmb2/example-functions.php:621
+#: vendor/cmb2/example-functions.php:621
+msgid "Term Image"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/example-functions.php:628
+#: release/svn/vendor/cmb2/example-functions.php:628
+#: vendor/cmb2/example-functions.php:628
+msgid "Arbitrary Term Field"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/example-functions.php:650
+#: release/svn/vendor/cmb2/example-functions.php:650
+#: vendor/cmb2/example-functions.php:650
+msgid "Theme Options Metabox"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/example-functions.php:665
+#: release/svn/vendor/cmb2/example-functions.php:665
+#: vendor/cmb2/example-functions.php:665
+msgid "Site Background Color"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/example-functions.php:701
+#: release/svn/vendor/cmb2/example-functions.php:701
+#: vendor/cmb2/example-functions.php:701
+msgid "REST Test Box"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/example-functions.php:710
+#: release/svn/vendor/cmb2/example-functions.php:710
+#: vendor/cmb2/example-functions.php:710
+msgid "REST Test Text"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/example-functions.php:711
+#: release/svn/vendor/cmb2/example-functions.php:711
+#: vendor/cmb2/example-functions.php:711
+msgid "Will show in the REST API for this box and for pages."
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/example-functions.php:717
+#: release/svn/vendor/cmb2/example-functions.php:717
+#: vendor/cmb2/example-functions.php:717
+msgid "REST Editable Test Text"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/example-functions.php:718
+#: release/svn/vendor/cmb2/example-functions.php:718
+#: vendor/cmb2/example-functions.php:718
+msgid "Will show in REST API \"editable\" contexts only (`POST` requests)."
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/includes/CMB2.php:117
+#: release/svn/vendor/cmb2/includes/CMB2.php:117
+#: vendor/cmb2/includes/CMB2.php:117
+msgid "Metabox configuration is required to have an ID parameter."
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/includes/CMB2.php:432
+#: release/svn/vendor/cmb2/includes/CMB2.php:432
+#: vendor/cmb2/includes/CMB2.php:432
+msgid "Click to toggle"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/includes/CMB2_Ajax.php:71
+#: release/svn/vendor/cmb2/includes/CMB2_Ajax.php:71
+#: vendor/cmb2/includes/CMB2_Ajax.php:71
+msgid "Please Try Again"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/includes/CMB2_Ajax.php:173
+#: release/svn/vendor/cmb2/includes/CMB2_Ajax.php:173
+#: vendor/cmb2/includes/CMB2_Ajax.php:173
+msgid "Remove Embed"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/includes/CMB2_Ajax.php:181
+#: release/0.1.0/vendor/cmb2/includes/helper-functions.php:99
+#: release/svn/vendor/cmb2/includes/CMB2_Ajax.php:181
+#: release/svn/vendor/cmb2/includes/helper-functions.php:99
+#: vendor/cmb2/includes/CMB2_Ajax.php:181
+#: vendor/cmb2/includes/helper-functions.php:99
+#. translators: 1: results for. 2: link to codex.wordpress.org/Embeds
+msgid "No oEmbed Results Found for %1$s. View more info at %2$s."
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/includes/CMB2_Base.php:389
+#: release/svn/vendor/cmb2/includes/CMB2_Base.php:389
+#: vendor/cmb2/includes/CMB2_Base.php:389
+msgid ""
+"The \"%s\" field parameter has been deprecated in favor of the \"%s\" "
+"parameter."
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/includes/CMB2_Base.php:393
+#: release/svn/vendor/cmb2/includes/CMB2_Base.php:393
+#: vendor/cmb2/includes/CMB2_Base.php:393
+msgid ""
+"Using the \"%s\" field parameter as a callback has been deprecated in favor "
+"of the \"%s\" parameter."
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/includes/CMB2_Base.php:423
+#: release/svn/vendor/cmb2/includes/CMB2_Base.php:423
+#: vendor/cmb2/includes/CMB2_Base.php:423
+msgid ""
+"%1$s was called with a parameter that is <strong>deprecated</strong> since "
+"version %2$s! %3$s"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/includes/CMB2_Base.php:426
+#: release/svn/vendor/cmb2/includes/CMB2_Base.php:426
+#: vendor/cmb2/includes/CMB2_Base.php:426
+msgid ""
+"%1$s was called with a parameter that is <strong>deprecated</strong> since "
+"version %2$s with no alternative available."
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/includes/CMB2_Base.php:459
+#: release/0.1.0/vendor/cmb2/includes/types/CMB2_Type_Base.php:138
+#: release/svn/vendor/cmb2/includes/CMB2_Base.php:459
+#: release/svn/vendor/cmb2/includes/types/CMB2_Type_Base.php:138
+#: vendor/cmb2/includes/CMB2_Base.php:459
+#: vendor/cmb2/includes/types/CMB2_Type_Base.php:138
+msgid "Invalid %1$s property: %2$s"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/includes/CMB2_Base.php:473
+#: release/0.1.0/vendor/cmb2/includes/types/CMB2_Type_Base.php:123
+#: release/svn/vendor/cmb2/includes/CMB2_Base.php:473
+#: release/svn/vendor/cmb2/includes/types/CMB2_Type_Base.php:123
+#: vendor/cmb2/includes/CMB2_Base.php:473
+#: vendor/cmb2/includes/types/CMB2_Type_Base.php:123
+msgid "Invalid %1$s method: %2$s"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/includes/CMB2_Field.php:1118
+#: release/svn/vendor/cmb2/includes/CMB2_Field.php:1118
+#: vendor/cmb2/includes/CMB2_Field.php:1118
+msgid "Add Group"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/includes/CMB2_Field.php:1119
+#: release/svn/vendor/cmb2/includes/CMB2_Field.php:1119
+#: vendor/cmb2/includes/CMB2_Field.php:1119
+msgid "Remove Group"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/includes/CMB2_Field.php:1141
+#: release/0.1.0/vendor/cmb2/includes/CMB2_Field.php:1145
+#: release/svn/vendor/cmb2/includes/CMB2_Field.php:1141
+#: release/svn/vendor/cmb2/includes/CMB2_Field.php:1145
+#: vendor/cmb2/includes/CMB2_Field.php:1141
+#: vendor/cmb2/includes/CMB2_Field.php:1145
+msgid "None"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/includes/CMB2_Field.php:1206
+#: release/svn/vendor/cmb2/includes/CMB2_Field.php:1206
+#: vendor/cmb2/includes/CMB2_Field.php:1206
+msgid "Sorry, this field does not have a cmb_id specified."
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/includes/CMB2_Field_Display.php:406
+#: release/0.1.0/vendor/cmb2/includes/CMB2_JS.php:155
+#: release/0.1.0/vendor/cmb2/includes/types/CMB2_Type_File_Base.php:75
+#: release/svn/vendor/cmb2/includes/CMB2_Field_Display.php:406
+#: release/svn/vendor/cmb2/includes/CMB2_JS.php:155
+#: release/svn/vendor/cmb2/includes/types/CMB2_Type_File_Base.php:75
+#: vendor/cmb2/includes/CMB2_Field_Display.php:406
+#: vendor/cmb2/includes/CMB2_JS.php:155
+#: vendor/cmb2/includes/types/CMB2_Type_File_Base.php:75
+msgid "File:"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/includes/CMB2_JS.php:96
+#: release/0.1.0/vendor/cmb2/includes/CMB2_JS.php:135
+#: release/svn/vendor/cmb2/includes/CMB2_JS.php:96
+#: release/svn/vendor/cmb2/includes/CMB2_JS.php:135
+#: vendor/cmb2/includes/CMB2_JS.php:96 vendor/cmb2/includes/CMB2_JS.php:135
+msgid "Clear"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/includes/CMB2_JS.php:97
+#: release/svn/vendor/cmb2/includes/CMB2_JS.php:97
+#: vendor/cmb2/includes/CMB2_JS.php:97
+msgid "Default"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/includes/CMB2_JS.php:98
+#: release/svn/vendor/cmb2/includes/CMB2_JS.php:98
+#: vendor/cmb2/includes/CMB2_JS.php:98
+msgid "Select Color"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/includes/CMB2_JS.php:99
+#: release/svn/vendor/cmb2/includes/CMB2_JS.php:99
+#: vendor/cmb2/includes/CMB2_JS.php:99
+msgid "Current Color"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/includes/CMB2_JS.php:126
+#: release/svn/vendor/cmb2/includes/CMB2_JS.php:126
+#: vendor/cmb2/includes/CMB2_JS.php:126
+msgid "Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/includes/CMB2_JS.php:127
+#: release/svn/vendor/cmb2/includes/CMB2_JS.php:127
+#: vendor/cmb2/includes/CMB2_JS.php:127
+msgid "Su, Mo, Tu, We, Th, Fr, Sa"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/includes/CMB2_JS.php:128
+#: release/svn/vendor/cmb2/includes/CMB2_JS.php:128
+#: vendor/cmb2/includes/CMB2_JS.php:128
+msgid "Sun, Mon, Tue, Wed, Thu, Fri, Sat"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/includes/CMB2_JS.php:129
+#: release/svn/vendor/cmb2/includes/CMB2_JS.php:129
+#: vendor/cmb2/includes/CMB2_JS.php:129
+msgid ""
+"January, February, March, April, May, June, July, August, September, "
+"October, November, December"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/includes/CMB2_JS.php:130
+#: release/svn/vendor/cmb2/includes/CMB2_JS.php:130
+#: vendor/cmb2/includes/CMB2_JS.php:130
+msgid "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/includes/CMB2_JS.php:131
+#: release/svn/vendor/cmb2/includes/CMB2_JS.php:131
+#: vendor/cmb2/includes/CMB2_JS.php:131
+msgid "Next"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/includes/CMB2_JS.php:132
+#: release/svn/vendor/cmb2/includes/CMB2_JS.php:132
+#: vendor/cmb2/includes/CMB2_JS.php:132
+msgid "Prev"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/includes/CMB2_JS.php:133
+#: release/svn/vendor/cmb2/includes/CMB2_JS.php:133
+#: vendor/cmb2/includes/CMB2_JS.php:133
+msgid "Today"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/includes/CMB2_JS.php:134
+#: release/0.1.0/vendor/cmb2/includes/CMB2_JS.php:144
+#: release/svn/vendor/cmb2/includes/CMB2_JS.php:134
+#: release/svn/vendor/cmb2/includes/CMB2_JS.php:144
+#: vendor/cmb2/includes/CMB2_JS.php:134 vendor/cmb2/includes/CMB2_JS.php:144
+msgid "Done"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/includes/CMB2_JS.php:138
+#: release/svn/vendor/cmb2/includes/CMB2_JS.php:138
+#: vendor/cmb2/includes/CMB2_JS.php:138
+msgid "Choose Time"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/includes/CMB2_JS.php:139
+#: release/svn/vendor/cmb2/includes/CMB2_JS.php:139
+#: vendor/cmb2/includes/CMB2_JS.php:139
+msgid "Time"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/includes/CMB2_JS.php:140
+#: release/svn/vendor/cmb2/includes/CMB2_JS.php:140
+#: vendor/cmb2/includes/CMB2_JS.php:140
+msgid "Hour"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/includes/CMB2_JS.php:141
+#: release/svn/vendor/cmb2/includes/CMB2_JS.php:141
+#: vendor/cmb2/includes/CMB2_JS.php:141
+msgid "Minute"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/includes/CMB2_JS.php:142
+#: release/svn/vendor/cmb2/includes/CMB2_JS.php:142
+#: vendor/cmb2/includes/CMB2_JS.php:142
+msgid "Second"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/includes/CMB2_JS.php:143
+#: release/svn/vendor/cmb2/includes/CMB2_JS.php:143
+#: vendor/cmb2/includes/CMB2_JS.php:143
+msgid "Now"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/includes/CMB2_JS.php:151
+#: release/svn/vendor/cmb2/includes/CMB2_JS.php:151
+#: vendor/cmb2/includes/CMB2_JS.php:151
+msgid "Use this file"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/includes/CMB2_JS.php:152
+#: release/svn/vendor/cmb2/includes/CMB2_JS.php:152
+#: vendor/cmb2/includes/CMB2_JS.php:152
+msgid "Use these files"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/includes/CMB2_JS.php:153
+#: release/0.1.0/vendor/cmb2/includes/types/CMB2_Type_File_Base.php:61
+#: release/svn/vendor/cmb2/includes/CMB2_JS.php:153
+#: release/svn/vendor/cmb2/includes/types/CMB2_Type_File_Base.php:61
+#: vendor/cmb2/includes/CMB2_JS.php:153
+#: vendor/cmb2/includes/types/CMB2_Type_File_Base.php:61
+msgid "Remove Image"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/includes/CMB2_JS.php:154
+#: release/0.1.0/vendor/cmb2/includes/CMB2_Types.php:300
+#: release/0.1.0/vendor/cmb2/includes/types/CMB2_Type_File_Base.php:80
+#: release/svn/vendor/cmb2/includes/CMB2_JS.php:154
+#: release/svn/vendor/cmb2/includes/CMB2_Types.php:300
+#: release/svn/vendor/cmb2/includes/types/CMB2_Type_File_Base.php:80
+#: vendor/cmb2/includes/CMB2_JS.php:154 vendor/cmb2/includes/CMB2_Types.php:300
+#: vendor/cmb2/includes/types/CMB2_Type_File_Base.php:80
+msgid "Remove"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/includes/CMB2_JS.php:156
+#: release/0.1.0/vendor/cmb2/includes/types/CMB2_Type_File_Base.php:78
+#: release/svn/vendor/cmb2/includes/CMB2_JS.php:156
+#: release/svn/vendor/cmb2/includes/types/CMB2_Type_File_Base.php:78
+#: vendor/cmb2/includes/CMB2_JS.php:156
+#: vendor/cmb2/includes/types/CMB2_Type_File_Base.php:78
+msgid "Download"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/includes/CMB2_JS.php:157
+#: release/svn/vendor/cmb2/includes/CMB2_JS.php:157
+#: vendor/cmb2/includes/CMB2_JS.php:157
+msgid "Select / Deselect All"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/includes/CMB2_Types.php:237
+#: release/svn/vendor/cmb2/includes/CMB2_Types.php:237
+#: vendor/cmb2/includes/CMB2_Types.php:237
+msgid "Add Row"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/includes/CMB2_hookup.php:122
+#: release/svn/vendor/cmb2/includes/CMB2_hookup.php:122
+#: vendor/cmb2/includes/CMB2_hookup.php:122
+msgid ""
+"Term Metadata is a WordPress 4.4+ feature. Please upgrade your WordPress "
+"install."
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/includes/CMB2_hookup.php:126
+#: release/svn/vendor/cmb2/includes/CMB2_hookup.php:126
+#: vendor/cmb2/includes/CMB2_hookup.php:126
+msgid "Term metaboxes configuration requires a \"taxonomies\" parameter."
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/includes/helper-functions.php:288
+#: release/svn/vendor/cmb2/includes/helper-functions.php:288
+#: vendor/cmb2/includes/helper-functions.php:288
+msgid "Save"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/includes/rest-api/CMB2_REST_Controller.php:250
+#: release/svn/vendor/cmb2/includes/rest-api/CMB2_REST_Controller.php:250
+#: vendor/cmb2/includes/rest-api/CMB2_REST_Controller.php:250
+msgid "This box does not have read permissions."
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/includes/rest-api/CMB2_REST_Controller.php:268
+#: release/svn/vendor/cmb2/includes/rest-api/CMB2_REST_Controller.php:268
+#: vendor/cmb2/includes/rest-api/CMB2_REST_Controller.php:268
+msgid "This box does not have write permissions."
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/includes/rest-api/CMB2_REST_Controller.php:289
+#: release/svn/vendor/cmb2/includes/rest-api/CMB2_REST_Controller.php:289
+#: vendor/cmb2/includes/rest-api/CMB2_REST_Controller.php:289
+msgid ""
+"No box found by that id. A box needs to be registered with the "
+"\"show_in_rest\" parameter configured."
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/includes/rest-api/CMB2_REST_Controller.php:365
+#: release/svn/vendor/cmb2/includes/rest-api/CMB2_REST_Controller.php:365
+#: vendor/cmb2/includes/rest-api/CMB2_REST_Controller.php:365
+msgid "A human-readable description of the object."
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/includes/rest-api/CMB2_REST_Controller.php:370
+#: release/svn/vendor/cmb2/includes/rest-api/CMB2_REST_Controller.php:370
+#: vendor/cmb2/includes/rest-api/CMB2_REST_Controller.php:370
+msgid "The id for the object."
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/includes/rest-api/CMB2_REST_Controller.php:375
+#: release/svn/vendor/cmb2/includes/rest-api/CMB2_REST_Controller.php:375
+#: vendor/cmb2/includes/rest-api/CMB2_REST_Controller.php:375
+msgid "The title for the object."
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/includes/rest-api/CMB2_REST_Controller_Boxes.php:50
+#: release/svn/vendor/cmb2/includes/rest-api/CMB2_REST_Controller_Boxes.php:50
+#: vendor/cmb2/includes/rest-api/CMB2_REST_Controller_Boxes.php:50
+msgid "Includes the registered fields for the box in the response."
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/includes/rest-api/CMB2_REST_Controller_Boxes.php:72
+#: release/svn/vendor/cmb2/includes/rest-api/CMB2_REST_Controller_Boxes.php:72
+#: vendor/cmb2/includes/rest-api/CMB2_REST_Controller_Boxes.php:72
+msgid ""
+"Includes the fully rendered attributes, 'form_open', 'form_close', as well "
+"as the enqueued 'js_dependencies' script handles, and 'css_dependencies' "
+"stylesheet handles."
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/includes/rest-api/CMB2_REST_Controller_Boxes.php:122
+#: release/svn/vendor/cmb2/includes/rest-api/CMB2_REST_Controller_Boxes.php:122
+#: vendor/cmb2/includes/rest-api/CMB2_REST_Controller_Boxes.php:122
+msgid "No boxes found."
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:27
+#: release/svn/vendor/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:27
+#: vendor/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:27
+msgid "Includes the box object which the fields are registered to in the response."
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:30
+#: release/svn/vendor/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:30
+#: vendor/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:30
+msgid ""
+"When the '_rendered' argument is passed, the renderable field attributes "
+"will be returned fully rendered. By default, the names of the callback "
+"handers for the renderable attributes will be returned."
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:33
+#: release/0.1.0/vendor/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:36
+#: release/svn/vendor/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:33
+#: release/svn/vendor/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:36
+#: vendor/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:33
+#: vendor/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:36
+msgid ""
+"To view or modify the field's value, the 'object_id' and 'object_type' "
+"arguments are required."
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:236
+#: release/svn/vendor/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:236
+#: vendor/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:236
+msgid "CMB2 Field value cannot be updated without the value parameter specified."
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:295
+#: release/svn/vendor/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:295
+#: vendor/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:295
+msgid ""
+"CMB2 Field value cannot be modified without the object_id and object_type "
+"parameters specified."
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:308
+#: release/0.1.0/vendor/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:335
+#: release/svn/vendor/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:308
+#: release/svn/vendor/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:335
+#: vendor/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:308
+#: vendor/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:335
+msgid "No field found by that id."
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:407
+#: release/svn/vendor/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:407
+#: vendor/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:407
+msgid "Value Error for %s"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/includes/shim/WP_REST_Controller.php:24
+#: release/svn/vendor/cmb2/includes/shim/WP_REST_Controller.php:24
+#: vendor/cmb2/includes/shim/WP_REST_Controller.php:24
+msgid "The register_routes() method must be overriden"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/includes/shim/WP_REST_Controller.php:34
+#: release/0.1.0/vendor/cmb2/includes/shim/WP_REST_Controller.php:44
+#: release/0.1.0/vendor/cmb2/includes/shim/WP_REST_Controller.php:54
+#: release/0.1.0/vendor/cmb2/includes/shim/WP_REST_Controller.php:64
+#: release/0.1.0/vendor/cmb2/includes/shim/WP_REST_Controller.php:74
+#: release/0.1.0/vendor/cmb2/includes/shim/WP_REST_Controller.php:84
+#: release/0.1.0/vendor/cmb2/includes/shim/WP_REST_Controller.php:94
+#: release/0.1.0/vendor/cmb2/includes/shim/WP_REST_Controller.php:104
+#: release/0.1.0/vendor/cmb2/includes/shim/WP_REST_Controller.php:114
+#: release/0.1.0/vendor/cmb2/includes/shim/WP_REST_Controller.php:124
+#: release/0.1.0/vendor/cmb2/includes/shim/WP_REST_Controller.php:134
+#: release/0.1.0/vendor/cmb2/includes/shim/WP_REST_Controller.php:145
+#: release/svn/vendor/cmb2/includes/shim/WP_REST_Controller.php:34
+#: release/svn/vendor/cmb2/includes/shim/WP_REST_Controller.php:44
+#: release/svn/vendor/cmb2/includes/shim/WP_REST_Controller.php:54
+#: release/svn/vendor/cmb2/includes/shim/WP_REST_Controller.php:64
+#: release/svn/vendor/cmb2/includes/shim/WP_REST_Controller.php:74
+#: release/svn/vendor/cmb2/includes/shim/WP_REST_Controller.php:84
+#: release/svn/vendor/cmb2/includes/shim/WP_REST_Controller.php:94
+#: release/svn/vendor/cmb2/includes/shim/WP_REST_Controller.php:104
+#: release/svn/vendor/cmb2/includes/shim/WP_REST_Controller.php:114
+#: release/svn/vendor/cmb2/includes/shim/WP_REST_Controller.php:124
+#: release/svn/vendor/cmb2/includes/shim/WP_REST_Controller.php:134
+#: release/svn/vendor/cmb2/includes/shim/WP_REST_Controller.php:145
+#: vendor/cmb2/includes/shim/WP_REST_Controller.php:34
+#: vendor/cmb2/includes/shim/WP_REST_Controller.php:44
+#: vendor/cmb2/includes/shim/WP_REST_Controller.php:54
+#: vendor/cmb2/includes/shim/WP_REST_Controller.php:64
+#: vendor/cmb2/includes/shim/WP_REST_Controller.php:74
+#: vendor/cmb2/includes/shim/WP_REST_Controller.php:84
+#: vendor/cmb2/includes/shim/WP_REST_Controller.php:94
+#: vendor/cmb2/includes/shim/WP_REST_Controller.php:104
+#: vendor/cmb2/includes/shim/WP_REST_Controller.php:114
+#: vendor/cmb2/includes/shim/WP_REST_Controller.php:124
+#: vendor/cmb2/includes/shim/WP_REST_Controller.php:134
+#: vendor/cmb2/includes/shim/WP_REST_Controller.php:145
+msgid "Method '%s' not implemented. Must be over-ridden in subclass."
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/includes/shim/WP_REST_Controller.php:248
+#: release/svn/vendor/cmb2/includes/shim/WP_REST_Controller.php:248
+#: vendor/cmb2/includes/shim/WP_REST_Controller.php:248
+msgid "Current page of the collection."
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/includes/shim/WP_REST_Controller.php:256
+#: release/svn/vendor/cmb2/includes/shim/WP_REST_Controller.php:256
+#: vendor/cmb2/includes/shim/WP_REST_Controller.php:256
+msgid "Maximum number of items to be returned in result set."
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/includes/shim/WP_REST_Controller.php:265
+#: release/svn/vendor/cmb2/includes/shim/WP_REST_Controller.php:265
+#: vendor/cmb2/includes/shim/WP_REST_Controller.php:265
+msgid "Limit results to those matching a string."
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/includes/shim/WP_REST_Controller.php:283
+#: release/svn/vendor/cmb2/includes/shim/WP_REST_Controller.php:283
+#: vendor/cmb2/includes/shim/WP_REST_Controller.php:283
+msgid ""
+"Scope under which the request is made; determines fields present in "
+"response."
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/includes/types/CMB2_Type_File.php:36
+#: release/svn/vendor/cmb2/includes/types/CMB2_Type_File.php:36
+#: vendor/cmb2/includes/types/CMB2_Type_File.php:36
+msgid "Add or Upload File"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/includes/types/CMB2_Type_File_List.php:36
+#: release/svn/vendor/cmb2/includes/types/CMB2_Type_File_List.php:36
+#: vendor/cmb2/includes/types/CMB2_Type_File_List.php:36
+msgid "Add or Upload Files"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/includes/types/CMB2_Type_Taxonomy_Multicheck.php:27
+#: release/0.1.0/vendor/cmb2/includes/types/CMB2_Type_Taxonomy_Radio.php:25
+#: release/svn/vendor/cmb2/includes/types/CMB2_Type_Taxonomy_Multicheck.php:27
+#: release/svn/vendor/cmb2/includes/types/CMB2_Type_Taxonomy_Radio.php:25
+#: vendor/cmb2/includes/types/CMB2_Type_Taxonomy_Multicheck.php:27
+#: vendor/cmb2/includes/types/CMB2_Type_Taxonomy_Radio.php:25
+msgid "No terms"
+msgstr ""
+
+#: release/0.1.0/vendor/cpt-core/CPT_Core.php:77
+#: release/0.1.0/vendor/cpt-core/CPT_Core.php:81
+#: release/0.1.0/vendor/cpt-core/CPT_Core.php:85
+#: release/svn/vendor/cpt-core/CPT_Core.php:77
+#: release/svn/vendor/cpt-core/CPT_Core.php:81
+#: release/svn/vendor/cpt-core/CPT_Core.php:85 vendor/cpt-core/CPT_Core.php:77
+#: vendor/cpt-core/CPT_Core.php:81 vendor/cpt-core/CPT_Core.php:85
+msgid "It is required to pass a single, plural and slug string to CPT_Core"
+msgstr ""
+
+#: release/0.1.0/vendor/cpt-core/CPT_Core.php:135
+#: release/0.1.0/vendor/cpt-core/CPT_Core.php:136
+#: release/0.1.0/vendor/taxonomy-core/Taxonomy_Core.php:131
+#: release/svn/vendor/cpt-core/CPT_Core.php:135
+#: release/svn/vendor/cpt-core/CPT_Core.php:136
+#: release/svn/vendor/taxonomy-core/Taxonomy_Core.php:131
+#: vendor/cpt-core/CPT_Core.php:135 vendor/cpt-core/CPT_Core.php:136
+#: vendor/taxonomy-core/Taxonomy_Core.php:131
+msgid "Add New %s"
+msgstr ""
+
+#: release/0.1.0/vendor/cpt-core/CPT_Core.php:137
+#: release/0.1.0/vendor/taxonomy-core/Taxonomy_Core.php:128
+#: release/svn/vendor/cpt-core/CPT_Core.php:137
+#: release/svn/vendor/taxonomy-core/Taxonomy_Core.php:128
+#: vendor/cpt-core/CPT_Core.php:137 vendor/taxonomy-core/Taxonomy_Core.php:128
+msgid "Edit %s"
+msgstr ""
+
+#: release/0.1.0/vendor/cpt-core/CPT_Core.php:138
+#: release/svn/vendor/cpt-core/CPT_Core.php:138
+#: vendor/cpt-core/CPT_Core.php:138
+msgid "New %s"
+msgstr ""
+
+#: release/0.1.0/vendor/cpt-core/CPT_Core.php:139
+#: release/0.1.0/vendor/taxonomy-core/Taxonomy_Core.php:127
+#: release/svn/vendor/cpt-core/CPT_Core.php:139
+#: release/svn/vendor/taxonomy-core/Taxonomy_Core.php:127
+#: vendor/cpt-core/CPT_Core.php:139 vendor/taxonomy-core/Taxonomy_Core.php:127
+msgid "All %s"
+msgstr ""
+
+#: release/0.1.0/vendor/cpt-core/CPT_Core.php:140
+#: release/0.1.0/vendor/taxonomy-core/Taxonomy_Core.php:129
+#: release/svn/vendor/cpt-core/CPT_Core.php:140
+#: release/svn/vendor/taxonomy-core/Taxonomy_Core.php:129
+#: vendor/cpt-core/CPT_Core.php:140 vendor/taxonomy-core/Taxonomy_Core.php:129
+msgid "View %s"
+msgstr ""
+
+#: release/0.1.0/vendor/cpt-core/CPT_Core.php:141
+#: release/0.1.0/vendor/taxonomy-core/Taxonomy_Core.php:126
+#: release/svn/vendor/cpt-core/CPT_Core.php:141
+#: release/svn/vendor/taxonomy-core/Taxonomy_Core.php:126
+#: vendor/cpt-core/CPT_Core.php:141 vendor/taxonomy-core/Taxonomy_Core.php:126
+msgid "Search %s"
+msgstr ""
+
+#: release/0.1.0/vendor/cpt-core/CPT_Core.php:142
+#: release/0.1.0/vendor/taxonomy-core/Taxonomy_Core.php:134
+#: release/svn/vendor/cpt-core/CPT_Core.php:142
+#: release/svn/vendor/taxonomy-core/Taxonomy_Core.php:134
+#: vendor/cpt-core/CPT_Core.php:142 vendor/taxonomy-core/Taxonomy_Core.php:134
+msgid "No %s"
+msgstr ""
+
+#: release/0.1.0/vendor/cpt-core/CPT_Core.php:143
+#: release/svn/vendor/cpt-core/CPT_Core.php:143
+#: vendor/cpt-core/CPT_Core.php:143
+msgid "No %s found in Trash"
+msgstr ""
+
+#: release/0.1.0/vendor/cpt-core/CPT_Core.php:144
+#: release/0.1.0/vendor/taxonomy-core/Taxonomy_Core.php:138
+#: release/svn/vendor/cpt-core/CPT_Core.php:144
+#: release/svn/vendor/taxonomy-core/Taxonomy_Core.php:138
+#: vendor/cpt-core/CPT_Core.php:144 vendor/taxonomy-core/Taxonomy_Core.php:138
+msgid "Parent %s:"
+msgstr ""
+
+#: release/0.1.0/vendor/cpt-core/CPT_Core.php:146
+#: release/svn/vendor/cpt-core/CPT_Core.php:146
+#: vendor/cpt-core/CPT_Core.php:146
+msgid "Insert into %s"
+msgstr ""
+
+#: release/0.1.0/vendor/cpt-core/CPT_Core.php:147
+#: release/svn/vendor/cpt-core/CPT_Core.php:147
+#: vendor/cpt-core/CPT_Core.php:147
+msgid "Uploaded to this %s"
+msgstr ""
+
+#: release/0.1.0/vendor/cpt-core/CPT_Core.php:148
+#: release/svn/vendor/cpt-core/CPT_Core.php:148
+#: vendor/cpt-core/CPT_Core.php:148
+msgid "%s list"
+msgstr ""
+
+#: release/0.1.0/vendor/cpt-core/CPT_Core.php:149
+#: release/svn/vendor/cpt-core/CPT_Core.php:149
+#: vendor/cpt-core/CPT_Core.php:149
+msgid "%s list navigation"
+msgstr ""
+
+#: release/0.1.0/vendor/cpt-core/CPT_Core.php:150
+#: release/svn/vendor/cpt-core/CPT_Core.php:150
+#: vendor/cpt-core/CPT_Core.php:150
+msgid "Filter %s list"
+msgstr ""
+
+#: release/0.1.0/vendor/cpt-core/CPT_Core.php:200
+#: release/svn/vendor/cpt-core/CPT_Core.php:200
+#: vendor/cpt-core/CPT_Core.php:200
+msgid "Custom field updated."
+msgstr ""
+
+#: release/0.1.0/vendor/cpt-core/CPT_Core.php:201
+#: release/svn/vendor/cpt-core/CPT_Core.php:201
+#: vendor/cpt-core/CPT_Core.php:201
+msgid "Custom field deleted."
+msgstr ""
+
+#: release/0.1.0/vendor/cpt-core/CPT_Core.php:202
+#: release/0.1.0/vendor/cpt-core/CPT_Core.php:219
+#: release/svn/vendor/cpt-core/CPT_Core.php:202
+#: release/svn/vendor/cpt-core/CPT_Core.php:219
+#: vendor/cpt-core/CPT_Core.php:202 vendor/cpt-core/CPT_Core.php:219
+msgid "%1$s updated."
+msgstr ""
+
+#: release/0.1.0/vendor/cpt-core/CPT_Core.php:204
+#: release/svn/vendor/cpt-core/CPT_Core.php:204
+#: vendor/cpt-core/CPT_Core.php:204
+#. translators: %s: date and time of the revision
+msgid "%1$s restored to revision from %2$s"
+msgstr ""
+
+#: release/0.1.0/vendor/cpt-core/CPT_Core.php:205
+#: release/svn/vendor/cpt-core/CPT_Core.php:205
+#: vendor/cpt-core/CPT_Core.php:205
+msgid "%1$s saved."
+msgstr ""
+
+#: release/0.1.0/vendor/cpt-core/CPT_Core.php:210
+#: release/svn/vendor/cpt-core/CPT_Core.php:210
+#: vendor/cpt-core/CPT_Core.php:210
+msgid "%1$s updated. <a href=\"%2$s\">View %1$s</a>"
+msgstr ""
+
+#: release/0.1.0/vendor/cpt-core/CPT_Core.php:211
+#: release/svn/vendor/cpt-core/CPT_Core.php:211
+#: vendor/cpt-core/CPT_Core.php:211
+msgid "%1$s published. <a href=\"%2$s\">View %1$s</a>"
+msgstr ""
+
+#: release/0.1.0/vendor/cpt-core/CPT_Core.php:212
+#: release/svn/vendor/cpt-core/CPT_Core.php:212
+#: vendor/cpt-core/CPT_Core.php:212
+msgid "%1$s submitted. <a target=\"_blank\" href=\"%2$s\">Preview %1$s</a>"
+msgstr ""
+
+#: release/0.1.0/vendor/cpt-core/CPT_Core.php:214
+#: release/svn/vendor/cpt-core/CPT_Core.php:214
+#: vendor/cpt-core/CPT_Core.php:214
+#. translators: Publish box date format, see http:php.net/date
+msgid ""
+"%1$s scheduled for: <strong>%2$s</strong>. <a target=\"_blank\" "
+"href=\"%3$s\">Preview %1$s</a>"
+msgstr ""
+
+#: release/0.1.0/vendor/cpt-core/CPT_Core.php:214
+#: release/0.1.0/vendor/cpt-core/CPT_Core.php:223
+#: release/svn/vendor/cpt-core/CPT_Core.php:214
+#: release/svn/vendor/cpt-core/CPT_Core.php:223
+#: vendor/cpt-core/CPT_Core.php:214 vendor/cpt-core/CPT_Core.php:223
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: release/0.1.0/vendor/cpt-core/CPT_Core.php:215
+#: release/svn/vendor/cpt-core/CPT_Core.php:215
+#: vendor/cpt-core/CPT_Core.php:215
+msgid "%1$s draft updated. <a target=\"_blank\" href=\"%2$s\">Preview %1$s</a>"
+msgstr ""
+
+#: release/0.1.0/vendor/cpt-core/CPT_Core.php:220
+#: release/svn/vendor/cpt-core/CPT_Core.php:220
+#: vendor/cpt-core/CPT_Core.php:220
+msgid "%1$s published."
+msgstr ""
+
+#: release/0.1.0/vendor/cpt-core/CPT_Core.php:221
+#: release/svn/vendor/cpt-core/CPT_Core.php:221
+#: vendor/cpt-core/CPT_Core.php:221
+msgid "%1$s submitted."
+msgstr ""
+
+#: release/0.1.0/vendor/cpt-core/CPT_Core.php:223
+#: release/svn/vendor/cpt-core/CPT_Core.php:223
+#: vendor/cpt-core/CPT_Core.php:223
+#. translators: Publish box date format, see http:php.net/date
+msgid "%1$s scheduled for: <strong>%2$s</strong>."
+msgstr ""
+
+#: release/0.1.0/vendor/cpt-core/CPT_Core.php:224
+#: release/svn/vendor/cpt-core/CPT_Core.php:224
+#: vendor/cpt-core/CPT_Core.php:224
+msgid "%1$s draft updated."
+msgstr ""
+
+#: release/0.1.0/vendor/cpt-core/CPT_Core.php:242
+#: release/svn/vendor/cpt-core/CPT_Core.php:242
+#: vendor/cpt-core/CPT_Core.php:242
+msgid "%1$s %2$s updated."
+msgid_plural "%1$s %3$s updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: release/0.1.0/vendor/cpt-core/CPT_Core.php:243
+#: release/svn/vendor/cpt-core/CPT_Core.php:243
+#: vendor/cpt-core/CPT_Core.php:243
+msgid "%1$s %2$s not updated, somebody is editing it."
+msgid_plural "%1$s %3$s not updated, somebody is editing them."
+msgstr[0] ""
+msgstr[1] ""
+
+#: release/0.1.0/vendor/cpt-core/CPT_Core.php:244
+#: release/svn/vendor/cpt-core/CPT_Core.php:244
+#: vendor/cpt-core/CPT_Core.php:244
+msgid "%1$s %2$s permanently deleted."
+msgid_plural "%1$s %3$s permanently deleted."
+msgstr[0] ""
+msgstr[1] ""
+
+#: release/0.1.0/vendor/cpt-core/CPT_Core.php:245
+#: release/svn/vendor/cpt-core/CPT_Core.php:245
+#: vendor/cpt-core/CPT_Core.php:245
+msgid "%1$s %2$s moved to the Trash."
+msgid_plural "%1$s %3$s moved to the Trash."
+msgstr[0] ""
+msgstr[1] ""
+
+#: release/0.1.0/vendor/cpt-core/CPT_Core.php:246
+#: release/svn/vendor/cpt-core/CPT_Core.php:246
+#: vendor/cpt-core/CPT_Core.php:246
+msgid "%1$s %2$s restored from the Trash."
+msgid_plural "%1$s %3$s restored from the Trash."
+msgstr[0] ""
+msgstr[1] ""
+
+#: release/0.1.0/vendor/cpt-core/CPT_Core.php:292
+#: release/svn/vendor/cpt-core/CPT_Core.php:292
+#: vendor/cpt-core/CPT_Core.php:292
+msgid "%s Title"
+msgstr ""
+
+#: release/0.1.0/vendor/taxonomy-core/Taxonomy_Core.php:84
+#: release/0.1.0/vendor/taxonomy-core/Taxonomy_Core.php:88
+#: release/0.1.0/vendor/taxonomy-core/Taxonomy_Core.php:92
+#: release/svn/vendor/taxonomy-core/Taxonomy_Core.php:84
+#: release/svn/vendor/taxonomy-core/Taxonomy_Core.php:88
+#: release/svn/vendor/taxonomy-core/Taxonomy_Core.php:92
+#: vendor/taxonomy-core/Taxonomy_Core.php:84
+#: vendor/taxonomy-core/Taxonomy_Core.php:88
+#: vendor/taxonomy-core/Taxonomy_Core.php:92
+msgid "It is required to pass a single, plural and slug string to Taxonomy_Core"
+msgstr ""
+
+#: release/0.1.0/vendor/taxonomy-core/Taxonomy_Core.php:130
+#: release/svn/vendor/taxonomy-core/Taxonomy_Core.php:130
+#: vendor/taxonomy-core/Taxonomy_Core.php:130
+msgid "Update %s"
+msgstr ""
+
+#: release/0.1.0/vendor/taxonomy-core/Taxonomy_Core.php:132
+#: release/svn/vendor/taxonomy-core/Taxonomy_Core.php:132
+#: vendor/taxonomy-core/Taxonomy_Core.php:132
+msgid "New %s Name"
+msgstr ""
+
+#: release/0.1.0/vendor/taxonomy-core/Taxonomy_Core.php:133
+#: release/svn/vendor/taxonomy-core/Taxonomy_Core.php:133
+#: vendor/taxonomy-core/Taxonomy_Core.php:133
+msgid "No %s found."
+msgstr ""
+
+#: release/0.1.0/vendor/taxonomy-core/Taxonomy_Core.php:137
+#: release/svn/vendor/taxonomy-core/Taxonomy_Core.php:137
+#: vendor/taxonomy-core/Taxonomy_Core.php:137
+msgid "Parent %s"
+msgstr ""
+
+#: release/0.1.0/vendor/taxonomy-core/Taxonomy_Core.php:141
+#: release/svn/vendor/taxonomy-core/Taxonomy_Core.php:141
+#: vendor/taxonomy-core/Taxonomy_Core.php:141
+msgid "Popular %s"
+msgstr ""
+
+#: release/0.1.0/vendor/taxonomy-core/Taxonomy_Core.php:142
+#: release/svn/vendor/taxonomy-core/Taxonomy_Core.php:142
+#: vendor/taxonomy-core/Taxonomy_Core.php:142
+msgid "Separate %s with commas"
+msgstr ""
+
+#: release/0.1.0/vendor/taxonomy-core/Taxonomy_Core.php:143
+#: release/svn/vendor/taxonomy-core/Taxonomy_Core.php:143
+#: vendor/taxonomy-core/Taxonomy_Core.php:143
+msgid "Add or remove %s"
+msgstr ""
+
+#: release/0.1.0/vendor/taxonomy-core/Taxonomy_Core.php:144
+#: release/svn/vendor/taxonomy-core/Taxonomy_Core.php:144
+#: vendor/taxonomy-core/Taxonomy_Core.php:144
+msgid "Choose from the most used %s"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://reezhdesign.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"RD Mobile WordPress Plugin, add Phone and WhatsApp button for website in "
+"mobile view. Accelerate more Call to Action from your website."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "ReeZh Design"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/includes/CMB2_JS.php:125
+#: release/svn/vendor/cmb2/includes/CMB2_JS.php:125
+#: vendor/cmb2/includes/CMB2_JS.php:125
+msgctxt "Valid formatDate string for jquery-ui datepicker"
+msgid "mm/dd/yy"
+msgstr ""
+
+#: release/0.1.0/vendor/cmb2/includes/CMB2_JS.php:145
+#: release/svn/vendor/cmb2/includes/CMB2_JS.php:145
+#: vendor/cmb2/includes/CMB2_JS.php:145
+msgctxt ""
+"Valid formatting string, as per "
+"http://trentrichardson.com/examples/timepicker/"
+msgid "hh:mm TT"
 msgstr ""
